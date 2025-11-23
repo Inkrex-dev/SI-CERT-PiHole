@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-22 01:53:52 UTC
+# Updated: 2025-11-23 02:18:44 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -814,6 +814,7 @@ infotiga.com
 infurhsbe.online
 inkamerch.pe
 inkbm.com
+innovation.becoming-group.com
 inobra.ar
 inproseal.pe
 inseselectronicsecurity.com
@@ -1616,6 +1617,7 @@ vm1-service.nl
 vmadministation.com
 vns-telecom.com
 vo.la
+voeux2023.becoming-group.com
 vopawub.cfd
 voxlivenow.com
 voxlivepro.com
