@@ -16,7 +16,7 @@ This repository contains a Pi-hole blocklist generated from SI-CERT's phishing U
 
 To add the domain blocklist to your Pi-hole, add this URL in your Pi-hole's blocklist settings:
 ```
-https://raw.githubusercontent.com/Jan-Fcloud/SI-CERT-PiHole/main/blocklist_domains.txt
+https://raw.githubusercontent.com/Inkrex-dev/SI-CERT-PiHole/refs/heads/main/blocklist_domains.txt
 ```
 
 ### Regex Blocklist
