@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-24 02:06:47 UTC
+# Updated: 2025-11-25 01:59:51 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -511,6 +511,7 @@ email.mg.outvio.com
 email.providers.digital
 email.sendvio.chilliapps.com
 email.walletepay.com
+email6.zeusheight.top
 email9.toretgun.top
 emailman.zumaworks.top
 emailport.dandalion.top
@@ -627,6 +628,8 @@ gls.id09876.com
 gls.id4973.com
 gls.id78493.com
 gls.id7904.cfd
+gls.id819271.click
+gls.id819281.info
 gls.id8940.cfd
 gls.id90409.sbs
 gls.id91074.com
@@ -659,6 +662,7 @@ gls.order86086.live
 gls.order86098.com
 gls.order86099.com
 gls.order86105.com
+gls.page231445.cfd
 gls.prejemdenarja0.icu
 gls.receive-funds.sbs
 gls.receive-g.com
@@ -1086,6 +1090,7 @@ nlbapph.com
 nlbauth.com
 nlbclick.com
 nlbfinance.com
+nlbgroupeserv.com
 nlbklick.budokan-bd.de
 nlbkliik-si.com
 nlbklik-02-20-gl.on-eu.icu
@@ -1330,6 +1335,7 @@ pub-ac68e5ertdtfemm-jp.gs
 pub-gtx234ty57t7ygty8g66fgh756758h7h-com.li
 purexwror.us
 pwallsolutions.co.za
+pyserive1.goodgarysmartprojects.co.za
 q-r.to
 q9fb3bb05aa7.freewebhostmost.com
 qad.cooteacher.org
