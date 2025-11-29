@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-28 01:57:27 UTC
+# Updated: 2025-11-29 01:57:04 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -333,6 +333,7 @@ business.help-managecontact.com
 bwfairfieldhotel.com
 c3646bde3f7.freewebhostmost.com
 c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
+cadaverine.tehillsglobal.com
 cafedesafari.com
 caja-ahorros.silice.si
 call_domainname_here.acafdxiaharbor.com
@@ -428,6 +429,7 @@ dermahopeperu.com
 desentupidora.pro.br
 desirsdereves.com
 desokupamos.es
+despachosoto.com
 devsitebrt.brtloja.com.br
 dgpj.cv
 dgvglc.quantibright.com
@@ -738,6 +740,7 @@ h2roilqas.com
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 hagelstein.me
 hal-cert.com
+hal-ecert.com
 halcert.com
 halcom-eu.com
 halcom-finance.com
@@ -883,6 +886,7 @@ kbm24h.net
 kbm365i.net
 kbmOTP.com
 kbmOTP.net
+kbmotp1.net
 kdlagroindustries.com
 kecunip.com
 keepo.io
@@ -918,6 +922,7 @@ lawyergrowthsummits.com
 lccwv.info
 ledger-livestart-support.online
 ledger.com-recovery.com
+legalize.ph
 legaz.es
 leovigueraye.info
 lgrouptg.com
@@ -1015,6 +1020,7 @@ mojaposta.top
 mojasparkasa.com
 mojgls.490192.live
 mojgls.bskrbi.si
+mojgls.id909301.com
 mojgls.id94910.si
 mojgls.id98527.live
 mojgls.id98539.live
