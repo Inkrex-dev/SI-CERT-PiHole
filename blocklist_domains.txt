@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-29 01:57:04 UTC
+# Updated: 2025-11-30 02:11:29 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -608,6 +608,7 @@ gbkr24.com
 gbkr365dni.com
 gcm.wucitra.firm.in
 gdp.diocesedecrato.org
+gdx.io
 getvrork.us
 geweb.info
 ghamdamn671xkaz.graficosdm.com.uy
