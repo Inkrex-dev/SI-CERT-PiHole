@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-30 02:11:29 UTC
+# Updated: 2025-12-01 02:25:49 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1094,6 +1094,7 @@ nkbmsidsid.com
 nkmbe.com
 nkwebsolutions.nl
 nlb-banka-online.com
+nlb-si.cfd
 nlb-si3.site
 nlb-si4.site
 nlb.jasuma-austindo.com
