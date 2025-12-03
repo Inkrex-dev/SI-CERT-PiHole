@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-02 02:02:15 UTC
+# Updated: 2025-12-03 02:01:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -256,6 +256,7 @@ bolha.bolha.site
 bolha.brezskrbi.com
 bolha.deliscr.com
 bolha.delivery-id5712.com
+bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
 bolha.id81927.click
@@ -963,6 +964,7 @@ m365.com.cloud.lvps999.xyz
 m4o.orvexture.com
 madbir4u.co.il
 maewaks.co.ke
+mailbox-settings-update.s3.eu-central-3.ionoscloud.com
 mailwebmails.com
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
@@ -1144,6 +1146,7 @@ notafiscal.from-ga.com
 novakaolwastrabo.com
 novalbslovenia.com
 novaljubljanksa.com
+novaljubljanska.com
 novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
 novaljubljanskabankadd.com
@@ -1193,6 +1196,7 @@ oramco.pk
 ordertakemoneysoulfood.com
 otakkanan.co.id
 otp-banka.mojawebka.eu
+otp-login.cfd
 otp-racunovodstvo.com
 otp-verify.online
 otp24sl.com
