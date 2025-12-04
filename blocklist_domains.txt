@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-03 02:01:58 UTC
+# Updated: 2025-12-04 02:02:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -628,6 +628,8 @@ gls-sl.id8182957.info
 gls.a-sends.sbs
 gls.bload.eu
 gls.click-select689.com
+gls.delivery-link7267.icu
+gls.dostava-link2829.icu
 gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
@@ -985,6 +987,7 @@ marsvenus-login.microsoftonline.dpfraizj.click
 marsvenus-login.microsoftonline.tgbixubijgwle.click
 masterdealer.us
 mawaddahcode.com
+mbank-si.cfd
 mclayceramic.com
 mdejq4mh.dreamwp.com
 mdtile.ca
@@ -1708,6 +1711,7 @@ www.conqcook.com
 www.digitalcrossways.com
 www.dinalislam.com.bn
 www.ellencookephotography.com
+www.eloterjja.si
 www.eniclic.com
 www.eskb.net
 www.fcommu70.com.ng
@@ -1777,5 +1781,6 @@ yuvahallabol.in
 yuyetrtetee-uyeteuej-ueydjdd-yteyhdjd.online
 zerodwaixt.us
 zfrmz.com
+zhinchafoods-ftu.mdbgo.io
 zkwmbsqdoa.icu
 zucowidpy.online
