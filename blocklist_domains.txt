@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-05 02:03:06 UTC
+# Updated: 2025-12-06 01:56:40 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -23,6 +23,7 @@
 1724121522.impactomineracao.com.br
 17565a56d70c847e87d040960f2086ca.divinestore.it
 176.223.165.104
+185.8.105.220
 185.80.129.110
 192.3.255.144
 192.3.255.176
@@ -173,6 +174,7 @@ atlanticityplay.com.pe
 atplink.com
 audimedsaude.com.br
 auth.skb.net-bankarotp.cloudns.be
+authenticate-secure-id-f675a3d1-f7df-4f35-85dd-964e6.appwrite.network
 authline-checkappr0v.com.es
 auths.yctn-tw.com
 autodiscover-exch09.0-111-70.biz
@@ -533,6 +535,7 @@ enwus.com
 epicos.co.in
 eqe.marsvenus.si
 erc02.cfd
+esc0mmerce.eu
 estafeeta.ink
 estebanveguer.com
 eu-otpinskb.com
@@ -1243,6 +1246,7 @@ pkmaza.com
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
 podkastrsuite.com
+pointonecorp.gapinc.sbs
 polskawatrchingfilms.com
 pontodasferragensgru.com.br
 poosts.life
@@ -1363,6 +1367,7 @@ prwsso6jl1moat9npgf4.groupsorlink.com
 ptotsisi.top
 pub-ac68e5ertdtfemm-jp.gs
 pub-gtx234ty57t7ygty8g66fgh756758h7h-com.li
+pull.gaistaicrai.digital
 purexwror.us
 pwallsolutions.co.za
 pyserive1.goodgarysmartprojects.co.za
@@ -1645,6 +1650,7 @@ vhyvcisrwb.mvwooddesigners.pe
 viajesencruceros.grandtours.com.pa
 vibenexusit.ru
 view.bbsv4.net
+virs.grupoalanared.com
 vizcachagames.com
 vizyonbilgiislem.com
 vkny5ctdkwbp3jg6.automatenwelt-cl.de
@@ -1669,6 +1675,7 @@ webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
 webmail-autho.ifuqin.com
 webmail-login.authsmxserver.dev
+webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
 webmail-oauthblk.bodinecc.com
 webmail.adawliah.com.sa
 webmail.authslrc.com
