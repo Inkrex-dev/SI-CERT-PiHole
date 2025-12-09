@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-08 02:04:00 UTC
+# Updated: 2025-12-09 02:03:00 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -261,7 +261,9 @@ bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.id797328.info
 bolha.id81927.click
+bolha.id819271.info
 bolha.id9161.click
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
@@ -646,6 +648,7 @@ gls.id7182715.info
 gls.id78493.com
 gls.id7904.cfd
 gls.id819271.click
+gls.id819271.info
 gls.id819281.info
 gls.id8940.cfd
 gls.id90409.sbs
@@ -1036,6 +1039,7 @@ mojasparkasa.com
 mojgls.490192.live
 mojgls.bskrbi.si
 mojgls.id909301.com
+mojgls.id93028.com
 mojgls.id94910.si
 mojgls.id98527.live
 mojgls.id98539.live
@@ -1108,6 +1112,7 @@ nkbmsidsid.com
 nkmbe.com
 nkwebsolutions.nl
 nlb-banka-online.com
+nlb-klik.lat
 nlb-si.cfd
 nlb-si3.site
 nlb-si4.site
