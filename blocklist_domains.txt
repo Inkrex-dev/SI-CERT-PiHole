@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-09 02:03:00 UTC
+# Updated: 2025-12-10 02:04:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -20,6 +20,7 @@
 13bweb.info
 141.98.10.21
 1482821376.impactomineracao.com.br
+15811453bd61727b27d2e405388ff002.autodromomodena.com
 1724121522.impactomineracao.com.br
 17565a56d70c847e87d040960f2086ca.divinestore.it
 176.223.165.104
@@ -359,6 +360,7 @@ centrodesgios.sviluppo.host
 channelwebtech.com
 chccs.co.uk
 checkifbot.digital
+checkout-customer.in-b--o---x.com
 cheksapoto.com
 chicstyle123.com
 chopefoundation.co.za
@@ -459,6 +461,7 @@ dinabloom.com
 dinlbsiportl.com
 divemastermergulho.com
 divernastermergulho.com
+djc1syp3i78huv1f.grind-pvc.com
 dkpostfirst.info
 dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
@@ -782,6 +785,7 @@ help-centersacoount.com
 help.supproosst.tokyo
 help.supprrosrstt.tokyo
 helpdesk.syntoviax.com
+helper.surveychmerms.com
 het.antoniaworld.com
 hfheygfyhfgfg.pescasporta.com
 hibuxyukse.brababetjogo.com
@@ -1634,6 +1638,7 @@ user.manage.wix.pawsparlour.com
 user.manager.wix.soriahview.uk
 users.manage.florenceoregon.net
 usersbilling.digital
+userswix-com-signin.ardebouw.com
 userswix-login-logincompname.mountainspavillaplaz.com
 uukrposhta.icu
 valena.ro
