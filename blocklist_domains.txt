@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-10 02:04:58 UTC
+# Updated: 2025-12-11 02:06:30 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -434,6 +434,7 @@ de2b339ee2dfbdd4e62693bae61a2087.frank-fahner.de
 dederrer.com
 defendriver.com
 deflixog.cc
+deltahairsalon.net
 dermahopeperu.com
 desentupidora.pro.br
 desirsdereves.com
@@ -760,6 +761,7 @@ hagelstein.me
 hal-cert.com
 hal-cert.net
 hal-ecert.com
+hal-si.net
 halcert.com
 halcom-eu.com
 halcom-finance.com
@@ -1204,6 +1206,7 @@ online.otpbankaid.digital
 online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
+openai.secureiazone.sbs
 oplevxperten.one
 optba.com
 optbnk1.com
