@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-11 02:06:30 UTC
+# Updated: 2025-12-12 02:06:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -7,6 +7,7 @@
 000-w3b.cc
 001nlbpay-t9jclmqwvl.nservice.ge
 053249.cc
+08aa9620dd881946f51cf9b41ca592d0.bestupscaleresale.org
 0nline.cbsengineeringuk.top
 0svccsess.buzz
 1.moneyguardindia.com
@@ -262,6 +263,7 @@ bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.id7832017.info
 bolha.id797328.info
 bolha.id81927.click
 bolha.id819271.info
@@ -503,6 +505,7 @@ dpd.receivemoney-si.shop
 dpd.ureceiveu.com
 dpldteam.click
 dqkxhrpnhosnfrh9.ays9ujizq.su
+dripl.ink
 dtninsaat.com
 dub.sh
 dz256cz3.de
@@ -634,6 +637,7 @@ gls-group.id98759.info
 gls-si.check-order.eu
 gls-si.order-checking.com
 gls-si.order-list.com
+gls-sl.click
 gls-sl.id18287.info
 gls-sl.id8182957.info
 gls.a-sends.sbs
@@ -762,6 +766,7 @@ hal-cert.com
 hal-cert.net
 hal-ecert.com
 hal-si.net
+halc-si.com
 halcert.com
 halcom-eu.com
 halcom-finance.com
@@ -902,6 +907,7 @@ kaambadaycare.com
 kalsiembas.io
 kargolar.net
 karoowebz.ir
+kaucsb0lszvzobzx.gt-industries.com
 kbm-otp.com
 kbm-otp.net
 kbm24h.net
@@ -913,6 +919,7 @@ kdlagroindustries.com
 kecunip.com
 keepo.io
 keepushealthy.com
+kenzo777slot.com
 keogloxal.us
 kermisinheemskerk.nl
 keswiftleads.com
@@ -1162,6 +1169,7 @@ nmotp365.com
 nohasphilartmuse.com
 nolia.fr
 notafiscal.from-ga.com
+notebook.gaistaicrai.digital
 novakaolwastrabo.com
 novalbslovenia.com
 novaljubljanksa.com
