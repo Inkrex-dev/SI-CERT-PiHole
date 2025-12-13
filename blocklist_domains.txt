@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-12 02:06:10 UTC
+# Updated: 2025-12-13 01:59:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -919,6 +919,7 @@ kdlagroindustries.com
 kecunip.com
 keepo.io
 keepushealthy.com
+kendari4d.net
 kenzo777slot.com
 keogloxal.us
 kermisinheemskerk.nl
@@ -966,6 +967,7 @@ lnk.do
 lnk.mailing-lists.it
 localcincinnatinews.com
 login-user-verification28.beardpaintings.com
+login.biyogekanotogenkyo.info
 login.caner.info
 login.casino-top10.org
 login.immeostudio.com
