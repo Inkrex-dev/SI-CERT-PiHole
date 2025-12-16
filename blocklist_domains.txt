@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-15 02:10:05 UTC
+# Updated: 2025-12-16 02:06:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -11,6 +11,7 @@
 0nline.cbsengineeringuk.top
 0svccsess.buzz
 1.moneyguardindia.com
+10029jzx3527aj46.authweb.cfd
 11qweb.info
 11uweb.info
 11xweb.info
@@ -140,6 +141,7 @@ akaphibetaomega.org
 aktiv-lohnsteuerhilfeverein.de
 albatrossautomation.cc
 alcojeuraw.online
+alejandrovelez.pe
 aletaxi.com.pl
 alfaacclal.it
 alfex-sk.com
@@ -206,6 +208,7 @@ bassingthwaighte.com.au
 bdservice.info
 beatceets.us
 becpipiwimes.cf
+bellmanlogistics.com
 beptaoquan.vn
 bestahotelawit.nor-an.com
 bestahotellive.bow-ub.com
@@ -263,11 +266,13 @@ bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.id75633002.info
 bolha.id7832017.info
 bolha.id797328.info
 bolha.id81927.click
 bolha.id819271.info
 bolha.id9161.click
+bolha.id93034154.info
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
 bolha.now-pay.site
@@ -287,6 +292,7 @@ bolha.order-id8917.shop
 bolha.order-id9247.shop
 bolha.order-si.com
 bolha.order-slo.com
+bolha.order-verify.click
 bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.pay-now.shop
@@ -360,6 +366,7 @@ celemaifrumoasecarti.ro
 celsius-recreate.com
 centrodesgios.sviluppo.host
 channelwebtech.com
+chatgpt.subscriptions-manager.sbs
 chccs.co.uk
 checkifbot.digital
 checkout-customer.in-b--o---x.com
@@ -625,6 +632,7 @@ gbkr365dni.com
 gcm.wucitra.firm.in
 gdp.diocesedecrato.org
 gdx.io
+geopolint.com
 getvrork.us
 geweb.info
 ghamdamn671xkaz.graficosdm.com.uy
@@ -662,6 +670,7 @@ gls.id8940.cfd
 gls.id90409.sbs
 gls.id91074.com
 gls.id9161.click
+gls.id918278.info
 gls.id94093.com
 gls.id94827.com
 gls.id94994.cfd
@@ -873,6 +882,7 @@ intesa24si.com
 intesa24sl.com
 invoice.syracuseculturalworkers.com
 ioserve.org
+iranparametric.com
 ironbd.com
 isb-podjetja.com
 iskbinotp-eu.com
@@ -1311,7 +1321,9 @@ posta-slovenije.top
 posta-xi.top
 posta-zasebno-si.top
 posta-zasebno.top
+posta.noticegf.help
 posta.potrditevdostave.com
+posta.safetygf.help
 posta.si-pack.cfd
 posta24.click
 posta24.me
