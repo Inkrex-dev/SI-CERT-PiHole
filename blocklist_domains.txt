@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-16 02:06:50 UTC
+# Updated: 2025-12-17 02:01:46 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -82,6 +82,7 @@
 8gweb.info
 8qweb.info
 924931.com
+99781b2ad0-2187b-5ec9c.kavlenio.com
 9iweb.info
 9ksp190y9e1d.elevate-online-presence.cfd
 9we14xupxhx4.improve-campaign-performance.sbs
@@ -304,6 +305,7 @@ bolha.receive-fundss.live
 bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receivec.sbs
+bolha.receivedffunds.com
 bolha.receiveefunds.com
 bolha.receiveffund.com
 bolha.receivefunde.com
@@ -1271,6 +1273,7 @@ phv-si.net
 phv-sl.com
 phvsi.com
 pi052e.com
+pinchinchaalecodora.com
 pioneerselectricals.ae
 piosst.top
 piousis.top
@@ -1322,9 +1325,35 @@ posta-xi.top
 posta-zasebno-si.top
 posta-zasebno.top
 posta.noticegf.help
+posta.noticegh.help
+posta.noticegh.homes
+posta.noticegl.help
+posta.noticegl.homes
+posta.noticegm.help
+posta.noticegm.homes
+posta.noticegn.help
 posta.potrditevdostave.com
 posta.safetygf.help
+posta.safetygh.help
+posta.safetygh.homes
+posta.safetygl.help
+posta.safetygl.homes
+posta.safetygm.help
+posta.safetygm.homes
+posta.securegf.help
+posta.securegh.help
+posta.securegl.help
+posta.securegl.homes
+posta.securegm.help
+posta.securegm.homes
 posta.si-pack.cfd
+posta.urgentgf.help
+posta.urgentgf.homes
+posta.urgentgh.help
+posta.urgentgl.help
+posta.urgentgl.homes
+posta.urgentgm.help
+posta.urgentgm.homes
 posta24.click
 posta24.me
 posta24.top
@@ -1631,6 +1660,7 @@ tradesingh.info
 traumainquiry.com
 trecappelli.it
 trk-tairiku.com
+truster.shaurin.com
 trustwe3.com
 tt.vg
 tumurlly.com
