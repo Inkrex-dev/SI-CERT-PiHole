@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-17 02:01:46 UTC
+# Updated: 2025-12-18 02:02:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -202,6 +202,7 @@ bainisp-eu.com
 bainisp.com
 balausa-partner.kz
 bamboomarkt.com
+bankanet-otp.cfd
 baron-sa.com.ar
 bascularcabines.com.br
 basinkoymahallesi.com
@@ -518,6 +519,7 @@ dripl.ink
 dtninsaat.com
 dub.sh
 dz256cz3.de
+dzamarifbobo.org
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
@@ -913,6 +915,7 @@ johnlucas.top
 june10.standard.us-east-1.oortech.com
 jusdhwuns.online
 juzju.at
+jw-travel.com
 jxskb.com
 k29a6.dnevet.ru
 kaambadaycare.com
@@ -1085,6 +1088,7 @@ motorkarskydoupe.cz
 mountainstatesmdr.com
 mpazlinares.cl
 mrishimrcandeyenclave.com
+mtienergyinc.evanescepackaging.cfd
 mulvwty.pro
 mushtzani.com
 mxgwymbezxim.pet
@@ -1099,6 +1103,7 @@ myebay.digital
 myemail.skydynamics.com
 mysi.live
 mysupportservicee.com
+mytriglav.dtdns.org
 n-ickel.com
 n-lb.com
 napvibe.com
@@ -1332,7 +1337,11 @@ posta.noticegl.homes
 posta.noticegm.help
 posta.noticegm.homes
 posta.noticegn.help
+posta.noticegp.help
+posta.noticegr.help
+posta.noticegr.homes
 posta.potrditevdostave.com
+posta.safetyal.homes
 posta.safetygf.help
 posta.safetygh.help
 posta.safetygh.homes
@@ -1340,12 +1349,15 @@ posta.safetygl.help
 posta.safetygl.homes
 posta.safetygm.help
 posta.safetygm.homes
+posta.safetygp.help
 posta.securegf.help
 posta.securegh.help
 posta.securegl.help
 posta.securegl.homes
 posta.securegm.help
 posta.securegm.homes
+posta.securegr.help
+posta.securegr.homes
 posta.si-pack.cfd
 posta.urgentgf.help
 posta.urgentgf.homes
@@ -1354,6 +1366,8 @@ posta.urgentgl.help
 posta.urgentgl.homes
 posta.urgentgm.help
 posta.urgentgm.homes
+posta.urgentgr.help
+posta.urgentgr.homes
 posta24.click
 posta24.me
 posta24.top
