@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-18 02:02:50 UTC
+# Updated: 2025-12-19 02:05:49 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -184,6 +184,7 @@ authline-checkappr0v.com.es
 auths.yctn-tw.com
 autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
+avsasan.com
 b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
 babyurl.net
 bafkreibhpzjoiwqartcf54coutdb5zyp7rcju2cna7ses5zh5jjyxlvbve.ipfs.flk-ipfs.xyz
@@ -203,6 +204,7 @@ bainisp.com
 balausa-partner.kz
 bamboomarkt.com
 bankanet-otp.cfd
+bankanet-si.cfd
 baron-sa.com.ar
 bascularcabines.com.br
 basinkoymahallesi.com
@@ -215,6 +217,7 @@ beptaoquan.vn
 bestahotelawit.nor-an.com
 bestahotellive.bow-ub.com
 bestihotelafes.gax-uk.com
+beukema.space
 bff7b1b0db.big-shop.ge
 bigthinking.one
 billingfailed.digital
@@ -269,10 +272,12 @@ bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
 bolha.id75633002.info
+bolha.id75699002.info
 bolha.id7832017.info
 bolha.id797328.info
 bolha.id81927.click
 bolha.id819271.info
+bolha.id8516441.info
 bolha.id9161.click
 bolha.id93034154.info
 bolha.money-receive2.shop
@@ -309,6 +314,7 @@ bolha.receivec.sbs
 bolha.receivedffunds.com
 bolha.receiveefunds.com
 bolha.receiveffund.com
+bolha.receivefundds.com
 bolha.receivefunde.com
 bolha.receivefundss.com
 bolha.receivemoney-si.click
@@ -753,6 +759,7 @@ gls.slovenija-group.info
 gls.slovenija.sbs
 gls.svoje.info
 gls.takee.run
+gls.vr308282.click
 gls.zgs-rd.info
 gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
@@ -953,6 +960,7 @@ kortlink.dk
 ksrxgo.ticknstacked.com
 kupujemprodajem.dostava.click
 kutt.it
+kzofar.dradilsongomes.com.br
 lacrossestablic.com
 laimpresion3d.es
 lainezhotelzudokd.epp-xl.com
@@ -1074,6 +1082,7 @@ mojgls.id94910.si
 mojgls.id98527.live
 mojgls.id98539.live
 mojgls.si-new.live
+mojgls.si09833.com
 mojgls.si69581.com
 mojgls.slovenija-group.live
 mojotp24.com
@@ -1143,6 +1152,7 @@ nkbmsidda.com
 nkbmsidsid.com
 nkmbe.com
 nkwebsolutions.nl
+nlb-bank.com
 nlb-banka-online.com
 nlb-klik.lat
 nlb-si.cfd
@@ -1340,6 +1350,10 @@ posta.noticegn.help
 posta.noticegp.help
 posta.noticegr.help
 posta.noticegr.homes
+posta.noticegu.help
+posta.noticegu.homes
+posta.noticegx.help
+posta.noticegx.homes
 posta.potrditevdostave.com
 posta.safetyal.homes
 posta.safetygf.help
@@ -1350,6 +1364,10 @@ posta.safetygl.homes
 posta.safetygm.help
 posta.safetygm.homes
 posta.safetygp.help
+posta.safetygu.help
+posta.safetygu.homes
+posta.safetygx.help
+posta.safetygx.homes
 posta.securegf.help
 posta.securegh.help
 posta.securegl.help
@@ -1358,6 +1376,10 @@ posta.securegm.help
 posta.securegm.homes
 posta.securegr.help
 posta.securegr.homes
+posta.securegu.help
+posta.securegu.homes
+posta.securegx.help
+posta.securegx.homes
 posta.si-pack.cfd
 posta.urgentgf.help
 posta.urgentgf.homes
@@ -1368,6 +1390,10 @@ posta.urgentgm.help
 posta.urgentgm.homes
 posta.urgentgr.help
 posta.urgentgr.homes
+posta.urgentgu.help
+posta.urgentgu.homes
+posta.urgentgx.help
+posta.urgentgx.homes
 posta24.click
 posta24.me
 posta24.top
@@ -1431,6 +1457,7 @@ processing.wealthinequality.info
 proesi.com.pe
 profile.notification.best
 profile.personalizer.click
+profile.syntaxes.digital
 profile.translations.life
 profile.workplaces.world
 proklikleaseandgo.xyz
@@ -1862,6 +1889,7 @@ xumeryn.cfd
 xwic.net
 xzecpjf.callligaris.com
 yelsed.nl
+yourcardlegend.com
 yousufmandhro.com
 ys1.barywhents.ru
 yume.cutegirl.jp
