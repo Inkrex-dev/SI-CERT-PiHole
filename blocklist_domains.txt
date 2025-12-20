@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-19 02:05:49 UTC
+# Updated: 2025-12-20 01:59:05 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -138,7 +138,6 @@ aimartgroup.com
 airioomaruhotel.christmas
 airtranse.es
 ajhyouth.org
-akaphibetaomega.org
 aktiv-lohnsteuerhilfeverein.de
 albatrossautomation.cc
 alcojeuraw.online
@@ -205,6 +204,7 @@ balausa-partner.kz
 bamboomarkt.com
 bankanet-otp.cfd
 bankanet-si.cfd
+banknet-si.cfd
 baron-sa.com.ar
 bascularcabines.com.br
 basinkoymahallesi.com
@@ -302,7 +302,6 @@ bolha.order-slo.com
 bolha.order-verify.click
 bolha.pay-3d.site
 bolha.pay-3ds.site
-bolha.pay-now.shop
 bolha.receive-funds.digital
 bolha.receive-funds.forum
 bolha.receive-funds1.world
@@ -505,7 +504,6 @@ dpd-si.trnsfrmney-61257.xyz
 dpd-si.trnsfrmneycf.xyz
 dpd-slovenia.owebb.shop
 dpd-slovenija.help
-dpd....dpd.receive-money.eu
 dpd.click-select324.com
 dpd.click-select689.com
 dpd.delivery-secured.world
@@ -515,7 +513,6 @@ dpd.money-receive2.shop
 dpd.order86084.com
 dpd.receive-funds.world
 dpd.receive-funds1.world
-dpd.receive-money.eu
 dpd.receive-money.help
 dpd.receivemoney-si.shop
 dpd.ureceiveu.com
@@ -827,7 +824,6 @@ host.novaljubljanskabankadd.com
 hotelboked9543383.world
 hotelilty.net
 hranilnica-phv.com
-https
 human-captcha.ru
 huweb.info
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
@@ -987,7 +983,6 @@ liveprofiles.cc
 llink.to
 llosrl.com
 lnk.do
-lnk.mailing-lists.it
 localcincinnatinews.com
 login-user-verification28.beardpaintings.com
 login.biyogekanotogenkyo.info
@@ -1007,7 +1002,6 @@ lunvoy.com
 lupecs.com.au
 luzesolution.com.br
 lyli.fi
-lyringenieria.com.ar
 m365.com.cloud.lvps999.xyz
 m4o.orvexture.com
 madbir4u.co.il
@@ -1342,6 +1336,7 @@ posta-zasebno.top
 posta.noticegf.help
 posta.noticegh.help
 posta.noticegh.homes
+posta.noticeghc.homes
 posta.noticegl.help
 posta.noticegl.homes
 posta.noticegm.help
@@ -1354,6 +1349,9 @@ posta.noticegu.help
 posta.noticegu.homes
 posta.noticegx.help
 posta.noticegx.homes
+posta.noticehb.help
+posta.noticehb.homes
+posta.noticehc.help
 posta.potrditevdostave.com
 posta.safetyal.homes
 posta.safetygf.help
@@ -1368,6 +1366,10 @@ posta.safetygu.help
 posta.safetygu.homes
 posta.safetygx.help
 posta.safetygx.homes
+posta.safetyhb.help
+posta.safetyhb.homes
+posta.safetyhc.help
+posta.safetyhc.homes
 posta.securegf.help
 posta.securegh.help
 posta.securegl.help
@@ -1380,6 +1382,10 @@ posta.securegu.help
 posta.securegu.homes
 posta.securegx.help
 posta.securegx.homes
+posta.securehb.help
+posta.securehb.homes
+posta.securehc.help
+posta.securehc.homes
 posta.si-pack.cfd
 posta.urgentgf.help
 posta.urgentgf.homes
@@ -1394,6 +1400,10 @@ posta.urgentgu.help
 posta.urgentgu.homes
 posta.urgentgx.help
 posta.urgentgx.homes
+posta.urgenthb.help
+posta.urgenthb.homes
+posta.urgenthc.help
+posta.urgenthc.homes
 posta24.click
 posta24.me
 posta24.top
