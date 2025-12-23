@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-22 02:11:37 UTC
+# Updated: 2025-12-23 02:06:57 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -271,6 +271,7 @@ bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.id71319342.info
 bolha.id75633002.info
 bolha.id75699002.info
 bolha.id7832017.info
@@ -279,6 +280,7 @@ bolha.id81927.click
 bolha.id819271.info
 bolha.id8516441.info
 bolha.id9161.click
+bolha.id918278.info
 bolha.id93034154.info
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
@@ -288,6 +290,7 @@ bolha.order-id3471.com
 bolha.order-id3698.com
 bolha.order-id4216.shop
 bolha.order-id4635.shop
+bolha.order-id5412.shop
 bolha.order-id5421.shop
 bolha.order-id6207.com
 bolha.order-id6731.shop
@@ -311,10 +314,12 @@ bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receivec.sbs
 bolha.receivedffunds.com
+bolha.receivedfund.com
 bolha.receiveefunds.com
 bolha.receiveffund.com
 bolha.receivefundds.com
 bolha.receivefunde.com
+bolha.receivefunds.com
 bolha.receivefundss.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
@@ -457,6 +462,7 @@ desentupidora.pro.br
 desirsdereves.com
 desokupamos.es
 despachosoto.com
+deutscheshaus.ro
 devsitebrt.brtloja.com.br
 dgpj.cv
 dgvglc.quantibright.com
@@ -665,6 +671,7 @@ gls.f-takel.eu
 gls.gls-info.com
 gls.group-app.com
 gls.group-si.world
+gls.id0129178.click
 gls.id09876.com
 gls.id4973.com
 gls.id7182715.info
@@ -847,6 +854,7 @@ id4828149ef88aa.knittingpals.org
 idaaaa013.me
 idoxsoft.com
 ieskbinotp.com
+ii-sen.ir
 ikbm365.com
 ikkakzqtlwawmq.gooddonkey.org
 imacpoint.id
@@ -966,6 +974,7 @@ laoairilnes.com
 lasko.com@tinyfy.cc
 latinsecurities-uy.com
 lausanne.dk
+lavazemonline.com
 lawlytics.in
 lawyergrowthsummits.com
 lccwv.info
@@ -1092,6 +1101,7 @@ mountainstatesmdr.com
 mpazlinares.cl
 mrishimrcandeyenclave.com
 mtienergyinc.evanescepackaging.cfd
+muhammadumersheraz.com
 mulvwty.pro
 mushtzani.com
 mxgwymbezxim.pet
@@ -1352,6 +1362,7 @@ posta.noticegx.homes
 posta.noticehb.help
 posta.noticehb.homes
 posta.noticehc.help
+posta.noticehj.help
 posta.potrditevdostave.com
 posta.safetyal.homes
 posta.safetygf.help
@@ -1370,6 +1381,7 @@ posta.safetyhb.help
 posta.safetyhb.homes
 posta.safetyhc.help
 posta.safetyhc.homes
+posta.safetyhj.help
 posta.securegf.help
 posta.securegh.help
 posta.securegl.help
@@ -1505,6 +1517,7 @@ rabotadlyavseh2.ru
 racuna.novaljublkansadd.com
 racunskeotp.com
 radhey-polymer.com
+radioexmera.com
 randewijkbeterwonen.nl
 ravikrushnaheights.com
 reactivate-domain.ittco.cl
@@ -1549,6 +1562,7 @@ seaborn-no.com
 secunda.mypi.co
 secure.controllers.world
 securewebmail.info
+segurytel.com.pe
 selmoreadvertising.com
 senged.com
 seriesandtv.com
@@ -1570,6 +1584,7 @@ shorten.world
 shupenia.com
 shvdeelse.online
 si-home-post.life
+si-mbank.cfd
 si-postatrackingv.life
 si-postazasebno.top
 si-update-nlbpay-clieytkwav.groupsorlink.com
@@ -1635,6 +1650,7 @@ sostorontomovers.ca
 soucdecopese.com
 sp-track.dbdoc.org
 sparkassa-sl.com
+sparkasse-mstik.doctorinyourpocket.co.za
 sparkasse-mstik.educlip.pe
 speck-tripiex.de
 sport-socks.co.uk
