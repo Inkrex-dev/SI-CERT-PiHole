@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-23 02:06:57 UTC
+# Updated: 2025-12-24 02:04:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -419,6 +419,7 @@ contact.leveragers.click
 contact.necessarys.digital
 content.airpromo.com.br
 contractagreement42535788.t3.storage.dev
+controliumbt.com
 coolcat.website
 coworkingweb.es
 cpanel.cx
@@ -1037,6 +1038,7 @@ marsvenus-login.microsoftonline.tgbixubijgwle.click
 masterdealer.us
 mawaddahcode.com
 mbank-si.cfd
+mbanka-si.cfd
 mclayceramic.com
 mdejq4mh.dreamwp.com
 mdtile.ca
