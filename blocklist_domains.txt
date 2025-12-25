@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-24 02:04:56 UTC
+# Updated: 2025-12-25 02:07:08 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -264,6 +264,7 @@ bolha-si.in88654356.com
 bolha-si.in929191737.com
 bolha.3ds-pay.site
 bolha.a-receivec.sbs
+bolha.accept-payment8013.click
 bolha.bolha.site
 bolha.brezskrbi.com
 bolha.deliscr.com
@@ -271,20 +272,26 @@ bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.id41082302.info
 bolha.id71319342.info
+bolha.id71379232.info
 bolha.id75633002.info
 bolha.id75699002.info
 bolha.id7832017.info
 bolha.id797328.info
 bolha.id81927.click
 bolha.id819271.info
+bolha.id83251290.info
 bolha.id8516441.info
 bolha.id9161.click
+bolha.id917165.info
 bolha.id918278.info
 bolha.id93034154.info
+bolha.id93571.info
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
 bolha.now-pay.site
+bolha.order-dostava.cfd
 bolha.order-id2974.shop
 bolha.order-id3471.com
 bolha.order-id3698.com
@@ -493,6 +500,7 @@ dl8tijfagt1z2u9h.automatenwelt-cl.de
 dnkpos.ink
 doc-previewonline-76282-10286275ghfkwai.online
 docxxmonsters.com
+domenca.spofex.de
 don.figmail.email
 downloadsharedfile.de
 dpd-group.view973.bid
@@ -670,6 +678,8 @@ gls.dostava-link2829.icu
 gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
+gls.gls-sl.digital
+gls.gls-sl.sbs
 gls.group-app.com
 gls.group-si.world
 gls.id0129178.click
@@ -780,6 +790,7 @@ gstnahb.vacant-res.com
 gtly.ink
 guest.283742.online
 guestverify13334-booking.com
+guio.sandrinereal.com
 guweb.info
 gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
 gyweb.info
@@ -955,6 +966,7 @@ ketchen.centercommercialonline.com
 kings22kar.com
 kitdesigner.primoapparel.uk
 kittensmarket.com
+klik-nlb.cfd
 klikappnlb.online
 kneepaintreatmentpro.com
 knfmj.csbnr.com
@@ -1263,6 +1275,7 @@ otp-login.cfd
 otp-racunovodstvo.com
 otp-verify.online
 otp24sl.com
+otpbanka-links.cfd
 otpbanka-si.com
 otpbanking.cfd
 otpbonks.com
