@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-27 02:03:58 UTC
+# Updated: 2025-12-28 02:24:49 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -999,6 +999,7 @@ leovigueraye.info
 lgrouptg.com
 link.enormail.eu
 link3p.org
+linkotpbanka.cfd
 links-otpbank.cfd
 lisboaadschool.com
 liveguardfixcenter.top
@@ -1059,6 +1060,7 @@ me-nlb-banka.com
 mellavi.cl
 memberntfx.com
 mercandogmbh.com
+mercator.650euro.online
 meta-business-help-center-case-100000365258956.on-fleek.app
 meta-instagram-supportcenter.cfd
 metiopniqueskuitr471.com
