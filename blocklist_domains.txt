@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-12-30 02:07:43 UTC
+# Updated: 2025-12-31 02:08:03 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -275,6 +275,7 @@ bolha.delivery-link7267.icu
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
 bolha.id41082302.info
+bolha.id71232431.info
 bolha.id71274431.info
 bolha.id71319342.info
 bolha.id71379232.info
@@ -564,6 +565,7 @@ email.mg.outvio.com
 email.providers.digital
 email.sendvio.chilliapps.com
 email.walletepay.com
+email6.edwall.top
 email6.zeusheight.top
 email9.toretgun.top
 emailman.zumaworks.top
@@ -697,6 +699,7 @@ gls.id819271.info
 gls.id819281.info
 gls.id8940.cfd
 gls.id90409.sbs
+gls.id910281.info
 gls.id91074.com
 gls.id9161.click
 gls.id918278.info
@@ -728,6 +731,7 @@ gls.order86086.live
 gls.order86098.com
 gls.order86099.com
 gls.order86105.com
+gls.order86130.live
 gls.page231445.cfd
 gls.prejemdenarja0.icu
 gls.receive-funds.sbs
@@ -1004,6 +1008,7 @@ lgrouptg.com
 link.enormail.eu
 link3p.org
 linkotpbanka.cfd
+links-mbank.cfd
 links-otpbank.cfd
 lisboaadschool.com
 liveguardfixcenter.top
@@ -1291,6 +1296,7 @@ otpbanking.cfd
 otpbonks.com
 otpcentrala.com
 otpdtapp.com
+otplinks.cfd
 otpquiz.icu
 otskb.com
 ottonlbp.com
@@ -1777,6 +1783,7 @@ updatm.mygamesonline.org
 urdkueork.us
 url.fti.or.th
 url.homes4sell.us
+url3781.host.inreception.com
 url6333.notification.starshipit.com
 url8356.zyprr.net
 urlbae.bio
