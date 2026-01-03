@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-02 02:09:56 UTC
+# Updated: 2026-01-03 02:03:16 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1091,6 +1091,7 @@ mobilenlbid.com
 mobilenlbsid.com
 mobilenlbsida.com
 mobilenlbv.com
+mogls.904901.com
 moja-otp.com
 moja-posta.help
 moja-posta.my
@@ -1734,6 +1735,7 @@ tealil.info
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
+telekom.online-verify.click
 telkomnet.com.ng
 test-sklep.justbefit.pl
 testnsolution.com
