@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-03 02:03:16 UTC
+# Updated: 2026-01-04 02:26:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1106,6 +1106,7 @@ mojaposta.help
 mojaposta.top
 mojasparkasa.com
 mojgls.490192.live
+mojgls.904901.com
 mojgls.bskrbi.si
 mojgls.id909301.com
 mojgls.id93028.com
@@ -1116,6 +1117,7 @@ mojgls.si-new.live
 mojgls.si09833.com
 mojgls.si69581.com
 mojgls.slovenija-group.live
+mojhgls.id98597.live
 mojotp24.com
 mojskbotp.com
 monboislocal.fr
@@ -1558,6 +1560,7 @@ ravikrushnaheights.com
 reactivate-domain.ittco.cl
 realgymessentials.com
 rebrandly.info
+recovery-ledgersupport.com
 redirect-secure.cc
 redirect-webmail-auth-0tesjs7sc02-login.page.gd
 redirect.forme.pacesheetmetal.co.uk
