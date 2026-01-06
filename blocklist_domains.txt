@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-05 02:25:58 UTC
+# Updated: 2026-01-06 02:09:26 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -103,6 +103,7 @@ ab28b4ecb10e1fb0241e31f8655c74fe.izvorfoca.net
 abrahamrollmusic.com
 abre.ai
 academicbizpro.com
+account-security.fwh.is
 account.credentials.world
 accounts-hetzner.stretchshopmen.nl
 accounts-hetzner.wolfmystical.com
@@ -811,6 +812,7 @@ hal-cert.com
 hal-cert.net
 hal-ecert.com
 hal-si.net
+halc-m.com
 halc-si.com
 halcert.com
 halcom-eu.com
@@ -1271,6 +1273,7 @@ officeprocleaningcocom-bb1e7ce8ad4685a.fwtrack.com
 offshorekesuma.com
 olapucuwekztjvt.zl.ge
 omcwpmwmr.gooddonkey.org
+oncywellan.com
 online-customer-service.gs-schmidt.de
 online.computation.shop
 online.computation1.click
