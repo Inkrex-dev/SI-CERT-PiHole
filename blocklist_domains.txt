@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-06 02:09:26 UTC
+# Updated: 2026-01-07 02:09:11 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -232,6 +232,7 @@ bks-sl.com
 blenfghading.online
 blog.filleaupluriel.fr
 bloomdesign.biz
+blueistmedia.com
 bnotp1nkbm.com
 bnskb.com
 bocwyafty.online
@@ -635,6 +636,7 @@ form-eu1-562854.public.500apps.org
 form-us1-563144.public.500apps.org
 form-us1-563957.public.500apps.org
 form.feathery.app
+form.finalform.so
 form.questionscout.com
 formareasesoria.com
 formazionemedform.it
@@ -812,6 +814,7 @@ hal-cert.com
 hal-cert.net
 hal-ecert.com
 hal-si.net
+halc-1.com
 halc-m.com
 halc-si.com
 halcert.com
@@ -1190,6 +1193,7 @@ nkmbe.com
 nkwebsolutions.nl
 nlb-bank.com
 nlb-banka-online.com
+nlb-eklik.click
 nlb-klik-me.click
 nlb-klik.lat
 nlb-si.cfd
@@ -1774,6 +1778,7 @@ trustwe3.com
 tt.vg
 tumurlly.com
 tunelesdecalortermoencogibles.net.pe
+tunet.com.ng
 tvdyoz5nn774r0vq.blindfind.de
 txrizivselfserv.be.hllill.abrdns.com
 uiomoakij.gooddonkey.org
@@ -1947,6 +1952,7 @@ www.tienbip.click
 www.tripadvisor.us-n8725715.rentals
 www.ukgrowthclub.com
 www.verification-accountt.click
+www.zamek.ilza.pl
 wyopz.maildelivered.email
 xamurmagazine.com
 xfmeter.store
