@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-10 02:06:26 UTC
+# Updated: 2026-01-11 02:26:11 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1941,6 +1941,7 @@ www.nepremicnine.net-stanovanje.live
 www.nib-klick.com
 www.nib-klik.com
 www.nkbm-online.com
+www.nlbgroups.net
 www.nllb-klikc.com
 www.nllb-kllk.com
 www.nova-ljubijanska.com
