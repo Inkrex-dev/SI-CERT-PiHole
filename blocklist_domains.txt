@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-12 02:22:05 UTC
+# Updated: 2026-01-13 02:07:17 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1074,6 +1074,7 @@ marsvenus-login.microsoftonline.dpfraizj.click
 marsvenus-login.microsoftonline.tgbixubijgwle.click
 masterdealer.us
 mawaddahcode.com
+mbank-otp.cfd
 mbank-si.cfd
 mbanka-si.cfd
 mclayceramic.com
@@ -1968,6 +1969,7 @@ www.tienbip.click
 www.tripadvisor.us-n8725715.rentals
 www.ukgrowthclub.com
 www.verification-accountt.click
+www.verifyemailnow.click
 www.zamek.ilza.pl
 wyopz.maildelivered.email
 xamurmagazine.com
