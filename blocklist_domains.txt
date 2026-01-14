@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-13 02:07:17 UTC
+# Updated: 2026-01-14 02:20:57 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -685,6 +685,7 @@ gls-si.order-list.com
 gls-sl.click
 gls-sl.id18287.info
 gls-sl.id8182957.info
+gls-sl.rest
 gls.a-sends.sbs
 gls.bload.eu
 gls.click-select689.com
@@ -815,6 +816,7 @@ gzjls.edgeone.app
 h2roilqas.com
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 hagelstein.me
+hal-ca.com
 hal-cert.com
 hal-cert.net
 hal-ecert.com
@@ -1076,6 +1078,7 @@ masterdealer.us
 mawaddahcode.com
 mbank-otp.cfd
 mbank-si.cfd
+mbanka-2026.cfd
 mbanka-si.cfd
 mclayceramic.com
 mdejq4mh.dreamwp.com
