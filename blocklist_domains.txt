@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-14 02:20:57 UTC
+# Updated: 2026-01-15 02:09:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -284,6 +284,8 @@ bolha.id71232431.info
 bolha.id71274431.info
 bolha.id71319342.info
 bolha.id71379232.info
+bolha.id7227501.info
+bolha.id7243031.info
 bolha.id75633002.info
 bolha.id75699002.info
 bolha.id7832017.info
@@ -293,6 +295,7 @@ bolha.id81927.click
 bolha.id819271.info
 bolha.id83251290.info
 bolha.id8516441.info
+bolha.id87291201.info
 bolha.id9161.click
 bolha.id917165.info
 bolha.id918278.info
@@ -677,6 +680,7 @@ gilardonispa.top
 gjtgqhgp2tui7ra.zl.ge
 gls-grou.id9491.com
 gls-group.cyou
+gls-group.id18917.info
 gls-group.id8918471.info
 gls-group.id98759.info
 gls-si.check-order.eu
@@ -820,7 +824,9 @@ hal-ca.com
 hal-cert.com
 hal-cert.net
 hal-ecert.com
+hal-si.com
 hal-si.net
+hal-slo.com
 halc-1.com
 halc-m.com
 halc-si.com
@@ -1045,6 +1051,7 @@ lon-hranilica.com
 lon-poslovni.com
 lon-si.com
 lotreonline.one
+louvrier.net
 lp.washrocks.com
 ltPDbj.worix.free.hr
 lunvoy.com
@@ -1079,6 +1086,7 @@ mawaddahcode.com
 mbank-otp.cfd
 mbank-si.cfd
 mbanka-2026.cfd
+mbanka-net.cfd
 mbanka-si.cfd
 mclayceramic.com
 mdejq4mh.dreamwp.com
@@ -1130,6 +1138,7 @@ mojgls.id93028.com
 mojgls.id94910.si
 mojgls.id98527.live
 mojgls.id98539.live
+mojgls.id98598.live
 mojgls.si-new.live
 mojgls.si09833.com
 mojgls.si69581.com
