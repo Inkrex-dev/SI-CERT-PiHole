@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-16 02:11:13 UTC
+# Updated: 2026-01-17 02:04:51 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -98,6 +98,7 @@ _wildcard_.intrugementslayerdocuservice.com
 a.receive-money.help
 a.watersbill.cfd
 a1aousk8jwo69v26.trigano.cfd
+a4fd1.net
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 a6qvw01dvvylcxba6qvw01dvvylcxb.garmexpress.com
 aahyjr.shielis.cfd
@@ -682,7 +683,9 @@ gls-grou.id9491.com
 gls-group.cyou
 gls-group.id18917.info
 gls-group.id8918471.info
+gls-group.id918471.info
 gls-group.id98759.info
+gls-si.biz
 gls-si.check-order.eu
 gls-si.order-checking.com
 gls-si.order-list.com
@@ -894,6 +897,7 @@ icpgovfddg.online
 icr24.support
 id4828149ef88aa.knittingpals.org
 idaaaa013.me
+ideiapropaganda.com.br
 idoxsoft.com
 ieskbinotp.com
 ii-sen.ir
@@ -959,6 +963,7 @@ jagmaquinarias.com
 jahwusuab.top
 jahwusukac.icu
 javizop.cfd
+jaytechomes.com
 jcja.com.mx
 jggq.hinctishn.com
 jlops.frs112.de
@@ -1139,6 +1144,7 @@ mojgls.id93028.com
 mojgls.id94910.si
 mojgls.id98527.live
 mojgls.id98539.live
+mojgls.id98571.live
 mojgls.id98598.live
 mojgls.si-new.live
 mojgls.si09833.com
