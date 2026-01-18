@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-17 02:04:51 UTC
+# Updated: 2026-01-18 02:25:05 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -61,6 +61,7 @@
 50172.cfd
 51.195.123.107
 54f2505a860ba863a39cef389d9b88c4.quantibright.com
+5nphqn.troubleyn.com
 5tvne9bvz6jbues.zl.ge
 5vyzfro.dr6ga.1drywash.space
 68497.org
@@ -220,6 +221,7 @@ bdservice.info
 beatceets.us
 becpipiwimes.cf
 bellmanlogistics.com
+benmoussadattes.com
 beptaoquan.vn
 bestahotelawit.nor-an.com
 bestahotellive.bow-ub.com
@@ -1330,6 +1332,7 @@ otp-racunovodstvo.com
 otp-verify.online
 otp24sl.com
 otpbank-link.cfd
+otpbanka-26.cfd
 otpbanka-837.cfd
 otpbanka-links.cfd
 otpbanka-si.com
@@ -1389,8 +1392,10 @@ posta-gs.top
 posta-is.cyou
 posta-lsu.top
 posta-mzd.top
+posta-notice.homes
 posta-online.top
 posta-plk.top
+posta-secure.homes
 posta-si-pack.click
 posta-si-za.top
 posta-si-zasebno.services
@@ -1834,6 +1839,7 @@ updatm.mygamesonline.org
 urdkueork.us
 url.fti.or.th
 url.homes4sell.us
+url3159.autorepairbill.com
 url3781.host.inreception.com
 url6333.notification.starshipit.com
 url8356.zyprr.net
