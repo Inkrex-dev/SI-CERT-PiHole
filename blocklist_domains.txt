@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-23 02:11:05 UTC
+# Updated: 2026-01-24 02:07:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -689,8 +689,10 @@ gjtgqhgp2tui7ra.zl.ge
 gls-grou.id9491.com
 gls-group.cyou
 gls-group.id18917.info
+gls-group.id62862.info
 gls-group.id8918471.info
 gls-group.id918471.info
+gls-group.id918491.info
 gls-group.id98759.info
 gls-si.biz
 gls-si.check-order.eu
@@ -1320,6 +1322,7 @@ olapucuwekztjvt.zl.ge
 omcwpmwmr.gooddonkey.org
 oncywellan.com
 online-customer-service.gs-schmidt.de
+online.characteristics.today
 online.computation.shop
 online.computation1.click
 online.otpbankaid.digital
