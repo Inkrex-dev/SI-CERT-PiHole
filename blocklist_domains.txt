@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-24 02:07:10 UTC
+# Updated: 2026-01-25 02:28:53 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1190,6 +1190,7 @@ my92b8bf88-a2hosting-com.tidalboreinn.com
 mydublinguide.com
 myebay.digital
 myemail.skydynamics.com
+mypost.mmkbk.online
 mysi.live
 mysupportservicee.com
 mytriglav.dtdns.org
