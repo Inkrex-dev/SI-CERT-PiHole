@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-25 02:28:53 UTC
+# Updated: 2026-01-26 02:27:37 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -687,6 +687,7 @@ giggedfrog.com
 gilardonispa.top
 gjtgqhgp2tui7ra.zl.ge
 gls-grou.id9491.com
+gls-group.037182.sale
 gls-group.cyou
 gls-group.id18917.info
 gls-group.id62862.info
