@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-26 02:27:37 UTC
+# Updated: 2026-01-27 02:23:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -857,6 +857,7 @@ halcom-placila.com
 halcom-si.com
 halcom-v.com
 halcom-varnost.com
+halkap.com
 hammer-fenster.de
 hamsaryabi.org
 hapibergs.com
@@ -1156,6 +1157,7 @@ mojgls.id93028.com
 mojgls.id94910.si
 mojgls.id98527.live
 mojgls.id98539.live
+mojgls.id98548.live
 mojgls.id98571.live
 mojgls.id98598.live
 mojgls.si-new.live
@@ -1393,6 +1395,7 @@ pkmaza.com
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
 podkastrsuite.com
+podologoenbenavente.com
 pointonecorp.gapinc.sbs
 polskawatrchingfilms.com
 pontodasferragensgru.com.br
