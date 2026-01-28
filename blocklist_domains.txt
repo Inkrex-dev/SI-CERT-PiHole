@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-27 02:23:56 UTC
+# Updated: 2026-01-28 02:19:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -54,6 +54,7 @@
 37fbbab9cd7ff57410e3c23a43d0a207.albfilz.com
 3acd7.net
 3d-shop.xyz
+3peppers-entertainment.co.za
 3yfuwc.troubleyn.com
 43965120.zenifyro.com
 4lkds8of67t.tax-slayerpro.com
@@ -289,6 +290,7 @@ bolha.id71232431.info
 bolha.id71274431.info
 bolha.id71319342.info
 bolha.id71379232.info
+bolha.id7217829.info
 bolha.id7227501.info
 bolha.id7243031.info
 bolha.id7327039.info
@@ -317,6 +319,7 @@ bolha.order-id3471.com
 bolha.order-id3698.com
 bolha.order-id4216.shop
 bolha.order-id4635.shop
+bolha.order-id5212.shop
 bolha.order-id5412.shop
 bolha.order-id5421.shop
 bolha.order-id6207.com
@@ -682,6 +685,7 @@ gdx.io
 geopolint.com
 getvrork.us
 geweb.info
+gfd.authweb.sbs
 ghamdamn671xkaz.graficosdm.com.uy
 giggedfrog.com
 gilardonispa.top
@@ -838,6 +842,7 @@ hal-ca.com
 hal-cert.com
 hal-cert.net
 hal-ecert.com
+hal-kap.com
 hal-si.com
 hal-si.net
 hal-sl.com
@@ -858,6 +863,7 @@ halcom-si.com
 halcom-v.com
 halcom-varnost.com
 halkap.com
+halkonta.com
 hammer-fenster.de
 hamsaryabi.org
 hapibergs.com
@@ -1283,6 +1289,7 @@ nlvecepeat.cfd
 nmotp.com
 nmotp365.com
 nohasphilartmuse.com
+nola.rezliveonline.com
 nolia.fr
 notafiscal.from-ga.com
 notebook.gaistaicrai.digital
@@ -1920,6 +1927,7 @@ webmail-authblk.xycgbl.com
 webmail-autho.ifuqin.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
+webmail-oauth.coachcurt.com
 webmail-oauthblk.bodinecc.com
 webmail.adawliah.com.sa
 webmail.authslrc.com
