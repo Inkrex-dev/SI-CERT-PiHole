@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-29 02:36:15 UTC
+# Updated: 2026-01-30 02:36:38 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -178,6 +178,7 @@ appcustominvoic-purccesinsmtssm.line.pm
 applink.2book.com
 apsis.es
 arbiteex.io
+arena.atlantislinks.com
 ariani.es
 arnes.webmail.net.co
 arts2nfts.com
@@ -565,6 +566,7 @@ dtninsaat.com
 dub.sh
 dz256cz3.de
 dzamarifbobo.org
+e.vg
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
@@ -852,6 +854,7 @@ hal-sl.com
 hal-slo.com
 halc-1.com
 halc-m.com
+halc-plus.com
 halc-si.com
 halcert.com
 halcm.com
@@ -987,6 +990,7 @@ jahwusukac.icu
 javizop.cfd
 jaytechomes.com
 jcja.com.mx
+jerdenoutdooradvertisingllc.com
 jggq.hinctishn.com
 jlops.frs112.de
 jnfzwdhqui.website
@@ -1292,7 +1296,6 @@ nlvecepeat.cfd
 nmotp.com
 nmotp365.com
 nohasphilartmuse.com
-nola.rezliveonline.com
 nolia.fr
 notafiscal.from-ga.com
 notebook.gaistaicrai.digital
@@ -1402,6 +1405,7 @@ pioneerselectricals.ae
 piosst.top
 piousis.top
 pkmaza.com
+plu.sh
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
 podkastrsuite.com
@@ -1793,6 +1797,7 @@ studioibc.cfd
 submit-form.com
 submitcaptcha.com
 suciaropa.com
+sunabxq.com
 support-brows-nails.steinaeckerhof-leroch.de
 support-web.thegamestiny.com
 support.c9pp1xsry2.free.hr
