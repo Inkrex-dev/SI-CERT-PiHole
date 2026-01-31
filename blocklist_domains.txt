@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-30 02:36:38 UTC
+# Updated: 2026-01-31 02:31:46 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -344,6 +344,7 @@ bolha.receive-fundss.com
 bolha.receive-fundss.live
 bolha.receive-fundss.today
 bolha.receive-moneysi.world
+bolha.receiveb.com
 bolha.receivec.sbs
 bolha.receivedffunds.com
 bolha.receivedfund.com
@@ -561,6 +562,7 @@ dpd.receivemoney-si.shop
 dpd.ureceiveu.com
 dpldteam.click
 dqkxhrpnhosnfrh9.ays9ujizq.su
+drenchedinlove.com
 dripl.ink
 dtninsaat.com
 dub.sh
@@ -687,6 +689,7 @@ gcm.wucitra.firm.in
 gdp.diocesedecrato.org
 gdx.io
 geopolint.com
+georgemathieson.co.uk
 getvrork.us
 geweb.info
 gfd.authweb.sbs
@@ -1078,6 +1081,7 @@ login.casino-top10.org
 login.immeostudio.com
 login.kggpho.icu
 login.primabase.info
+login.siibelco.com
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
 lon-hranilica.com
 lon-poslovni.com
@@ -1627,6 +1631,7 @@ qkhx.covalysion.ru
 qrto.org
 quannaeqeq.online
 quantumsolveinc.com
+quaranda.com
 questica.org
 questions-assistyou.com
 qwpblrffecoqf.gooddonkey.org
@@ -1684,6 +1689,7 @@ seaborn-no.com
 secunda.mypi.co
 secure.controllers.world
 securewebmail.info
+security.schwab4.sbs
 segurytel.com.pe
 selmoreadvertising.com
 senged.com
@@ -1808,6 +1814,7 @@ sv-management.solarflevoland.nl
 svposta.cfd
 swscd.org
 syncaccess-hag-db.syncronex.com
+syncz.krymaxio.com
 syntaxtechs.net
 t.dripemail2.com
 t2.slov-si.help
@@ -1871,6 +1878,7 @@ update-infos.online
 update-nlb-pay.bve-vermarktung.de
 update-nlb-paysi.delst.email
 update-profllesync.de
+updatebillsmanageaccountserverlocwajwaiodjawiodnkslnkadmkasdw.armeniaincentives.com
 updating-infos.de
 updatm.mygamesonline.org
 urdkueork.us
@@ -2035,6 +2043,7 @@ www.ukgrowthclub.com
 www.verification-accountt.click
 www.verifyemailnow.click
 www.zamek.ilza.pl
+www.zonalshare.com
 wyopz.maildelivered.email
 xamurmagazine.com
 xfmeter.store
