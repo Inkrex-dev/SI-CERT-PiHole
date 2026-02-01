@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-01-31 02:31:46 UTC
+# Updated: 2026-02-01 03:13:24 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -293,8 +293,10 @@ bolha.id71319342.info
 bolha.id71379232.info
 bolha.id7217829.info
 bolha.id7227501.info
+bolha.id7237159.info
 bolha.id7243031.info
 bolha.id7327039.info
+bolha.id7337139.info
 bolha.id7417837.info
 bolha.id75633002.info
 bolha.id75699002.info
