@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-02 02:46:37 UTC
+# Updated: 2026-02-03 02:43:05 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -135,6 +135,7 @@ admspuserverification.drr.ac
 adnetsearch.com
 ads-microsoflt.pro
 ads-microsoflt.site
+ads-support-manager.art
 ads.supportpage-business.cfd
 advertisingcommunitystandards.com
 af13fefef0.flexi.ge
@@ -396,6 +397,7 @@ business-accout-center.online
 business-facebook-meta-352z.ubpages.com
 business.help-managecontact.com
 bwfairfieldhotel.com
+byvn.net
 c3646bde3f7.freewebhostmost.com
 c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
 cadaverine.tehillsglobal.com
@@ -721,6 +723,7 @@ gls.bload.eu
 gls.click-select689.com
 gls.delivery-link7267.icu
 gls.dostava-link2829.icu
+gls.dostava-prejemanje1929.biz
 gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
@@ -1371,6 +1374,7 @@ otpbank-link.cfd
 otpbanka-26.cfd
 otpbanka-837.cfd
 otpbanka-links.cfd
+otpbanka-si-prijava.issl.im
 otpbanka-si.com
 otpbanking.cfd
 otpbonks.com
@@ -1595,6 +1599,7 @@ preverjanje.pro
 preverjanjeotp.com
 prijaja.ddns.cam
 prijava-nlbracun.com
+prijava-otpbanka-si.issl.im
 prijavaa-nlbsiportal.com
 primoapparel.uk
 printnowgrafica.com.br
@@ -1610,6 +1615,7 @@ profile.syntaxes.digital
 profile.translations.life
 profile.workplaces.world
 proklikleaseandgo.xyz
+prometnigov.com
 proposaldocsfilesdev.xyz
 proskbeu.com
 protection.standard.us-east-1.oortstorages.com
@@ -1645,6 +1651,7 @@ rabotadlyavseh2.ru
 racuna.novaljublkansadd.com
 racunskeotp.com
 radhey-polymer.com
+radio.mowuti.5g.in
 radioexmera.com
 randewijkbeterwonen.nl
 ravikrushnaheights.com
