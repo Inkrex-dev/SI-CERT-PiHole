@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-03 02:43:05 UTC
+# Updated: 2026-02-04 02:37:21 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -108,6 +108,7 @@ ab28b4ecb10e1fb0241e31f8655c74fe.izvorfoca.net
 abrahamrollmusic.com
 abre.ai
 academicbizpro.com
+accesses.moderations.digital
 account-security.fwh.is
 account.credentials.world
 accounts-hetzner.stretchshopmen.nl
@@ -280,7 +281,9 @@ bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.accept-payment8013.click
 bolha.bolha.site
+bolha.brezskrbi.cc
 bolha.brezskrbi.com
+bolha.brezskrbi.trade
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
@@ -296,6 +299,7 @@ bolha.id7217829.info
 bolha.id7227501.info
 bolha.id7237159.info
 bolha.id7243031.info
+bolha.id7325339.info
 bolha.id7327039.info
 bolha.id7337139.info
 bolha.id7417837.info
@@ -359,6 +363,7 @@ bolha.receivefunds.com
 bolha.receivefundss.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
+bolha.receiveq.com
 bolha.receives-s.sbs
 bolha.receivesfund.com
 bolha.receivesfunds.com
@@ -628,6 +633,7 @@ facebook-ads-team-helpr-21x.ubpages.com
 facebook-support.tempisite.com
 faizan.mssoftsites.com
 famoeser-asbrataramustopgigsdrunk.line.pm
+farmersagencyinc27.appwrite.network
 fashionleather.com
 fastpath.digital
 fastshopping.info
@@ -876,8 +882,10 @@ halcom-placila.com
 halcom-si.com
 halcom-v.com
 halcom-varnost.com
+haldp.com
 halkap.com
 halkonta.com
+halplus.net
 hammer-fenster.de
 hamsaryabi.org
 hapibergs.com
