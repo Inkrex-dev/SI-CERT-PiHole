@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-04 02:37:21 UTC
+# Updated: 2026-02-05 02:39:47 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -497,6 +497,7 @@ dbs-sl.com
 dbskb1.com
 dbskb1otp.com
 dbsnet-e.com
+dbsplacila.com
 ddrservice.com.br
 de2b339ee2dfbdd4e62693bae61a2087.frank-fahner.de
 dederrer.com
