@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-05 02:39:47 UTC
+# Updated: 2026-02-06 02:39:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1608,6 +1608,7 @@ preverjanje.pro
 preverjanjeotp.com
 prijaja.ddns.cam
 prijava-nlbracun.com
+prijava-otp-banka-si.issl.im
 prijava-otpbanka-si.issl.im
 prijavaa-nlbsiportal.com
 primoapparel.uk
@@ -1683,6 +1684,7 @@ resvalidedelivery.de
 retasil.info
 rialtoparty.it
 riosaladohp.com
+rkauth.com
 robertodelapenamarshall.com
 rodo.optinex.pl
 ronnebech.dk
