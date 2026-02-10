@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-09 02:47:31 UTC
+# Updated: 2026-02-10 02:55:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -423,6 +423,7 @@ celemaifrumoasecarti.ro
 celsius-recreate.com
 centrodesgios.sviluppo.host
 channelwebtech.com
+charleslaurenfoundation.org
 chatgpt.subscriptions-manager.sbs
 chccs.co.uk
 checkifbot.digital
@@ -466,6 +467,7 @@ content.airpromo.com.br
 contractagreement42535788.t3.storage.dev
 controliumbt.com
 coolcat.website
+copba.org.ar
 coworkingweb.es
 cpanel.cx
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
@@ -716,6 +718,7 @@ gls-group.id62862.info
 gls-group.id8918471.info
 gls-group.id918471.info
 gls-group.id918491.info
+gls-group.id98265.live
 gls-group.id98759.info
 gls-si.biz
 gls-si.check-order.eu
@@ -1651,6 +1654,7 @@ qejepex.cfd
 qhawanaresort.com
 qkhx.covalysion.ru
 qrto.org
+qualityk.com
 quannaeqeq.online
 quantumsolveinc.com
 quaranda.com
