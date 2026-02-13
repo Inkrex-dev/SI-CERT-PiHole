@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-12 02:49:29 UTC
+# Updated: 2026-02-13 02:49:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -332,6 +332,7 @@ bolha.order-id3698.com
 bolha.order-id4216.shop
 bolha.order-id4635.shop
 bolha.order-id5212.shop
+bolha.order-id5216.shop
 bolha.order-id5412.shop
 bolha.order-id5421.shop
 bolha.order-id6207.com
@@ -870,6 +871,7 @@ hagelstein.me
 hal-ca.com
 hal-cert.com
 hal-cert.net
+hal-e.net
 hal-ecert.com
 hal-kap.com
 hal-si.com
@@ -1267,6 +1269,7 @@ newnoticesett.drr.ac
 newpassettings.drr.ac
 news.only-1-led.com
 nexus-hal.com
+nguoivietkharkov.com
 nhswj.net
 nib-kliksi.com
 nkbm-centrala.com
@@ -1995,6 +1998,7 @@ westwoodvenue.co.uk
 whiterating.ru
 wikitour360.com
 wingkiwss.us
+winhotels.jooyiopai.enterprises
 wixes.life
 wixx-665b6ce4317e3.spiggly.co.uk
 wjd206eko.hier-im-netz.de
