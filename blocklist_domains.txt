@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-13 02:49:56 UTC
+# Updated: 2026-02-14 02:37:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -157,6 +157,7 @@ alfaacclal.it
 alfex-sk.com
 aligned-pillar-5.formassembly.app
 allo.redirection.fr-consultancy.co.uk
+almasonrycorp.com
 alphaplusco.com.au
 alshafaf.ae
 altimar.top
@@ -375,11 +376,13 @@ bolha.receivev.com
 bolha.receivofunds.com
 bolha.receivsfund.com
 bolha.recivefund.com
+bolha.sellgoods2.com
 bolha.slo-group.com
 bolha.slo49510.com
 bolha.slov-si.help
 bolha.verifcc.com
 bolha.verifeu.com
+bolha.verifvcc.com
 bolha.web-order374612.info
 bolha.z-secure.cfd
 booking-com.property-07563.homes
@@ -668,6 +671,7 @@ fko.com.mx
 flameministries.org
 flanp.com
 flexispot-shop.com
+flexzone.im
 fli.so
 fliknovapp.com
 floatsbriefed.org.uk
@@ -718,6 +722,7 @@ gilardonispa.top
 gjtgqhgp2tui7ra.zl.ge
 gls-grou.id9491.com
 gls-group.037182.sale
+gls-group.9008741.com
 gls-group.cyou
 gls-group.id18917.info
 gls-group.id62862.info
@@ -1705,6 +1710,7 @@ retasil.info
 rialtoparty.it
 riosaladohp.com
 rkauth.com
+rlabservices.com
 robertodelapenamarshall.com
 rodo.optinex.pl
 ronnebech.dk
@@ -1725,6 +1731,7 @@ samratbd.com
 sanasalud.vip
 sanatoriofamiliar.com
 schoolportalandbenefit.top
+scintillating.vip
 seaborn-no.com
 secunda.mypi.co
 secure.controllers.world
@@ -2018,6 +2025,7 @@ www.adrdaily.com
 www.agritecnica.cl
 www.amandaweiss.com.br
 www.amvstore.it
+www.applynowrequired.click
 www.appwebmailaasjk2xx1.com
 www.bagc.edu.bd
 www.banakanet-nkbm.com
