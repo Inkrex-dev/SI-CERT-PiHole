@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-17 02:42:33 UTC
+# Updated: 2026-02-18 02:45:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -76,6 +76,7 @@
 73b973cffe1c5b5e6067fc1e1dba66e7.projectbrandingcoaching.com
 73d037c52219daf0681353475353174d.gtenologica.ge
 76.digisphere.marketing
+77.83.39.188
 78evtt7vmivwvy5z.automatenwelt-cl.de
 7c2d34f27cd0e0d593892a17e639f107.equihome.org
 7c8a2569ea0585c8d8a7644e3c56b914.mgconstructioncorp.com
@@ -531,6 +532,7 @@ dh-poslovni.com
 dh-rekono.com
 dhcentrala.com
 dhhranilica.com
+dhi-si.com
 dhldel.xyz
 dhranilica.com
 dicex7.com
@@ -1424,6 +1426,8 @@ p.dtns.me
 p.gainrep.com
 pRNLVk.worix.free.hr
 paceqnta.online
+paketposta-si.com
+paketpostasi.com
 panelelektrikltd.com.tr
 paperless.training
 paravariarweb.com
@@ -1733,6 +1737,7 @@ salesmix.cloud
 samratbd.com
 sanasalud.vip
 sanatoriofamiliar.com
+sardva.org
 schoolportalandbenefit.top
 scintillating.vip
 seaborn-no.com
@@ -1967,6 +1972,7 @@ vhyvcisrwb.mvwooddesigners.pe
 viajesencruceros.grandtours.com.pa
 vibenexusit.ru
 view.bbsv4.net
+vinaapaco.com
 virs.grupoalanared.com
 vizcachagames.com
 vizyonbilgiislem.com
