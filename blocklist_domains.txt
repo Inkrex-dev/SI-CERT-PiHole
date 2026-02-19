@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-18 02:45:54 UTC
+# Updated: 2026-02-19 02:44:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -796,6 +796,7 @@ gls.order63322273.live
 gls.order637001.live
 gls.order6531973.live
 gls.order701421.icu
+gls.order72322.online
 gls.order86086.live
 gls.order86098.com
 gls.order86099.com
@@ -1263,6 +1264,7 @@ nblklik.com
 ndreahotel.com
 nerds4lifeblog.com
 net-flix-serv.online
+netdriveuubdu849nd8.appwrite.network
 netflixerrore24.com
 netflixes.link
 netflixilc.com
@@ -1739,6 +1741,7 @@ sanasalud.vip
 sanatoriofamiliar.com
 sardva.org
 schoolportalandbenefit.top
+schoolradleysnursings.edgeone.dev
 scintillating.vip
 seaborn-no.com
 secunda.mypi.co
@@ -2104,6 +2107,7 @@ www.zamek.ilza.pl
 www.zonalshare.com
 wyopz.maildelivered.email
 xamurmagazine.com
+xcervulaerum.azizidevalopments.com
 xfmeter.store
 xg0lqmd6sy0w29fd.e-vision-tech.de
 xinpi.s3.cubbit.eu
