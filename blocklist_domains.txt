@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-23 02:46:36 UTC
+# Updated: 2026-02-24 02:43:20 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -352,6 +352,7 @@ bolha.order-slo.com
 bolha.order-verify.click
 bolha.pay-3d.site
 bolha.pay-3ds.site
+bolha.potrdi-link-prejemanje.click
 bolha.receive-funds.digital
 bolha.receive-funds.forum
 bolha.receive-funds1.world
@@ -628,6 +629,7 @@ emlpro2025-3a2a46d0db.de
 enede.org
 eng.ae
 ent-10gin.info
+enta.karmashilohs.com
 enwus.com
 epicos.co.in
 eqe.marsvenus.si
@@ -1648,6 +1650,7 @@ prijaja.ddns.cam
 prijava-nlbracun.com
 prijava-otp-banka-si.issl.im
 prijava-otpbanka-si.issl.im
+prijava_telekom_si.gamelaunch.goldwin.com
 prijavaa-nlbsiportal.com
 primoapparel.uk
 printnowgrafica.com.br
