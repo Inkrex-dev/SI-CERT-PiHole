@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-24 02:43:20 UTC
+# Updated: 2026-02-25 02:44:14 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -386,6 +386,7 @@ bolha.slo49510.com
 bolha.slov-si.help
 bolha.verifcc.com
 bolha.verifeu.com
+bolha.verifv.cc
 bolha.verifvcc.com
 bolha.web-order374612.info
 bolha.z-secure.cfd
@@ -743,6 +744,7 @@ gls-group.id98265.live
 gls-group.id98759.info
 gls-si.biz
 gls-si.check-order.eu
+gls-si.forum
 gls-si.order-checking.com
 gls-si.order-list.com
 gls-sl.click
@@ -1023,6 +1025,7 @@ islepersonaliseit.co.uk
 isp-centrala.com
 isp-finance.com
 isp-financni.com
+isp-in.com
 isp-sedez.net
 ispuprava.com
 issl.im
@@ -1513,7 +1516,12 @@ posta-slovenije.top
 posta-xi.top
 posta-zasebno-si.top
 posta-zasebno.top
+posta.055123.com
+posta.6245110.com
+posta.6wys.com
 posta.856785.com
+posta.957509.com
+posta.kpu8.com
 posta.noticegf.help
 posta.noticegh.help
 posta.noticegh.homes
@@ -2033,6 +2041,7 @@ wixx-665b6ce4317e3.spiggly.co.uk
 wjd206eko.hier-im-netz.de
 wooclwkhop.online
 worpcknnel.cfd
+woundsunwrapped.com
 wpmtrading.net
 wpqogn.ifinitefuture.ru
 www-dpd.myflik.help
