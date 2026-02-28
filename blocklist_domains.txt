@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-27 02:38:19 UTC
+# Updated: 2026-02-28 02:27:07 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -70,6 +70,7 @@
 68506.org
 68518.org
 68538.org
+68gamebaipro1.com
 6auf8j6xvyqvzm41.e-vision-tech.de
 6rrb.com
 71356.org
@@ -481,6 +482,7 @@ contractagreement42535788.t3.storage.dev
 controliumbt.com
 coolcat.website
 copba.org.ar
+copmorepartners.com
 coworkingweb.es
 cpanel.cx
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
@@ -923,6 +925,7 @@ hapibergs.com
 hashingalgorithm.challhoub.com
 hassounlbso.com
 hauldwnza.website
+havcert.com
 havenhomes.ae
 hdprint.ro
 heldesk.newsystemupdatemmannagement.com.googlesaer.com.seacon-pl.com
@@ -1615,6 +1618,7 @@ postaisi.com
 postan.top
 postaoe1.ink
 postaonline.one
+postapaket.vip
 postaservices.xyz
 postasi.top
 postasi.work
