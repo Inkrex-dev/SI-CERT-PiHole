@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-02-28 02:27:07 UTC
+# Updated: 2026-03-01 02:53:14 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -340,6 +340,7 @@ bolha.order-id5212.shop
 bolha.order-id5216.shop
 bolha.order-id5412.shop
 bolha.order-id5421.shop
+bolha.order-id5436.shop
 bolha.order-id6207.com
 bolha.order-id6731.shop
 bolha.order-id7297.com
@@ -373,6 +374,7 @@ bolha.receivefunds.com
 bolha.receivefundss.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
+bolha.receivemoney.cc
 bolha.receiveq.com
 bolha.receives-s.sbs
 bolha.receivesfund.com
@@ -387,6 +389,7 @@ bolha.slo49510.com
 bolha.slov-si.help
 bolha.verifcc.com
 bolha.verifeu.com
+bolha.verifu.cc
 bolha.verifv.cc
 bolha.verifvcc.com
 bolha.web-order374612.info
@@ -749,6 +752,7 @@ gls-si.check-order.eu
 gls-si.forum
 gls-si.order-checking.com
 gls-si.order-list.com
+gls-si.top
 gls-sl.click
 gls-sl.id18287.info
 gls-sl.id8182957.info
