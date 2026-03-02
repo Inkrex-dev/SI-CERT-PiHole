@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-01 02:53:14 UTC
+# Updated: 2026-03-02 02:41:05 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -332,6 +332,7 @@ bolha.n000w-pay.icu
 bolha.now-pay.site
 bolha.order-dostava.cfd
 bolha.order-id2974.shop
+bolha.order-id3254.shop
 bolha.order-id3471.com
 bolha.order-id3698.com
 bolha.order-id4216.shop
@@ -890,6 +891,7 @@ gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
 gyweb.info
 gzjls.edgeone.app
 h2roilqas.com
+h6.oxbzat4.club
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 ha-dp.net
 hagelstein.me
@@ -1660,6 +1662,7 @@ praxis-fuer-energiemedizin.ch
 prensaksesuar.com
 preserver.www.silverband.skynews.ecoextracta.com
 prestitiartigiani.it
+preveriti-otp.cfd
 preverjanje-nlb-pay-access-id74556233641977079964.groupsorlink.com
 preverjanje-nlb-pay-access-id86335496306965895494.groupsorlink.com
 preverjanje.pro
