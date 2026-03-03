@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-02 02:41:05 UTC
+# Updated: 2026-03-03 02:43:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1057,6 +1057,7 @@ jlops.frs112.de
 jnfzwdhqui.website
 jnkbm.com
 johnlucas.top
+joycity.in
 june10.standard.us-east-1.oortech.com
 junglegeri.com
 jusdhwuns.online
@@ -1808,6 +1809,7 @@ si-update-nlbpay-clieytkwav.groupsorlink.com
 si-update-nlbpay-halimzpmyo.groupsorlink.com
 si.fliknovapp.com
 si.nlbpay.me
+si.verifierle-badge-bleu.sbs
 sichernauthkraft.de
 simpecon.com
 siotp1skb.com
@@ -1905,6 +1907,7 @@ swscd.org
 syncaccess-hag-db.syncronex.com
 syncz.krymaxio.com
 syntaxtechs.net
+t-2net.com
 t.dripemail2.com
 t2.slov-si.help
 t2m.io
@@ -2028,6 +2031,7 @@ vtbpiy9bgrc90z7c.automatenwelt-cl.de
 vtdqkpu1afqjojv11isf.webauth.sbs
 w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
+web3meta-msksecureupdate.dalmug.org
 webmail-auth-0te7sc02-login.html-5.me
 webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
