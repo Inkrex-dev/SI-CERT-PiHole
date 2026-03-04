@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-03 02:43:36 UTC
+# Updated: 2026-03-04 02:36:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -245,6 +245,7 @@ bigthinking.one
 billingfailed.digital
 billingsmanager.buffalocuboidzx10g.com
 bin-si.com
+bisnmsx.com
 biteonus.com
 bitzli.ch
 bks-sl.com
@@ -383,6 +384,7 @@ bolha.receivesfunds.com
 bolha.receivev.com
 bolha.receivofunds.com
 bolha.receivsfund.com
+bolha.receviedr.com
 bolha.recivefund.com
 bolha.sellgoods2.com
 bolha.slo-group.com
@@ -597,6 +599,7 @@ dpd.ureceiveu.com
 dpldteam.click
 dqkxhrpnhosnfrh9.ays9ujizq.su
 drenchedinlove.com
+drinkingwithangelika.com
 dripl.ink
 drivenotaone215246.fwh.is
 dtninsaat.com
@@ -957,6 +960,7 @@ host.novaljubljanskabankadd.com
 hotelboked9543383.world
 hotelilty.net
 hranilnica-phv.com
+hse-helpcenter.com
 hsfreshsystem.online
 https-otpbanka-si.issl.im
 hugograas.com.ar
@@ -1108,6 +1112,7 @@ lainezhotelzudokd.epp-xl.com
 lamacosto.fr
 lancejacks.suvithas.com
 laoairilnes.com
+lapharma.in
 lasko.com@tinyfy.cc
 latinsecurities-uy.com
 lausanne.dk
@@ -1421,6 +1426,7 @@ optin.pemln.net
 opweqryqajsgsgjdnzbxhdipkl.edgeone.app
 oramco.pk
 ordertakemoneysoulfood.com
+orjisippc.nexla.org.za
 otakkanan.co.id
 otp-banka-si-prijava.i-iill.de
 otp-banka.mojawebka.eu
@@ -1434,6 +1440,7 @@ otpbanka-26.cfd
 otpbanka-837.cfd
 otpbanka-links.cfd
 otpbanka-si-prijava.issl.im
+otpbanka-si-prijava.llii.im
 otpbanka-si.com
 otpbanking.cfd
 otpbonks.com
@@ -1810,6 +1817,7 @@ si-update-nlbpay-halimzpmyo.groupsorlink.com
 si.fliknovapp.com
 si.nlbpay.me
 si.verifierle-badge-bleu.sbs
+siapcuan.my.id
 sichernauthkraft.de
 simpecon.com
 siotp1skb.com
