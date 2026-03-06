@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-05 02:39:36 UTC
+# Updated: 2026-03-06 02:36:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -429,6 +429,7 @@ cadaverine.tehillsglobal.com
 cafedesafari.com
 caja-ahorros.silice.si
 call_domainname_here.acafdxiaharbor.com
+cam-agents.com
 candidoeguimaraes.com.br
 caneicorps.com
 cannonpult.com
@@ -481,6 +482,7 @@ connectonlines.online
 console.italianhoneyhub.it
 contact-us-business-help-home-782147956.on-fleek.app
 contact.distributoins.click
+contact.introductions.vu
 contact.leveragers.click
 contact.necessarys.digital
 content.airpromo.com.br
@@ -729,6 +731,7 @@ gbkr365dni.com
 gcm.wucitra.firm.in
 gdp.diocesedecrato.org
 gdx.io
+gedexamai.com
 geopolint.com
 georgemathieson.co.uk
 getvrork.us
@@ -1434,6 +1437,7 @@ otp-banka-si-prijava.i-iill.de
 otp-banka.mojawebka.eu
 otp-bankanet.cfd
 otp-cert.com
+otp-db.com
 otp-login.cfd
 otp-racunovodstvo.com
 otp-verify.online
@@ -2041,6 +2045,7 @@ voxlivepro.com
 vozer.net
 vtbpiy9bgrc90z7c.automatenwelt-cl.de
 vtdqkpu1afqjojv11isf.webauth.sbs
+w5ws19ua.segmite.org
 w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
 web3meta-msksecureupdate.dalmug.org
@@ -2162,6 +2167,7 @@ xamurmagazine.com
 xcervulaerum.azizidevalopments.com
 xfmeter.store
 xg0lqmd6sy0w29fd.e-vision-tech.de
+xingzhi.store
 xinpi.s3.cubbit.eu
 xtindb.org
 xuifrbycrzagi.gooddonkey.org
