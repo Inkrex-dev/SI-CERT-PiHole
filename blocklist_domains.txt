@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-06 02:36:52 UTC
+# Updated: 2026-03-07 02:30:00 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1547,6 +1547,7 @@ posta.6245110.com
 posta.6wys.com
 posta.856785.com
 posta.957509.com
+posta.ctgpxo.homes
 posta.kpu8.com
 posta.noticegf.help
 posta.noticegh.help
@@ -1628,6 +1629,7 @@ posta.urgenthc.help
 posta.urgenthc.homes
 posta.urgentjy.help
 posta.urgentkd.help
+posta.xutiys.click
 posta24.click
 posta24.me
 posta24.top
@@ -2108,6 +2110,7 @@ www.eloterjja.si
 www.eniclic.com
 www.eskb.net
 www.fcommu70.com.ng
+www.fireplaceoutfltters.com
 www.geea.sk
 www.gimmickfactory.com
 www.help-account-verifyy.click
