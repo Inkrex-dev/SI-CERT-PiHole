@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-08 02:43:16 UTC
+# Updated: 2026-03-09 02:44:41 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -877,6 +877,7 @@ gls.svoje.info
 gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
+glsmojkurir.help
 gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
@@ -1108,6 +1109,7 @@ koherense.com
 komunikacijastoritev-arnes.test119973.test-account.com
 kortlink.dk
 ksrxgo.ticknstacked.com
+kucoin.si
 kullerbytta.com
 kupujemprodajem.dostava.click
 kutt.it
