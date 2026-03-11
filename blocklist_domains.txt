@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-10 02:35:38 UTC
+# Updated: 2026-03-11 02:34:42 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -239,9 +239,11 @@ beptaoquan.vn
 bestahotelawit.nor-an.com
 bestahotellive.bow-ub.com
 bestihotelafes.gax-uk.com
+betalenwinkel.nl
 beukema.space
 bff7b1b0db.big-shop.ge
 bigthinking.one
+bikegoed.nl
 billingfailed.digital
 billingsmanager.buffalocuboidzx10g.com
 bin-si.com
@@ -374,6 +376,7 @@ bolha.receivefundds.com
 bolha.receivefunde.com
 bolha.receivefunds.com
 bolha.receivefundss.com
+bolha.receivem.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
 bolha.receivemoney.cc
@@ -959,6 +962,7 @@ hlcauth.com
 hnny3s8jkobtzhxj.blindfind.de
 holavallarta.mx
 homdtrwers.us
+homeglobal.cloudhomesdtdteams.live
 homerepairhelper.co
 horizontesperdidos.com
 hoss.ind.br
@@ -1787,6 +1791,7 @@ s-netstik.com
 s-rekono.net
 s4dpd-si.self-verify.com
 safe2open.terrassedeladyle-be.com
+safetransmit-secrelaydoc.todovito1.com
 sahrther.top
 sales5rrt.digital
 salesmix.cloud
@@ -1865,6 +1870,7 @@ skskb.com
 slcdc.net
 sledenje-posta.help
 slivhpjwrd.website
+slo.advanced-blutickfanpages.sbs
 slo498756.com
 slotp1skb.com
 slotpinskb.com
