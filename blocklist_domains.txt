@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-11 02:34:42 UTC
+# Updated: 2026-03-13 02:38:57 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -112,9 +112,11 @@ ab28b4ecb10e1fb0241e31f8655c74fe.izvorfoca.net
 abrahamrollmusic.com
 abre.ai
 academicbizpro.com
+access.piagginaerospace.info
 accesses.moderations.digital
 account-security.fwh.is
 account.credentials.world
+account.supports.vu
 accounts-hetzner.stretchshopmen.nl
 accounts-hetzner.wolfmystical.com
 accounts.efficencient.digital
@@ -187,6 +189,7 @@ applink.2book.com
 apsis.es
 arbiteex.io
 arena.atlantislinks.com
+arhstroyproect.store
 ariani.es
 arnes.webmail.net.co
 arts2nfts.com
@@ -649,6 +652,7 @@ enwus.com
 epicos.co.in
 eqe.marsvenus.si
 erc02.cfd
+ernika.store
 esc0mmerce.eu
 estafeeta.ink
 estebanveguer.com
@@ -657,6 +661,7 @@ eu-skbinotp.com
 euotpinskb.com
 euproSKBotp.com
 euproskbotp.com
+eurocbd.store
 eventveterans.com
 evolvehairsolution.com
 evreux-eboutik.fr
@@ -972,6 +977,7 @@ host.novaljubljanskabankadd.com
 hotelboked9543383.world
 hotelilty.net
 hranilnica-phv.com
+hru.community-verify-skampagne.click
 hse-helpcenter.com
 hsfreshsystem.online
 https-otpbanka-si.issl.im
@@ -1101,6 +1107,7 @@ kendari4d.net
 kenzo777slot.com
 keogloxal.us
 kermisinheemskerk.nl
+kesgravebadminton.org.uk
 keswiftleads.com
 ketchen.centercommercialonline.com
 kings22kar.com
@@ -1790,6 +1797,7 @@ s-kb1.net
 s-netstik.com
 s-rekono.net
 s4dpd-si.self-verify.com
+saddem-mcsortscreentst.mdbgo.io
 safe2open.terrassedeladyle-be.com
 safetransmit-secrelaydoc.todovito1.com
 sahrther.top
@@ -1799,6 +1807,7 @@ samratbd.com
 sanasalud.vip
 sanatoriofamiliar.com
 sardva.org
+schaden.rother-bremen.de
 schoolportalandbenefit.top
 schoolradleysnursings.edgeone.dev
 scintillating.vip
@@ -1834,6 +1843,7 @@ si-postatrackingv.life
 si-postazasebno.top
 si-update-nlbpay-clieytkwav.groupsorlink.com
 si-update-nlbpay-halimzpmyo.groupsorlink.com
+si.advanced-blutickfanpages.sbs
 si.fliknovapp.com
 si.nlbpay.me
 si.verifierle-badge-bleu.sbs
@@ -1914,6 +1924,7 @@ staffpartners.pl
 stamiwop.us
 starslot.one
 starti.tn
+steellifeinc.us
 steprimo.com
 sterlitamakadm.ru
 stik365.com
@@ -1957,8 +1968,10 @@ test-sklep.justbefit.pl
 testnsolution.com
 theaudiobooklab.net
 thecharteredvendor.com
+themews.co.nz
 theopendor-mission.com
 theperfumescollection.com
+thepowderroom.co.nz
 thesleekmart.com
 thistimeway.co
 ti-usr1-cp.cuc-carrera-ti.ac.cr
@@ -1971,6 +1984,7 @@ tlsn.io
 to.getsavyy.com
 tomdesign.si
 tomimarkets.net
+torphy.scorp251.net
 toysforkids.zone
 track-my-ups-parcel.com
 trackcloud.xyz
@@ -2195,6 +2209,7 @@ ys1.barywhents.ru
 yume.cutegirl.jp
 yuvahallabol.in
 yuyetrtetee-uyeteuej-ueydjdd-yteyhdjd.online
+zak.minimalistspace.de
 zerodwaixt.us
 zfrmz.com
 zhinchafoods-ftu.mdbgo.io
