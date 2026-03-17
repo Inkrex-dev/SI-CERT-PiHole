@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-16 03:17:24 UTC
+# Updated: 2026-03-17 02:41:03 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -372,6 +372,7 @@ bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receiveb.com
 bolha.receivec.sbs
+bolha.receiveden.com
 bolha.receivedffunds.com
 bolha.receivedfund.com
 bolha.receiveefunds.com
@@ -1131,6 +1132,7 @@ kullerbytta.com
 kupujempradajem.linija-dostave.cfd
 kupujemprodajem.dostava.click
 kutt.it
+kuzam.net
 kzofar.dradilsongomes.com.br
 lacrossestablic.com
 laimpresion3d.es
@@ -1303,6 +1305,7 @@ my92b8bf88-a2hosting-com.tidalboreinn.com
 mydublinguide.com
 myebay.digital
 myemail.skydynamics.com
+mygls-order.si
 mypost.mmkbk.online
 mysi.live
 mysupportservicee.com
@@ -1979,6 +1982,7 @@ telkomnet.com.ng
 test-sklep.justbefit.pl
 testnsolution.com
 theaudiobooklab.net
+thebuzz413.com
 thecharteredvendor.com
 themews.co.nz
 theopendor-mission.com
