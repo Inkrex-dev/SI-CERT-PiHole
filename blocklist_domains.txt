@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-18 02:47:30 UTC
+# Updated: 2026-03-19 02:49:13 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -179,6 +179,7 @@ angstparty.co.za
 ansieng.com
 anxutrading.com
 api-6y1dwzzk6.hsfreshsystem.online
+api-jic887brd.d0csrsvpnow.digital
 api.spently.com
 apinfinite-design.com
 app.formester.com
@@ -518,6 +519,7 @@ customserviamz-paymtstetamseis.aceinst.edu.pk
 cvgfsvc.cc
 cyberuls.com
 d-hranilnica.com
+d0csrsvpnow.digital
 d53aa5d82d03b7fc7f8c2517cdcf4d20.ashokahospital.org
 d9f4d39cae884701bd74f247af5b24b9.albfilz.com
 damirphoto.net
