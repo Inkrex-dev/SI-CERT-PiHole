@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-21 02:33:09 UTC
+# Updated: 2026-03-22 02:49:43 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -466,6 +466,7 @@ chicstyle123.com
 chopefoundation.co.za
 cidt.ci
 cineaudio.de
+cityexpress.cc
 citywear.com.bd
 cj3EPc52QTPeUvt.ccforaction.com
 ckoya-coiffure.fr
