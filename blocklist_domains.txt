@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-23 02:49:48 UTC
+# Updated: 2026-03-24 02:41:27 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -582,6 +582,7 @@ dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
 dnkpos.ink
 doc-previewonline-76282-10286275ghfkwai.online
+documentation.contains.life
 docxxmonsters.com
 domenca.spofex.de
 don.figmail.email
@@ -954,6 +955,7 @@ halcom-v.com
 halcom-varnost.com
 halcomsecure.com
 halcomsecured.com
+halcomsecuredv.com
 haldp.com
 halkap.com
 halkonta.com
@@ -1984,6 +1986,7 @@ tatlibuketi.com
 tcint-konkurs.ch
 tdmx.com.mx
 tealil.info
+techadobe.com
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
@@ -2245,5 +2248,6 @@ zak.minimalistspace.de
 zerodwaixt.us
 zfrmz.com
 zhinchafoods-ftu.mdbgo.io
+zigallerie.store
 zkwmbsqdoa.icu
 zucowidpy.online
