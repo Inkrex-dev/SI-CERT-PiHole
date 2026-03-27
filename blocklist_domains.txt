@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-26 02:53:15 UTC
+# Updated: 2026-03-27 02:55:42 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -403,6 +403,7 @@ bolha.slo49510.com
 bolha.slov-si.help
 bolha.verifcc.com
 bolha.verifeu.com
+bolha.verifp.com
 bolha.verifu.cc
 bolha.verifv.cc
 bolha.verifvcc.com
@@ -959,6 +960,7 @@ halcomdns.com
 halcomsecure.com
 halcomsecured.com
 halcomsecuredv.com
+halcomssl.com
 haldp.com
 halkap.com
 halkonta.com
@@ -1553,6 +1555,7 @@ posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 posljipaket.me
 post-si.com
+post-slovenije.com
 post3-ae.icu
 posta-gs.top
 posta-is.cyou
