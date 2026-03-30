@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-29 03:18:37 UTC
+# Updated: 2026-03-30 03:21:24 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -89,6 +89,7 @@
 8gweb.info
 8qweb.info
 924931.com
+9401921.com
 987641.com
 99781b2ad0-2187b-5ec9c.kavlenio.com
 9iweb.info
@@ -767,6 +768,7 @@ gls-grou.id9491.com
 gls-group.037182.sale
 gls-group.098731.si
 gls-group.9008741.com
+gls-group.9401921.com
 gls-group.98295.live
 gls-group.cyou
 gls-group.id18917.info
@@ -1000,6 +1002,7 @@ hotelboked9543383.world
 hotelilty.net
 hranilnica-phv.com
 hru.community-verify-skampagne.click
+hse-dodatek.si
 hse-helpcenter.com
 hse-info-help.com
 hsfreshsystem.online
