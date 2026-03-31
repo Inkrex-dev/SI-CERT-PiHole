@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-30 03:21:24 UTC
+# Updated: 2026-03-31 02:54:43 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1210,6 +1210,7 @@ luzesolution.com.br
 lyli.fi
 m365.com.cloud.lvps999.xyz
 m4o.orvexture.com
+machadofuneraria.com.br
 madbir4u.co.il
 maewaks.co.ke
 mailbox-settings-update.s3.eu-central-3.ionoscloud.com
@@ -1469,6 +1470,7 @@ online.otpbankaid.digital
 online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
+openai-onlinekhw.dafleek.com
 openai.secureiazone.sbs
 oplevxperten.one
 optba.com
