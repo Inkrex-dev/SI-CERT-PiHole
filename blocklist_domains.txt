@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-03-31 02:54:43 UTC
+# Updated: 2026-04-01 03:25:39 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -305,6 +305,7 @@ bolha.brezskrbi.trade
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
+bolha.dostava-link-info.sbs
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
 bolha.id12518901.info
@@ -627,6 +628,7 @@ dtninsaat.com
 dub.sh
 dz256cz3.de
 dzamarifbobo.org
+e-uprava-gov.si
 e.vg
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
@@ -660,6 +662,7 @@ emlpro2025-3a2a46d0db.de
 enede.org
 eng.ae
 ent-10gin.info
+enta.baxterbatting.com
 enta.karmashilohs.com
 enwus.com
 epicos.co.in
@@ -842,6 +845,7 @@ gls.order237645.com
 gls.order24003.live
 gls.order30828.live
 gls.order334433.live
+gls.order34991.live
 gls.order63322273.live
 gls.order637001.live
 gls.order6531973.live
@@ -853,6 +857,7 @@ gls.order86099.com
 gls.order86105.com
 gls.order86130.live
 gls.order86143.live
+gls.order86157.live
 gls.page231445.cfd
 gls.prejemdenarja0.icu
 gls.receive-funds.sbs
@@ -1003,6 +1008,7 @@ hotelilty.net
 hranilnica-phv.com
 hru.community-verify-skampagne.click
 hse-dodatek.si
+hse-electro.com
 hse-helpcenter.com
 hse-info-help.com
 hsfreshsystem.online
@@ -1012,6 +1018,7 @@ human-captcha.ru
 huweb.info
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
 hyy.cdreyj.com
+hzascita.com
 iRekono.com
 ib-gbkr.com
 ib-nkbm.com
@@ -1175,6 +1182,7 @@ legalize.ph
 legaz.es
 leovigueraye.info
 lgrouptg.com
+lightningbull.com
 link.enormail.eu
 link3p.org
 linkotpbanka.cfd
@@ -1251,6 +1259,7 @@ mercator.650euro.online
 meta-business-help-center-case-100000365258956.on-fleek.app
 meta-instagram-supportcenter.cfd
 metiopniqueskuitr471.com
+metspa.cam
 mffunilariaepintura.com
 microestrategico.com
 microfineye.com
@@ -1470,6 +1479,7 @@ online.otpbankaid.digital
 online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
+openai-onlinecfg.dafleek.com
 openai-onlinekhw.dafleek.com
 openai.secureiazone.sbs
 oplevxperten.one
