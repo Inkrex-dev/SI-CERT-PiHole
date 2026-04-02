@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-01 03:25:39 UTC
+# Updated: 2026-04-02 02:51:04 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -421,6 +421,7 @@ booklng.conflrmation-ld654883.com
 bounce.pivobu.pro
 boxinggolbal.de
 bqc2vlm2ewpklod.soundkraft-me.com
+branidy.com
 bridge.metalsart.in
 brightbrains.net
 brothersfarm.contact
@@ -774,6 +775,7 @@ gls-group.9008741.com
 gls-group.9401921.com
 gls-group.98295.live
 gls-group.cyou
+gls-group.gls-grupservice.com
 gls-group.id18917.info
 gls-group.id62862.info
 gls-group.id8918471.info
@@ -916,6 +918,7 @@ gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
 grco.de
 green.sterlitamakadm.ru
+greenbuddes.eu
 greenleafaccounting.net
 grimecoin.io
 grupocas.com.br
@@ -1016,6 +1019,9 @@ https-otpbanka-si.issl.im
 hugograas.com.ar
 human-captcha.ru
 huweb.info
+hvarnost.com
+hvarnost24.com
+hvarstvo.com
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
 hyy.cdreyj.com
 hzascita.com
@@ -1175,6 +1181,7 @@ lausanne.dk
 lavazemonline.com
 lawlytics.in
 lawyergrowthsummits.com
+lcaoman.com
 lccwv.info
 ledger-livestart-support.online
 ledger.com-recovery.com
@@ -1321,6 +1328,7 @@ mountainstatesmdr.com
 mpazlinares.cl
 mrcltda.cl
 mrishimrcandeyenclave.com
+mskelectronicsfzco.com
 mtienergyinc.evanescepackaging.cfd
 mtsul.com
 muhammadumersheraz.com
