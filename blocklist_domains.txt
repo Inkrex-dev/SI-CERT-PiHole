@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-02 02:51:04 UTC
+# Updated: 2026-04-03 02:53:25 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -179,6 +179,7 @@ andersonsrubbishremoval.com.au
 angstparty.co.za
 ansieng.com
 anxutrading.com
+aob.terminmail.de
 api-6y1dwzzk6.hsfreshsystem.online
 api-jic887brd.d0csrsvpnow.digital
 api.spently.com
@@ -708,6 +709,7 @@ filkinlbsi.com
 finalelimination.eu
 finanzenerstattung.at
 findattacheddocuments.buzz
+finzascita.com
 firverr.org
 fitfam.pl
 fiveacresgarage.top
@@ -772,6 +774,7 @@ gls-grou.id9491.com
 gls-group.037182.sale
 gls-group.098731.si
 gls-group.9008741.com
+gls-group.908741.info
 gls-group.9401921.com
 gls-group.98295.live
 gls-group.cyou
@@ -787,6 +790,7 @@ gls-group.supseet.sbs
 gls-si.biz
 gls-si.check-order.eu
 gls-si.forum
+gls-si.live
 gls-si.order-checking.com
 gls-si.order-list.com
 gls-si.top
@@ -927,6 +931,7 @@ grupomiracle.com
 gs0cl78hu5.nhyutreorea.com
 gstnahb.vacant-res.com
 gtly.ink
+gubancsi.onlineprecisionhub.de
 guest.283742.online
 guestverify13334-booking.com
 guio.sandrinereal.com
@@ -1012,6 +1017,7 @@ hranilnica-phv.com
 hru.community-verify-skampagne.click
 hse-dodatek.si
 hse-electro.com
+hse-energija.com
 hse-helpcenter.com
 hse-info-help.com
 hsfreshsystem.online
