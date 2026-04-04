@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-03 02:53:25 UTC
+# Updated: 2026-04-04 02:44:04 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -88,6 +88,7 @@
 8d507faea8737e1012619e81868cea52.quantibright.com
 8gweb.info
 8qweb.info
+908741.info
 924931.com
 9401921.com
 987641.com
@@ -842,6 +843,7 @@ gls.or72943.live
 gls.order-si.com
 gls.order-slo.com
 gls.order012211.icu
+gls.order01842.live
 gls.order110025353.live
 gls.order11122.com
 gls.order11199973.live
