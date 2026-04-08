@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-07 02:56:19 UTC
+# Updated: 2026-04-08 03:16:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -346,6 +346,7 @@ bolha.now-pay.site
 bolha.order-dostava.cfd
 bolha.order-id2974.shop
 bolha.order-id3254.shop
+bolha.order-id3456.sale
 bolha.order-id3471.com
 bolha.order-id3698.com
 bolha.order-id4216.shop
@@ -1586,6 +1587,7 @@ posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 posljipaket.me
 post-si.com
+post-si.online
 post-slovenije.com
 post3-ae.icu
 posta-gs.top
@@ -1900,6 +1902,7 @@ servnetflix.com
 servwebintlaccmaudwabdus.sabdabsjajaskn10.biz.id
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
 shop.naturacenter.es
+shoperify.check5862.sbs
 shorten.is
 shorten.so
 shorten.world
@@ -1945,6 +1948,7 @@ skbslo.com
 skhealer.com
 skierife.com
 skskb.com
+sl1nk.com
 slcdc.net
 sledenje-posta.help
 slivhpjwrd.website
