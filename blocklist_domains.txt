@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-09 02:52:13 UTC
+# Updated: 2026-04-10 03:24:38 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -420,6 +420,7 @@ booking-pre-approved384226-ap372541028.hotel-share-5bhd4e.online
 booking.938472.store
 booking.confirmation-id089172.com
 booking.confirmation-id88182.com
+bookingguestverify.com
 booklng.conflrmation-ld654883.com
 bounce.pivobu.pro
 boxinggolbal.de
@@ -1793,6 +1794,7 @@ profile.workplaces.world
 proklikleaseandgo.xyz
 prometnigov.com
 proposaldocsfilesdev.xyz
+proppart.com
 prorsum.pro
 proskbeu.com
 protection.standard.us-east-1.oortstorages.com
@@ -1879,6 +1881,7 @@ samuelandwilliams.co.uk
 sanasalud.vip
 sanatoriofamiliar.com
 sardva.org
+sated.es
 schaden.rother-bremen.de
 schoolportalandbenefit.top
 schoolradleysnursings.edgeone.dev
@@ -2014,6 +2017,7 @@ sunabxq.com
 support-brows-nails.steinaeckerhof-leroch.de
 support-web.thegamestiny.com
 support.c9pp1xsry2.free.hr
+supportbookingkoala.com
 supremeip.net
 surl.lt
 sustainablepakistan.org
@@ -2286,6 +2290,7 @@ xuifrbycrzagi.gooddonkey.org
 xumeryn.cfd
 xwic.net
 xzecpjf.callligaris.com
+yellowcloverconsulting.co.za
 yelsed.nl
 yourcardlegend.com
 yousufmandhro.com
