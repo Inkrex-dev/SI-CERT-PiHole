@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-10 03:24:38 UTC
+# Updated: 2026-04-11 02:48:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -380,6 +380,7 @@ bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receiveb.com
 bolha.receivec.sbs
+bolha.received.top
 bolha.receiveden.com
 bolha.receivedffunds.com
 bolha.receivedfund.com
@@ -517,6 +518,7 @@ costumer.manage.apsa-psicologos.com
 coworkingweb.es
 cpanel.cx
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
+cpssaccesspanelhost3810796wyjzxmhl6cxailcj0x21rarrodiscosom.acm-tax.gr
 crepiqome.online
 crm1.ascentismedia.com
 crmk.com.ar
@@ -590,6 +592,7 @@ dkpostfirst.info
 dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
 dnkpos.ink
+doamienin-serve.pilzschule-nordwest.de
 doc-previewonline-76282-10286275ghfkwai.online
 documentation.contains.life
 docxxmonsters.com
@@ -1281,6 +1284,7 @@ meta-instagram-supportcenter.cfd
 metiopniqueskuitr471.com
 metspa.cam
 mffunilariaepintura.com
+mhl6cxailcj0x2rarogruc2j1cmdhcm1hawxlci5jb20vdwq4zwlqzm.acm-tax.gr
 microestrategico.com
 microfineye.com
 middlemathmovement.us
@@ -2214,6 +2218,7 @@ www.bolha-si.an37482716.com
 www.cdlitalia.it
 www.collaboratecode.com
 www.conqcook.com
+www.copefi.com
 www.digitalcrossways.com
 www.dinalislam.com.bn
 www.downloadnationalrecommenddevice.autos
