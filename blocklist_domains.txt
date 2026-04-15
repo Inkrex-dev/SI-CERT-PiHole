@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-14 03:24:25 UTC
+# Updated: 2026-04-15 03:22:24 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -37,6 +37,7 @@
 1xskb.com
 20974a133d2ec6dfe920d20d010716b1.equihomeinternational.at
 228439.gooddonkey.org
+24-info.si
 24c9d.cfd
 286283476351272kymsmyqkkopm.feedsforgrowth.xyz
 2aweb.info
@@ -91,6 +92,7 @@
 908741.info
 924931.com
 9401921.com
+940851.info
 987641.com
 99781b2ad0-2187b-5ec9c.kavlenio.com
 9iweb.info
@@ -1446,6 +1448,7 @@ nlbpairhelper.com
 nlbpay-si.enh.life
 nlbsi.com
 nlbslovenija.mobilenlbids.com
+nlbsupport24.si
 nlbupdate.bingen-anamur.eu
 nlib-klik.com
 nllb-klick.com
@@ -1516,6 +1519,7 @@ opweqryqajsgsgjdnzbxhdipkl.edgeone.app
 oramco.pk
 ordertakemoneysoulfood.com
 orjisippc.nexla.org.za
+osip.co.za
 otakkanan.co.id
 otp-banka-si-prijava.i-iill.de
 otp-banka.mojawebka.eu
@@ -1833,6 +1837,7 @@ quintinodoprado.com
 qwpblrffecoqf.gooddonkey.org
 qx-financial.com
 r-ekono.com
+r.ar-mtch1.com
 r4d477zhyhv5nwev.e-vision-tech.de
 r9ocn.ru
 rabotadlyavseh2.ru
