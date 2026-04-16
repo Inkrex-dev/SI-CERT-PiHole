@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-15 03:22:24 UTC
+# Updated: 2026-04-16 03:30:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -178,6 +178,7 @@ amendes-gouv.solutions
 amfoodsna.ca
 amicsdelopera.com
 amringenieria.com.ar
+amzgo.20-172-65-119.cpanel.site
 andersonsrubbishremoval.com.au
 angstparty.co.za
 ansieng.com
@@ -346,6 +347,7 @@ bolha.money-receive2.shop
 bolha.n000w-pay.icu
 bolha.now-pay.site
 bolha.order-dostava.cfd
+bolha.order-id2175.live
 bolha.order-id2974.shop
 bolha.order-id3254.shop
 bolha.order-id3456.sale
@@ -413,6 +415,7 @@ bolha.verifcc.com
 bolha.verifeu.com
 bolha.verifp.com
 bolha.verifu.cc
+bolha.verifu.xyz
 bolha.verifv.cc
 bolha.verifvcc.com
 bolha.web-order374612.info
@@ -519,6 +522,7 @@ cordlon.com
 costumer.manage.apsa-psicologos.com
 coworkingweb.es
 cpanel.cx
+cpscure.20-172-65-119.cpanel.site
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
 cpssaccesspanelhost3810796wyjzxmhl6cxailcj0x21rarrodiscosom.acm-tax.gr
 crepiqome.online
@@ -647,6 +651,7 @@ easistent.prijava.eu
 econtdelidhi.cloud
 editorcard.com
 edwardtumwine.com
+eej.at
 eeq07.icu
 ekbm365.com
 elbertenergycapital.com
@@ -670,6 +675,7 @@ emailman.zumaworks.top
 emailport.dandalion.top
 emails.novaljubljanskabk.com
 emlpro2025-3a2a46d0db.de
+enbdx.net
 enede.org
 eng.ae
 ent-10gin.info
@@ -1015,6 +1021,7 @@ hfheygfyhfgfg.pescasporta.com
 hibuxyukse.brababetjogo.com
 hlcauth.com
 hnny3s8jkobtzhxj.blindfind.de
+hobartservice.help
 holavallarta.mx
 homdtrwers.us
 homeglobal.cloudhomesdtdteams.live
@@ -1215,6 +1222,7 @@ linkotpbanka.cfd
 links-mbank.cfd
 links-otpbank.cfd
 links.mbbank.cfd
+lions-lndustries.com
 lisboaadschool.com
 liveguardfixcenter.top
 liveprofiles.cc
