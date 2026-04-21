@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-20 03:34:41 UTC
+# Updated: 2026-04-21 03:26:57 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -682,7 +682,9 @@ eng.ae
 ent-10gin.info
 enta.baxterbatting.com
 enta.karmashilohs.com
+entreestradasedestinos.com.br
 enwus.com
+epic-sale.top
 epicos.co.in
 eqe.marsvenus.si
 erc02.cfd
@@ -719,6 +721,7 @@ fedex-si.an29483727477.live
 fedex-si.an83746281.com
 fenixconsultores.com.br
 fernandalagoarquiteta.com.br
+fertylsu84796.ct.ws
 ffnqwxtdwe.alexylalito.pe
 fgnpreq.cc
 fi.2ix.de
@@ -1437,6 +1440,7 @@ nlb-si4.site
 nlb.jasuma-austindo.com
 nlb.klik.04-29-2024.kardiocentro.cl
 nlb.klik.knowsitall.info
+nlb.samleikin.app
 nlb2py.com
 nlb365dni.net
 nlbappg.com
@@ -1805,6 +1809,7 @@ prijavaa-nlbsiportal.com
 primoapparel.uk
 printnowgrafica.com.br
 privwebaccupdtpymntauthowemgvokwemgo.masjndfnweigroe.biz.id
+prizeonlines.com
 prml.ink
 proad.top
 probashikhobor.com
