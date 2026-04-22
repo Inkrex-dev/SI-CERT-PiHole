@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-21 03:26:57 UTC
+# Updated: 2026-04-22 03:25:08 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -118,6 +118,7 @@ abre.ai
 academicbizpro.com
 access.piagginaerospace.info
 accesses.moderations.digital
+accouint-rakiuten-jp.com
 account-security.fwh.is
 account.credentials.world
 account.supports.vu
@@ -307,6 +308,7 @@ bolha.accept-payment8013.click
 bolha.bolha.site
 bolha.brezskrbi.cc
 bolha.brezskrbi.com
+bolha.brezskrbi.top
 bolha.brezskrbi.trade
 bolha.deliscr.com
 bolha.delivery-id5712.com
@@ -660,6 +662,7 @@ electricbicycle-usa.com
 elefantepink.com
 elertek.org
 elna.com.ar
+elsinet.eu
 em.gainrepmail.com
 email.barbadas.click
 email.lighthouse-lab.com
@@ -1295,6 +1298,7 @@ mdejq4mh.dreamwp.com
 mdtile.ca
 mdw-flamingo.de
 me-nlb-banka.com
+mejoutai.builders
 mellavi.cl
 memberntfx.com
 mercandogmbh.com
@@ -1355,6 +1359,7 @@ mojhgls.id98597.live
 mojotp24.com
 mojpaket.info
 mojskbotp.com
+mokakosare.buzz
 monboislocal.fr
 moneygram-eu.7324.click
 monge.pl
@@ -1578,6 +1583,7 @@ panelelektrikltd.com.tr
 paperless.training
 paravariarweb.com
 parkeasttownhomes.com
+partners.costumer.balearyc.com
 pay.klikomics.com
 payments.users.drumroamin.uk
 payplintelverify1.site
