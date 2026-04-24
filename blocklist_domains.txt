@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-23 03:28:47 UTC
+# Updated: 2026-04-24 03:30:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -314,6 +314,7 @@ bolha.brezskrbi.cc
 bolha.brezskrbi.com
 bolha.brezskrbi.top
 bolha.brezskrbi.trade
+bolha.brezskrbii.top
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
@@ -425,6 +426,7 @@ bolha.verifu.cc
 bolha.verifu.xyz
 bolha.verifv.cc
 bolha.verifvcc.com
+bolha.verifyll.xyz
 bolha.web-order374612.info
 bolha.z-secure.cfd
 booking-com.property-07563.homes
@@ -526,6 +528,7 @@ coolcat.website
 copba.org.ar
 copmorepartners.com
 cordlon.com
+cornflowerpromoes.info
 costumer.manage.apsa-psicologos.com
 coworkingweb.es
 cpanel.cx
@@ -2055,6 +2058,7 @@ sterlitamakadm.ru
 stik365.com
 stirrupimpetus.us
 stratusypatch.us
+stt-flux.com
 studioclittarru.it
 studioibc.cfd
 submit-form.com
@@ -2079,6 +2083,7 @@ t.dripemail2.com
 t2.slov-si.help
 t2m.io
 t7ts.aterpishu.com
+t9vz.beastdatatrackinghub.com
 tadabburplus.com
 tai-app.cloud
 taketimeandverify.online%3ABC@abc.si
@@ -2125,6 +2130,7 @@ tradesingh.info
 traumainquiry.com
 trecappelli.it
 trk-tairiku.com
+trk.layers-develop-pen-rain.run
 truster.shaurin.com
 trustwe3.com
 tt.vg
@@ -2139,6 +2145,7 @@ ujlog.ci
 ultradjheifiers.online
 uni-lj-webmail.info
 unicredlt-si.com
+unimechautomation.com
 uniteccorporation.com
 upayuweb.com
 update-infos.online
@@ -2232,6 +2239,7 @@ whiterating.ru
 wikitour360.com
 wingkiwss.us
 winhotels.jooyiopai.enterprises
+wintheiser.stjohnsbloxwich.org.uk
 wixes.life
 wixx-665b6ce4317e3.spiggly.co.uk
 wjd206eko.hier-im-netz.de
@@ -2266,6 +2274,7 @@ www.copefi.com
 www.digitalcrossways.com
 www.dinalislam.com.bn
 www.downloadnationalrecommenddevice.autos
+www.effective-program-national-free.autos
 www.ellencookephotography.com
 www.eloterjja.si
 www.eniclic.com
@@ -2285,6 +2294,8 @@ www.jqwjg69.com
 www.kcmvalve.com
 www.kingpower.com
 www.laminat-almaty.kz
+www.lesdoto.com
+www.lojopi.com
 www.me-nlb-banka.com
 www.mk-nlb.com
 www.mobilenlbid.com
@@ -2297,6 +2308,7 @@ www.nib-klick.com
 www.nib-klik.com
 www.nkbm-online.com
 www.nlbgroups.net
+www.nlbslovenia.live
 www.nllb-klikc.com
 www.nllb-kllk.com
 www.nova-ljubijanska.com
