@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-29 03:44:04 UTC
+# Updated: 2026-04-30 03:46:20 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -319,6 +319,7 @@ bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
 bolha.dostava-link-info.sbs
+bolha.dostava-potrditev1.click
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
 bolha.id12518901.info
@@ -831,6 +832,7 @@ gls-si.order-list.com
 gls-si.top
 gls-sl.biz
 gls-sl.click
+gls-sl.forum
 gls-sl.id18287.info
 gls-sl.id8182957.info
 gls-sl.rest
@@ -2366,6 +2368,7 @@ yuvahallabol.in
 yuyetrtetee-uyeteuej-ueydjdd-yteyhdjd.online
 z8ixg.infinityautornations.com
 zak.minimalistspace.de
+zanove.com
 zerodwaixt.us
 zfrmz.com
 zhinchafoods-ftu.mdbgo.io
