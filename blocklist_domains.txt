@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-04-30 03:46:20 UTC
+# Updated: 2026-05-01 03:57:35 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -87,6 +87,7 @@
 7c8a2569ea0585c8d8a7644e3c56b914.mgconstructioncorp.com
 818b7920b5b9f4d3775e9de2c4e9e7eb.veronicabonanomi.it
 84506.cfd
+86349123.appmagic.co.za
 899830ec32.big-shop.ge
 8d507faea8737e1012619e81868cea52.quantibright.com
 8gweb.info
@@ -839,6 +840,7 @@ gls-sl.rest
 gls-sl.xyz
 gls.a-sends.sbs
 gls.bload.eu
+gls.bolha.info
 gls.click-select689.com
 gls.delivery-link7267.icu
 gls.dostava-link2829.icu
