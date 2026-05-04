@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-03 03:52:25 UTC
+# Updated: 2026-05-04 03:50:17 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1550,6 +1550,7 @@ online.otpbankaid.digital
 online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
+oo2w7buimfxzsiiqxosei5gjiux4k4c2qwutebaiastbhhvretjq.0x0.io.vn
 openai-onlinecfg.dafleek.com
 openai-onlinekhw.dafleek.com
 openai-onlineqat.rvmobltech.com
