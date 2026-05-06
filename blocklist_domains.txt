@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-05 03:32:32 UTC
+# Updated: 2026-05-06 03:46:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -386,6 +386,7 @@ bolha.ordgmtr811.cfd
 bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.potrdi-link-prejemanje.click
+bolha.prejemanje-sredstev02019.shop
 bolha.receive-funds.digital
 bolha.receive-funds.forum
 bolha.receive-funds1.world
@@ -429,6 +430,7 @@ bolha.verifu.cc
 bolha.verifu.xyz
 bolha.verifv.cc
 bolha.verifvcc.com
+bolha.verifycardl.com
 bolha.verifyll.xyz
 bolha.web-order374612.info
 bolha.z-secure.cfd
@@ -838,6 +840,7 @@ gls-sl.click
 gls-sl.forum
 gls-sl.id18287.info
 gls-sl.id8182957.info
+gls-sl.live
 gls-sl.rest
 gls-sl.xyz
 gls.a-sends.sbs
@@ -1067,6 +1070,7 @@ hru.community-verify-skampagne.click
 hse-dodatek.si
 hse-electro.com
 hse-energija.com
+hse-energy.info
 hse-helpcenter.com
 hse-info-help.com
 hsfreshsystem.online
