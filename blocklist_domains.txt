@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-07 03:45:19 UTC
+# Updated: 2026-05-08 03:37:13 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -387,6 +387,7 @@ bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.potrdi-link-prejemanje.click
 bolha.prejemanje-sredstev02019.shop
+bolha.prejemanje-sredstev923491.shop
 bolha.receive-funds.digital
 bolha.receive-funds.forum
 bolha.receive-funds1.world
@@ -810,6 +811,7 @@ ghamdamn671xkaz.graficosdm.com.uy
 giggedfrog.com
 gilardonispa.top
 gjtgqhgp2tui7ra.zl.ge
+gls-connects.com
 gls-delivery.com
 gls-grou.id9491.com
 gls-group.037182.sale
@@ -913,6 +915,7 @@ gls.order86105.com
 gls.order86130.live
 gls.order86141.live
 gls.order86143.live
+gls.order86145.live
 gls.order86157.live
 gls.order86199.live
 gls.order918325.biz
@@ -1447,6 +1450,7 @@ nexus-hal.com
 nguoivietkharkov.com
 nhswj.net
 nib-kliksi.com
+nietclix.tkburgers.com
 nkbm-centrala.com
 nkbm-otp.com
 nkbm-otp1.com
@@ -1667,6 +1671,7 @@ posta-plk.top
 posta-secure.homes
 posta-si-pack.click
 posta-si-za.top
+posta-si-zasebno.cfd
 posta-si-zasebno.services
 posta-si.cfd
 posta-si.click
@@ -2066,6 +2071,7 @@ srv.geraldaschonewille.nl
 srv75466.seohost.com.pl
 ssa-stmt-us.de
 sshhknt.conohawing.com
+stackby.com
 staffdocportal.cc
 staffpartners.pl
 stamiwop.us
@@ -2249,6 +2255,7 @@ webmail.authslrc.com
 webmail.euskaralogikoada.eus
 webmail450129449.tastecp.com
 webmail647877505.tastecp.com
+webmailadmincloudsecurity_liphaqi_securepaneladmin_.voreno.vu
 weedprofitsystemapp.com
 welcomewebserver.digital
 weqwea.online
@@ -2326,6 +2333,7 @@ www.nepremicnine.net-stanovanje.live
 www.nib-klick.com
 www.nib-klik.com
 www.nkbm-online.com
+www.nlb-klik.com
 www.nlbgroups.net
 www.nlbslovenia.live
 www.nllb-klikc.com
@@ -2357,6 +2365,7 @@ www.tripadvisor.us-n8725715.rentals
 www.ukgrowthclub.com
 www.verification-accountt.click
 www.verifyemailnow.click
+www.ville.laval.qc.ca
 www.zamek.ilza.pl
 www.zonalshare.com
 wyopz.maildelivered.email
