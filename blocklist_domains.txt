@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-08 03:37:13 UTC
+# Updated: 2026-05-09 03:38:07 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -620,6 +620,7 @@ dl8tijfagt1z2u9h.automatenwelt-cl.de
 dnkpos.ink
 doamienin-serve.pilzschule-nordwest.de
 doc-previewonline-76282-10286275ghfkwai.online
+docsfilefolders.horizonex.org
 documentation.contains.life
 docxxmonsters.com
 domenca.spofex.de
@@ -746,6 +747,7 @@ ffnqwxtdwe.alexylalito.pe
 fgnpreq.cc
 fi.2ix.de
 figmail.email
+filedn.com
 filkinlbsi.com
 finalelimination.eu
 finanzenerstattung.at
@@ -856,6 +858,7 @@ gls.dostava-link2829.icu
 gls.dostava-prejemanje1929.biz
 gls.dostava.biz
 gls.dostava.bond
+gls.dostava.club
 gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
@@ -2218,6 +2221,7 @@ vhyvcisrwb.mvwooddesigners.pe
 viajesencruceros.grandtours.com.pa
 vibenexusit.ru
 view.bbsv4.net
+viewproportaltr.sbs
 vinaapaco.com
 virs.grupoalanared.com
 vizcachagames.com
@@ -2369,6 +2373,7 @@ www.ville.laval.qc.ca
 www.zamek.ilza.pl
 www.zonalshare.com
 wyopz.maildelivered.email
+x-express.bih-dostawka.sbs
 xamurmagazine.com
 xcervulaerum.azizidevalopments.com
 xfmeter.store
