@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-14 03:56:58 UTC
+# Updated: 2026-05-15 04:01:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -231,6 +231,7 @@ bafkreidvz55a5sjxuuou7cbmwwbcvk6sarmz6jtwik5vmsvgruz6prnmly.ipfs.flk-ipfs.xyz
 bafkreif4r4pfnr2g623xnmbiof7ysc3mmfgppg3ff7lrggwaqdy4qqjk5q.ipfs.flk-ipfs.xyz
 bafkreif6fkyiqtsn3toftsfv7z22d3xpjm5yrq6inw25nv4jnznkiyojna.ipfs.flk-ipfs.xyz
 bafkreifphwlhidxwlki7vsc2gleos7jmh4n42eic5nbkyvbqygmq7ec7ce.ipfs.flk-ipfs.xyz
+bafkreifslnnmmq7twkpgw7wsxjbt3gtv4h7my55o7763xdfkparvmo4lhu.ipfs.dweb.lin
 bafkreig26oac57telhsn52pdseca7fdkwaisehbrqq5bi746quyepw6bzq.ipfs.flk-ipfs.xyz
 bafkreig7mzjiuhaaqpwn4g2hdhug3ubdl36gvepabtnm2eujw3sfilnkhq.ipfs.flk-ipfs.xyz
 bafybeib23s2cxhqg4fppva4g6blnxfqikic7grosrttte4mfahy2ao62qq.ipfs.flk-ipfs.xyz
@@ -271,6 +272,7 @@ bin-si.com
 bisnmsx.com
 biteonus.com
 bitzli.ch
+bj13811437077.com
 bks-sl.com
 blenfghading.online
 blog.filleaupluriel.fr
@@ -1151,6 +1153,7 @@ interactive-security.com
 interactivebrokers-home.com
 interactivebrokers-security.com
 interactivemediala.com
+intercommerce.trenix.nl
 interiakastliveresbrnkeers.com
 interiakastliveresxbokeers.com
 interiakastliverevbrokeers.com
@@ -1273,6 +1276,7 @@ liveguardfixcenter.top
 liveprofiles.cc
 llink.to
 llosrl.com
+ln.shorturl.es
 lnk.do
 localcincinnatinews.com
 login-user-verification28.beardpaintings.com
@@ -2406,4 +2410,5 @@ zfrmz.com
 zhinchafoods-ftu.mdbgo.io
 zigallerie.store
 zkwmbsqdoa.icu
+znszdruzenje.trenix.nl
 zucowidpy.online
