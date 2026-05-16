@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-15 04:01:02 UTC
+# Updated: 2026-05-16 03:41:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -67,6 +67,7 @@
 51.195.123.107
 54f2505a860ba863a39cef389d9b88c4.quantibright.com
 5nphqn.troubleyn.com
+5th-elementagency.com
 5tvne9bvz6jbues.zl.ge
 5vyzfro.dr6ga.1drywash.space
 68497.org
@@ -85,6 +86,7 @@
 78evtt7vmivwvy5z.automatenwelt-cl.de
 7c2d34f27cd0e0d593892a17e639f107.equihome.org
 7c8a2569ea0585c8d8a7644e3c56b914.mgconstructioncorp.com
+7djvv82mc4.growwithefficiency.de
 818b7920b5b9f4d3775e9de2c4e9e7eb.veronicabonanomi.it
 84506.cfd
 86349123.appmagic.co.za
@@ -362,6 +364,7 @@ bolha.id93034154.info
 bolha.id93571.info
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
+bolha.nnhongfa.com
 bolha.now-pay.site
 bolha.order-dostava.cfd
 bolha.order-id2175.live
@@ -671,6 +674,8 @@ dub.sh
 dz256cz3.de
 dzamarifbobo.org
 e-uprava-gov.si
+e-uprava.gov-si.shop
+e-uprava.govsi.online
 e.vg
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
@@ -984,6 +989,19 @@ glsmojkurir.help
 gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
+gov-si.cam
+gov-si.qpon
+gov-si.top
+govsi.cam
+govsi.one
+govsi.qpon
+govsi.sbs
+govsigovsi.com
+govsiigovsii.com
+govsiii.com
+govsiiii.com
+govsssi.com
+govtsi.top
 grco.de
 green.sterlitamakadm.ru
 greenbuddes.eu
@@ -1998,6 +2016,8 @@ shorten.so
 shorten.world
 shupenia.com
 shvdeelse.online
+si-gov.cam
+si-gov.one
 si-home-post.life
 si-mbank.cfd
 si-postatrackingv.life
@@ -2258,6 +2278,7 @@ web3meta-msksecureupdate.dalmug.org
 webmail-auth-0te7sc02-login.html-5.me
 webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
+webmail-autho.fsydwlh.com
 webmail-autho.ifuqin.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
@@ -2322,6 +2343,7 @@ www.fcommu70.com.ng
 www.fireplaceoutfltters.com
 www.geea.sk
 www.gimmickfactory.com
+www.govsi.bond
 www.help-account-verifyy.click
 www.help-verify-account.click
 www.hirumalaichemical.info
