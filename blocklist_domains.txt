@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-16 03:41:56 UTC
+# Updated: 2026-05-17 04:01:34 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -674,8 +674,11 @@ dub.sh
 dz256cz3.de
 dzamarifbobo.org
 e-uprava-gov.si
+e-uprava.gov-si.icu
 e-uprava.gov-si.shop
+e-uprava.govsi.buzz
 e-uprava.govsi.online
+e-uprava.govsi.work
 e.vg
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
@@ -989,11 +992,17 @@ glsmojkurir.help
 gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
+gov-cenik.com
+gov-placati.com
+gov-placilo.com
 gov-si.cam
 gov-si.qpon
+gov-si.sbs
 gov-si.top
 govsi.cam
+govsi.lat
 govsi.one
+govsi.pics
 govsi.qpon
 govsi.sbs
 govsigovsi.com
@@ -1083,6 +1092,7 @@ helper.surveychmerms.com
 het.antoniaworld.com
 hfheygfyhfgfg.pescasporta.com
 hibuxyukse.brababetjogo.com
+hitro-placilo.com
 hlcauth.com
 hnny3s8jkobtzhxj.blindfind.de
 hobartservice.help
@@ -1245,6 +1255,7 @@ kings22kar.com
 kitdesigner.primoapparel.uk
 kittensmarket.com
 klik-nlb.cfd
+klik-nlb.com
 klikappnlb.online
 kneepaintreatmentpro.com
 knfmj.csbnr.com
@@ -2343,6 +2354,7 @@ www.fcommu70.com.ng
 www.fireplaceoutfltters.com
 www.geea.sk
 www.gimmickfactory.com
+www.govsi.asia
 www.govsi.bond
 www.help-account-verifyy.click
 www.help-verify-account.click
