@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-17 04:01:34 UTC
+# Updated: 2026-05-18 04:14:32 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -996,11 +996,18 @@ gov-cenik.com
 gov-placati.com
 gov-placilo.com
 gov-si.cam
+gov-si.mom
 gov-si.qpon
 gov-si.sbs
 gov-si.top
+gov-sicart-si.top
+gov-sicart-si.uno
+gov-sicart.cc
+gov.govsigovsli.cyou
+govsi.bar
 govsi.cam
 govsi.lat
+govsi.mom
 govsi.one
 govsi.pics
 govsi.qpon
@@ -1553,6 +1560,7 @@ nmotp.com
 nmotp365.com
 nohasphilartmuse.com
 nolia.fr
+northernlightfilms.com
 notafiscal.from-ga.com
 notebook.gaistaicrai.digital
 novakaolwastrabo.com
@@ -1678,7 +1686,10 @@ pioneerselectricals.ae
 piosst.top
 piousis.top
 pkmaza.com
+placilni-kanal.cc
+placilni-kanal.com
 placilo-posta.com
+placilo-stroskov.cc
 plu.sh
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
@@ -1950,6 +1961,7 @@ randewijkbeterwonen.nl
 ravikrushnaheights.com
 reachoutperk.info
 reactivate-domain.ittco.cl
+reaktivacija-isps.com
 realgymessentials.com
 rebrandly.info
 recovery-ledgersupport.com
