@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-18 04:14:32 UTC
+# Updated: 2026-05-19 04:08:42 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -679,6 +679,7 @@ e-uprava.gov-si.shop
 e-uprava.govsi.buzz
 e-uprava.govsi.online
 e-uprava.govsi.work
+e-uprrava.eu.cc
 e.vg
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
@@ -766,6 +767,9 @@ filkinlbsi.com
 finalelimination.eu
 finanzenerstattung.at
 findattacheddocuments.buzz
+finessa-justcegov.click
+finessa-justcegov.help
+finessa-justcegov.uno
 finzascita.com
 firverr.org
 fitfam.pl
@@ -863,6 +867,7 @@ gls-sl.id8182957.info
 gls-sl.live
 gls-sl.rest
 gls-sl.xyz
+gls.83958.lat
 gls.a-sends.sbs
 gls.bload.eu
 gls.bolha.info
@@ -993,6 +998,7 @@ gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
 gov-cenik.com
+gov-is.govsligovnsi.cyou
 gov-placati.com
 gov-placilo.com
 gov-si.cam
@@ -1000,24 +1006,54 @@ gov-si.mom
 gov-si.qpon
 gov-si.sbs
 gov-si.top
+gov-si.xin
+gov-sicart-si.click
+gov-sicart-si.sbs
 gov-sicart-si.top
 gov-sicart-si.uno
+gov-sicart-sim.sbs
+gov-sicart-simi.click
 gov-sicart.cc
+gov-sicirt-si.sbs
+gov-sikirt-si.sbs
+gov-sioirt-si.sbs
+gov-sisart-si.sbs
+gov-siwirt-si.sbs
+gov-sneix-si.sbs
+gov-vision-si.sbs
 gov.govsigovsli.cyou
+gove.lat
+govh.lat
+govj.lat
+govk.lat
+govo.lat
 govsi.bar
 govsi.cam
+govsi.homes
 govsi.lat
 govsi.mom
 govsi.one
 govsi.pics
 govsi.qpon
 govsi.sbs
+govsia.sbs
+govsibillll.com
+govsibin.com
+govsic.sbs
 govsigovsi.com
+govsii.sbs
 govsiigovsii.com
 govsiii.com
 govsiiii.com
+govsio.sbs
+govsisisi.com
+govsiv.sbs
+govsix.sbs
+govssiii.com
+govssili.com
 govsssi.com
 govtsi.top
+govx.lat
 grco.de
 green.sterlitamakadm.ru
 greenbuddes.eu
@@ -1200,6 +1236,7 @@ ioserve.org
 iranparametric.com
 ironbd.com
 isb-podjetja.com
+iskanje-informacij.cc
 iskbinotp-eu.com
 islepersonaliseit.co.uk
 isp-centrala.com
@@ -1591,6 +1628,7 @@ nxskb.com
 nzposco.top
 oa41o.xyals.ru
 obnovitev-si.com
+obracun-stroskov.cc
 oclassificador.com.br
 odfvsfds.de
 odhikfskjrjkndpkundbms-hdsgmdnknsdn.edgeone.app
@@ -1878,6 +1916,7 @@ postslovenija.top
 posyer-qy.top
 posyer-rs.top
 potsbn.top
+povracilo-stroskov.cc
 powerswiss.us
 ppao110093.zya.me
 pradhikar.org
@@ -1975,6 +2014,8 @@ renew.wiiixpayments.com
 renewal-wix-com-dfc45ae9b69cb858cb38646e9efe.breidal.com
 rentalreviewg274924-d12637212.72936201.com
 reservation.hotels-wmm.com
+reserve.3qnlfz.com
+reserve.lpjn917.com
 respwfulus.online
 resvalidedelivery.de
 retasil.info
@@ -2449,6 +2490,7 @@ yume.cutegirl.jp
 yuvahallabol.in
 yuyetrtetee-uyeteuej-ueydjdd-yteyhdjd.online
 z8ixg.infinityautornations.com
+zaid-designs.com
 zak.minimalistspace.de
 zanove.com
 zerodwaixt.us
