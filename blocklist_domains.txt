@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-19 04:08:42 UTC
+# Updated: 2026-05-20 04:09:18 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -429,6 +429,7 @@ bolha.receivofunds.com
 bolha.receivsfund.com
 bolha.receviedr.com
 bolha.recivefund.com
+bolha.recpay.top
 bolha.sellgoods2.com
 bolha.slo-group.com
 bolha.slo49510.com
@@ -483,6 +484,9 @@ candidoeguimaraes.com.br
 caneicorps.com
 cannonpult.com
 captcha-resolve.com
+carfees-gov-sietc.uno
+carfees-sietc.cfd
+carfees-sietc.top
 cartershippingline.org
 casavestrella.com
 casinoatlanticcitybet.com.pe
@@ -938,6 +942,7 @@ gls.order86130.live
 gls.order86141.live
 gls.order86143.live
 gls.order86145.live
+gls.order86151.live
 gls.order86157.live
 gls.order86199.live
 gls.order918325.biz
@@ -1007,6 +1012,10 @@ gov-si.qpon
 gov-si.sbs
 gov-si.top
 gov-si.xin
+gov-sia.top
+gov-siart-si.sbs
+gov-sicar-si.top
+gov-sicarisms.sbs
 gov-sicart-si.click
 gov-sicart-si.sbs
 gov-sicart-si.top
@@ -1017,9 +1026,13 @@ gov-sicart.cc
 gov-sicirt-si.sbs
 gov-sikirt-si.sbs
 gov-sioirt-si.sbs
+gov-siqirt-si.sbs
 gov-sisart-si.sbs
 gov-siwirt-si.sbs
+gov-sizirt-si.sbs
+gov-slove-im.click
 gov-sneix-si.sbs
+gov-soveli-si.sbs
 gov-vision-si.sbs
 gov.govsigovsli.cyou
 gove.lat
@@ -1027,6 +1040,8 @@ govh.lat
 govj.lat
 govk.lat
 govo.lat
+govq.lat
+govsci.sbs
 govsi.bar
 govsi.cam
 govsi.homes
@@ -1035,8 +1050,10 @@ govsi.mom
 govsi.one
 govsi.pics
 govsi.qpon
+govsi.rest
 govsi.sbs
 govsia.sbs
+govsiai.sbs
 govsibillll.com
 govsibin.com
 govsic.sbs
@@ -1049,6 +1066,8 @@ govsio.sbs
 govsisisi.com
 govsiv.sbs
 govsix.sbs
+govsni.sbs
+govsov.sbs
 govssiii.com
 govssili.com
 govsssi.com
@@ -1377,6 +1396,7 @@ m4o.orvexture.com
 machadofuneraria.com.br
 madbir4u.co.il
 maewaks.co.ke
+mail.adianjing.com
 mail14.vumar.top
 mail15.jupitar.online
 mailbox-settings-update.s3.eu-central-3.ionoscloud.com
@@ -1686,6 +1706,7 @@ otpcentrala.com
 otpdtapp.com
 otplinks.cfd
 otpquiz.icu
+otpviiip.com
 otskb.com
 ottonlbp.com
 ovationwifi.com
