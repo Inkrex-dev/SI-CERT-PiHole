@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-20 04:09:18 UTC
+# Updated: 2026-05-21 04:18:17 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -454,6 +454,8 @@ booking.confirmation-id88182.com
 bookingguestverify.com
 booklng.conflrmation-ld654883.com
 bounce.pivobu.pro
+box-glsgroup.top
+box-sigroup.buzz
 boxinggolbal.de
 bqc2vlm2ewpklod.soundkraft-me.com
 branidy.com
@@ -636,6 +638,7 @@ doc-previewonline-76282-10286275ghfkwai.online
 docsfilefolders.horizonex.org
 documentation.contains.life
 docxxmonsters.com
+dolvax.casa
 domenca.spofex.de
 don.figmail.email
 downloadsharedfile.de
@@ -689,6 +692,7 @@ e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
 econtdelidhi.cloud
+edavkidurs-davek.sbs
 editorcard.com
 edwardtumwine.com
 eej.at
@@ -841,6 +845,7 @@ gls-grou.id9491.com
 gls-group.037182.sale
 gls-group.098731.si
 gls-group.9008741.com
+gls-group.904981.help
 gls-group.908741.info
 gls-group.9401921.com
 gls-group.98295.live
@@ -854,6 +859,7 @@ gls-group.id918491.info
 gls-group.id98265.live
 gls-group.id98759.info
 gls-group.supseet.sbs
+gls-groupi.sbs
 gls-paket.si
 gls-partner-group.com
 gls-si.biz
@@ -871,11 +877,15 @@ gls-sl.id8182957.info
 gls-sl.live
 gls-sl.rest
 gls-sl.xyz
+gls-yourgroup.cyou
 gls.83958.lat
 gls.a-sends.sbs
 gls.bload.eu
 gls.bolha.info
 gls.click-select689.com
+gls.com-dda.cfd
+gls.com-dka.cfd
+gls.com-tonk.sbs
 gls.delivery-link7267.icu
 gls.dostava-link2829.icu
 gls.dostava-prejemanje1929.biz
@@ -1345,6 +1355,7 @@ lasko.com@tinyfy.cc
 latinsecurities-uy.com
 lausanne.dk
 lavazemonline.com
+lavilifescience.com
 lawlytics.in
 lawyergrowthsummits.com
 lcaoman.com
@@ -1451,6 +1462,7 @@ mimorvrste.com
 mimovorste.com
 mimrovrste.com
 mitiid.com
+mittelco.art
 mixaeronautics.com
 mkbm365.com
 mobilenlbid.com
@@ -1555,6 +1567,7 @@ nguoivietkharkov.com
 nhswj.net
 nib-kliksi.com
 nietclix.tkburgers.com
+njj.standard.us-east-1.oortstorages.com
 nkbm-centrala.com
 nkbm-otp.com
 nkbm-otp1.com
@@ -1569,6 +1582,7 @@ nkmbe.com
 nkwebsolutions.nl
 nlb-bank.com
 nlb-banka-online.com
+nlb-banka.com
 nlb-eklik.click
 nlb-klik-me.click
 nlb-klik.lat
@@ -1670,6 +1684,7 @@ online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
 oo2w7buimfxzsiiqxosei5gjiux4k4c2qwutebaiastbhhvretjq.0x0.io.vn
+openai-chatgpt.tennispoint.es
 openai-onlinecfg.dafleek.com
 openai-onlinekhw.dafleek.com
 openai-onlineqat.rvmobltech.com
@@ -1810,6 +1825,7 @@ posta.6245110.com
 posta.6wys.com
 posta.856785.com
 posta.957509.com
+posta.bllbj.com
 posta.ctgpxo.homes
 posta.kpu8.com
 posta.noticegf.help
@@ -2520,4 +2536,5 @@ zhinchafoods-ftu.mdbgo.io
 zigallerie.store
 zkwmbsqdoa.icu
 znszdruzenje.trenix.nl
+zpr.io
 zucowidpy.online
