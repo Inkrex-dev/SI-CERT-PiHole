@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-21 04:18:17 UTC
+# Updated: 2026-05-22 04:13:37 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -519,6 +519,7 @@ clcr.me
 clientlogin.sapconcurrentservices.help
 clinsesmt.com
 clippingpathmission.com
+clk.pvnsolutions.com
 cllick.xyz
 cloudflare-ipfs.com
 cocic-calc.com
@@ -554,6 +555,7 @@ cormier.trimaxdatacenter.com
 cornflowerpromoes.info
 costumer.manage.apsa-psicologos.com
 coworkingweb.es
+coyx7vfjh8.trustworthyplatform.de
 cpanel.cx
 cpscure.20-172-65-119.cpanel.site
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
@@ -723,6 +725,7 @@ emlpro2025-3a2a46d0db.de
 enbdx.net
 enede.org
 eng.ae
+enquiryportal.strategicstability.de
 ent-10gin.info
 enta.baxterbatting.com
 enta.karmashilohs.com
@@ -1008,10 +1011,12 @@ gls.svoje.info
 gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
+glsgroup.mom
 glsmojkurir.help
 gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
+gosell.ro
 gov-cenik.com
 gov-is.govsligovnsi.cyou
 gov-placati.com
@@ -1929,6 +1934,7 @@ postasi.work
 postasial.cc
 postasii-zasebno.top
 postasii.top
+postasiiii.com
 postaslovenias.click
 postaslovenias.xyz
 postaslovenija.icu
@@ -2101,6 +2107,7 @@ senged.com
 seriesandtv.com
 servadmnauth.de
 server.app.cloud.banbarfurniture.com
+server.crisanalitica.com
 server.ronrol.com
 server.www.portload.aljazeera.ecoextracta.com
 serverxs4all.com
@@ -2459,6 +2466,7 @@ www.kingpower.com
 www.laminat-almaty.kz
 www.lesdoto.com
 www.lojopi.com
+www.mailsetup.app
 www.me-nlb-banka.com
 www.mk-nlb.com
 www.mobilenlbid.com
