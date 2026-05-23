@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-22 04:13:37 UTC
+# Updated: 2026-05-23 03:52:07 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -441,6 +441,7 @@ bolha.verifu.cc
 bolha.verifu.xyz
 bolha.verifv.cc
 bolha.verifvcc.com
+bolha.verifycardeu.com
 bolha.verifycardl.com
 bolha.verifyll.xyz
 bolha.web-order374612.info
@@ -924,6 +925,7 @@ gls.id9847.com
 gls.mom
 gls.my-obj.com
 gls.my-si.info
+gls.mygls-group.online
 gls.myorder.sbs
 gls.myslik.sbs
 gls.new-si.com
