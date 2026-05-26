@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-25 04:23:24 UTC
+# Updated: 2026-05-26 04:08:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -679,6 +679,7 @@ drenchedinlove.com
 drinkingwithangelika.com
 dripl.ink
 drivenotaone215246.fwh.is
+drscoin.net
 dtninsaat.com
 dub.sh
 dz256cz3.de
@@ -2071,6 +2072,7 @@ rkauth.com
 rlabservices.com
 robertodelapenamarshall.com
 rodo.optinex.pl
+romecolosseumapartment.com
 ronnebech.dk
 roundcube-support.vitaminopro-uz.com
 roundgin.com
