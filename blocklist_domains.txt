@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-05-26 04:08:50 UTC
+# Updated: 2026-05-27 04:22:14 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -250,6 +250,7 @@ bankanet-otpbanka.cfd
 bankanet-si.cfd
 bankaotplinks.cfd
 banknet-si.cfd
+baotianlvhua.com
 baron-sa.com.ar
 bascularcabines.com.br
 basinkoymahallesi.com
@@ -325,6 +326,7 @@ bolha.brezskrbi.top
 bolha.brezskrbi.trade
 bolha.brezskrbii.top
 bolha.brezsrbi.top
+bolha.brzskr.top
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
@@ -500,6 +502,7 @@ celemaifrumoasecarti.ro
 celsius-recreate.com
 centrodesgios.sviluppo.host
 cert-zascita.com
+cflix.e2childcare.com
 channelwebtech.com
 charleslaurenfoundation.org
 chatgpt.subscriptions-manager.sbs
@@ -635,6 +638,7 @@ djc1syp3i78huv1f.grind-pvc.com
 dkpostfirst.info
 dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
+dlfix.e2childcare.com
 dnkpos.ink
 doamienin-serve.pilzschule-nordwest.de
 doc-previewonline-76282-10286275ghfkwai.online
@@ -834,6 +838,8 @@ gcm.wucitra.firm.in
 gdp.diocesedecrato.org
 gdx.io
 gedexamai.com
+geniiiigroup.com
+geniiligroup.com
 geopolint.com
 georgemathieson.co.uk
 gestetner.co.za
@@ -950,6 +956,7 @@ gls.order637001.live
 gls.order6531973.live
 gls.order701421.icu
 gls.order72322.online
+gls.order84033.live
 gls.order86086.live
 gls.order86098.com
 gls.order86099.com
@@ -1374,6 +1381,7 @@ ledger.com-recovery.com
 legalize.ph
 legaz.es
 leovigueraye.info
+letsgetitnow2.store
 lgrouptg.com
 lightningbull.com
 link.enormail.eu
@@ -2335,6 +2343,7 @@ url8356.zyprr.net
 urlbae.bio
 urls.fr
 user-login894393929032toda98j32.accessomfs.com
+user.cheacker.store
 user.manage.wix.pawsparlour.com
 user.manager.wix.soriahview.uk
 users.manage.florenceoregon.net
