@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-01 04:55:51 UTC
+# Updated: 2026-06-02 04:43:13 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1055,6 +1055,7 @@ gov-sicart-simi.click
 gov-sicart.cc
 gov-sicirt-si.sbs
 gov-sikirt-si.sbs
+gov-silvexi-si.sbs
 gov-sioirt-si.sbs
 gov-siqirt-si.sbs
 gov-sisart-si.sbs
@@ -1358,6 +1359,7 @@ koherense.com
 komunikacijastoritev-arnes.test119973.test-account.com
 kortlink.dk
 ksrxgo.ticknstacked.com
+ktexim.pro
 kucoin.si
 kullerbytta.com
 kupujempradajem.linija-dostave.cfd
@@ -1723,6 +1725,7 @@ osip.co.za
 otakkanan.co.id
 otp-banka-si-prijava.i-iill.de
 otp-banka.mojawebka.eu
+otp-banka.net
 otp-bankanet.cfd
 otp-cert.com
 otp-db.com
@@ -2397,7 +2400,9 @@ voxlivepro.com
 vozer.net
 vtbpiy9bgrc90z7c.automatenwelt-cl.de
 vtdqkpu1afqjojv11isf.webauth.sbs
+vyciv.com
 vyntrar.com
+vzajemnaaa.com
 w5ws19ua.segmite.org
 w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
