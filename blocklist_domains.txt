@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-02 04:43:13 UTC
+# Updated: 2026-06-03 04:52:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -65,6 +65,7 @@
 4qweb.info
 50172.cfd
 51.195.123.107
+51guzheng.net
 54f2505a860ba863a39cef389d9b88c4.quantibright.com
 5nphqn.troubleyn.com
 5th-elementagency.com
@@ -447,6 +448,7 @@ bolha.verifv.cc
 bolha.verifvcc.com
 bolha.verifycardeu.com
 bolha.verifycardl.com
+bolha.verifycardleu.com
 bolha.verifyll.xyz
 bolha.web-order374612.info
 bolha.z-secure.cfd
@@ -503,6 +505,7 @@ cebigh.com
 celemaifrumoasecarti.ro
 celsius-recreate.com
 centrodesgios.sviluppo.host
+cert-dora.com
 cert-zascita.com
 cflix.e2childcare.com
 channelwebtech.com
@@ -883,6 +886,7 @@ gls-si.forum
 gls-si.live
 gls-si.order-checking.com
 gls-si.order-list.com
+gls-si.sale
 gls-si.top
 gls-sl.biz
 gls-sl.click
@@ -893,6 +897,8 @@ gls-sl.live
 gls-sl.rest
 gls-sl.xyz
 gls-yourgroup.cyou
+gls.279927.com
+gls.704831.com
 gls.83958.lat
 gls.a-sends.sbs
 gls.bload.eu
@@ -1103,6 +1109,7 @@ govssiii.com
 govssili.com
 govsssi.com
 govtsi.top
+govvvsi.com
 govx.lat
 grco.de
 green.sterlitamakadm.ru
@@ -1201,6 +1208,7 @@ host.domizil-schoeme.de
 host.novaljubljanskabankadd.com
 hotelboked9543383.world
 hotelilty.net
+hotelinfo-hotelrewiews.com
 hranilnica-phv.com
 hru.community-verify-skampagne.click
 hse-dodatek.si
