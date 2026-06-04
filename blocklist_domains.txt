@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-03 04:52:02 UTC
+# Updated: 2026-06-04 04:46:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1133,6 +1133,7 @@ gzjls.edgeone.app
 h2roilqas.com
 h6.oxbzat4.club
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
+ha-cert.com
 ha-dp.net
 hagelstein.me
 hal-ca.com
