@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-04 04:46:10 UTC
+# Updated: 2026-06-05 04:20:44 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -591,6 +591,7 @@ damirphoto.net
 dariobuscaglia.it
 dariomusicatv.it
 darkroadsmu.com
+datesoases.com
 davis.birgit-schoenle.de
 dbdoc.org
 dbotp.com
@@ -1202,6 +1203,7 @@ holavallarta.mx
 homdtrwers.us
 homeglobal.cloudhomesdtdteams.live
 homerepairhelper.co
+hoppe.berliner-ruderjugend.de
 horizontesperdidos.com
 hoss.ind.br
 host.creativpoints.de
@@ -2141,6 +2143,7 @@ server.crisanalitica.com
 server.ronrol.com
 server.www.portload.aljazeera.ecoextracta.com
 serverxs4all.com
+service.oden-tool.com
 service2w2n8428update-nlb.hier-im-netz.de
 serviceportal-1qmrqsnkt0.edgeone.app
 servidorsaj.com.br
@@ -2278,6 +2281,7 @@ t2.slov-si.help
 t2m.io
 t7ts.aterpishu.com
 t9vz.beastdatatrackinghub.com
+tabbys-catsitting.co.uk
 tadabburplus.com
 tai-app.cloud
 taketimeandverify.online%3ABC@abc.si
@@ -2372,6 +2376,7 @@ v3.newsmailservice.de
 valena.ro
 valetravel.co.uk
 varkalahomestay.com
+varnost-ursiv.com
 vasracun-varnost.net
 vb-consulting.cz
 ventevo.pk
