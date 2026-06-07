@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-06 04:03:23 UTC
+# Updated: 2026-06-07 04:40:00 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1654,6 +1654,7 @@ nlbklik.06-02-si.is-certified.com
 nlbklik.online
 nlbklikl.click
 nlbltd.rhinoservicesllcsa.com
+nlbmklik.co
 nlbmobiles.com
 nlbmobilev.com
 nlbpairhelper.com
@@ -2002,6 +2003,7 @@ powerswiss.us
 ppao110093.zya.me
 pradhikar.org
 praxis-fuer-energiemedizin.ch
+premanteamqualools.asesolu.com
 prensaksesuar.com
 preserver.www.silverband.skynews.ecoextracta.com
 prestitiartigiani.it
