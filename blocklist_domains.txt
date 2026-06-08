@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-07 04:40:00 UTC
+# Updated: 2026-06-08 04:45:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -9,6 +9,7 @@
 053249.cc
 08aa9620dd881946f51cf9b41ca592d0.bestupscaleresale.org
 098731.si
+0befdee717694d3b22999e8b5ea5826f.juanpedromartinaguado.es
 0nline.cbsengineeringuk.top
 0svccsess.buzz
 1.moneyguardindia.com
@@ -563,6 +564,7 @@ copmorepartners.com
 cordlon.com
 cormier.trimaxdatacenter.com
 cornflowerpromoes.info
+costmuer.manage.payments.bistro-grossartig.at
 costumer.manage.apsa-psicologos.com
 countmoduletseedtorage.cegepaweb.com
 coworkingweb.es
@@ -899,6 +901,7 @@ gls-sl.id8182957.info
 gls-sl.live
 gls-sl.rest
 gls-sl.xyz
+gls-slo.help
 gls-yourgroup.cyou
 gls.279927.com
 gls.3783.click
@@ -1675,6 +1678,7 @@ nolia.fr
 northernlightfilms.com
 notafiscal.from-ga.com
 notebook.gaistaicrai.digital
+notification.toddsurvey.com
 novakaolwastrabo.com
 novalbslovenia.com
 novaljubljanksa.com
@@ -1827,6 +1831,7 @@ posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 posljipaket.me
 post-si.com
+post-si.net
 post-si.online
 post-slovenije.com
 post3-ae.icu
@@ -2087,6 +2092,7 @@ reaktivacija-isps.com
 realgymessentials.com
 rebrandly.info
 recovery-ledgersupport.com
+recovery.toddsurvey.com
 redirect-secure.cc
 redirect-webmail-auth-0tesjs7sc02-login.page.gd
 redirect.forme.pacesheetmetal.co.uk
@@ -2159,6 +2165,7 @@ servidorsaj.com.br
 servnetflix.com
 servwebintlaccmaudwabdus.sabdabsjajaskn10.biz.id
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
+share.google
 shop.naturacenter.es
 shoperify.check5862.sbs
 shorten.is
@@ -2327,6 +2334,7 @@ tlsn.io
 to.getsavyy.com
 tomdesign.si
 tomimarkets.net
+toolsotenet.com
 torphy.scorp251.net
 towncentres.co.nz
 toysforkids.zone
