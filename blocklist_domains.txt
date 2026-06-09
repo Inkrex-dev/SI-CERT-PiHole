@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-08 04:45:10 UTC
+# Updated: 2026-06-09 04:06:34 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -197,6 +197,7 @@ ansieng.com
 anxutrading.com
 aob.terminmail.de
 api-6y1dwzzk6.hsfreshsystem.online
+api-7w73lhskb.jhondoesbest.biz
 api-jic887brd.d0csrsvpnow.digital
 api.spently.com
 apinfinite-design.com
@@ -440,6 +441,7 @@ bolha.sellgoods2.com
 bolha.slo-group.com
 bolha.slo49510.com
 bolha.slov-si.help
+bolha.verifcardeu.com
 bolha.verifcc.com
 bolha.verifeu.com
 bolha.verifp.com
@@ -650,6 +652,7 @@ dkpostfirst.info
 dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
 dlfix.e2childcare.com
+dmsneb.com
 dnkpos.ink
 doamienin-serve.pilzschule-nordwest.de
 doc-previewonline-76282-10286275ghfkwai.online
@@ -1431,6 +1434,7 @@ login.caner.info
 login.casino-top10.org
 login.immeostudio.com
 login.kggpho.icu
+login.onedriveforbusinesses.org
 login.primabase.info
 login.siibelco.com
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
@@ -2165,6 +2169,7 @@ servidorsaj.com.br
 servnetflix.com
 servwebintlaccmaudwabdus.sabdabsjajaskn10.biz.id
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
+shaanvimedia.com
 share.google
 shop.naturacenter.es
 shoperify.check5862.sbs
@@ -2530,6 +2535,7 @@ www.michelelaricchia.it
 www.mk-nlb.com
 www.mobilenlbid.com
 www.mvn88.com
+www.my-gls24.com
 www.n0va-ljuibljanska.com
 www.natupele.com.br
 www.nekadartazminatalirim.net
