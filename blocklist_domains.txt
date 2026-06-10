@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-09 04:06:34 UTC
+# Updated: 2026-06-10 04:18:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -822,6 +822,7 @@ fore-mining.top
 form-eu1-562854.public.500apps.org
 form-us1-563144.public.500apps.org
 form-us1-563957.public.500apps.org
+form.chengzhongxcl.com
 form.feathery.app
 form.finalform.so
 form.questionscout.com
@@ -2461,6 +2462,7 @@ webmail.euskaralogikoada.eus
 webmail450129449.tastecp.com
 webmail647877505.tastecp.com
 webmailadmincloudsecurity_liphaqi_securepaneladmin_.voreno.vu
+webserv60hostingtudi979kh796wyjzxmhl6cxailc42harocmdhcm.coxme.net
 weedprofitsystemapp.com
 welcomewebserver.digital
 weqwea.online
