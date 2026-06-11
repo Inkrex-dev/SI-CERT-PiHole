@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-10 04:18:02 UTC
+# Updated: 2026-06-11 04:40:29 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -196,6 +196,7 @@ angstparty.co.za
 ansieng.com
 anxutrading.com
 aob.terminmail.de
+api-2l343l49q.securedocumenttransferportalpanel.my
 api-6y1dwzzk6.hsfreshsystem.online
 api-7w73lhskb.jhondoesbest.biz
 api-jic887brd.d0csrsvpnow.digital
@@ -1134,6 +1135,7 @@ gs0cl78hu5.nhyutreorea.com
 gstnahb.vacant-res.com
 gtly.ink
 gubancsi.onlineprecisionhub.de
+guest-stays4920.com
 guest.283742.online
 guesthouse43480.com
 guestverify13334-booking.com
@@ -2121,6 +2123,7 @@ robertodelapenamarshall.com
 rodo.optinex.pl
 romecolosseumapartment.com
 ronnebech.dk
+room-hourse4772.com
 roundcube-support.vitaminopro-uz.com
 roundgin.com
 rvda.es
@@ -2151,6 +2154,7 @@ scorp251.net
 seaborn-no.com
 secunda.mypi.co
 secure.controllers.world
+securedocumenttransferportalpanel.my
 securewebmail.info
 security.schwab4.sbs
 segurytel.com.pe
@@ -2452,6 +2456,7 @@ webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
 webmail-autho.fsydwlh.com
 webmail-autho.ifuqin.com
+webmail-autho.zjwztape.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
 webmail-oauth.coachcurt.com
