@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-11 04:40:29 UTC
+# Updated: 2026-06-12 04:43:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -333,6 +333,7 @@ bolha.brezskrbi.trade
 bolha.brezskrbii.top
 bolha.brezsrbi.top
 bolha.brzskr.top
+bolha.brzskrb.top
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
@@ -991,6 +992,7 @@ gls.order86151.live
 gls.order86157.live
 gls.order86199.live
 gls.order918325.biz
+gls.order92225.live
 gls.page231445.cfd
 gls.prejemdenarja0.icu
 gls.receive-funds.sbs
@@ -1135,6 +1137,7 @@ gs0cl78hu5.nhyutreorea.com
 gstnahb.vacant-res.com
 gtly.ink
 gubancsi.onlineprecisionhub.de
+guest-pend5250.com
 guest-stays4920.com
 guest.283742.online
 guesthouse43480.com
@@ -1498,6 +1501,7 @@ mercandogmbh.com
 mercator.650euro.online
 meta-business-help-center-case-100000365258956.on-fleek.app
 meta-instagram-supportcenter.cfd
+metahelpdesk20.bolt.host
 metiopniqueskuitr471.com
 metspa.cam
 mffunilariaepintura.com
