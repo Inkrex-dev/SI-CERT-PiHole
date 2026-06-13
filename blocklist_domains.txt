@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-12 04:43:06 UTC
+# Updated: 2026-06-13 04:21:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -334,6 +334,7 @@ bolha.brezskrbii.top
 bolha.brezsrbi.top
 bolha.brzskr.top
 bolha.brzskrb.top
+bolha.brzskrbi.top
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
@@ -868,6 +869,7 @@ ghamdamn671xkaz.graficosdm.com.uy
 giggedfrog.com
 gilardonispa.top
 gjtgqhgp2tui7ra.zl.ge
+globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
 gls-grou.id9491.com
@@ -912,6 +914,7 @@ gls-yourgroup.cyou
 gls.279927.com
 gls.3783.click
 gls.704831.com
+gls.73322.website
 gls.83958.lat
 gls.a-sends.sbs
 gls.bload.eu
@@ -2128,6 +2131,8 @@ rodo.optinex.pl
 romecolosseumapartment.com
 ronnebech.dk
 room-hourse4772.com
+rooms-cityhub723.com
+rooms-stayhub209.com
 roundcube-support.vitaminopro-uz.com
 roundgin.com
 rvda.es
@@ -2460,6 +2465,7 @@ webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
 webmail-autho.fsydwlh.com
 webmail-autho.ifuqin.com
+webmail-autho.nexgenpwrr.com
 webmail-autho.zjwztape.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
