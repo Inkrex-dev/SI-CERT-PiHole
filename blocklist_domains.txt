@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-15 05:05:21 UTC
+# Updated: 2026-06-16 05:08:20 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -385,6 +385,7 @@ bolha.order-id3471.com
 bolha.order-id3698.com
 bolha.order-id4216.shop
 bolha.order-id4635.shop
+bolha.order-id4635.site
 bolha.order-id5212.shop
 bolha.order-id5216.shop
 bolha.order-id5412.shop
@@ -1837,6 +1838,7 @@ pollich.meikomail.com
 polskawatrchingfilms.com
 pontodasferragensgru.com.br
 poosts.life
+porcelltoursperu.com
 porstez.top
 portal.equinoxe-com.com
 portalastech.chiaperini.com.br
@@ -2060,6 +2062,7 @@ proposaldocsfilesdev.xyz
 proppart.com
 prorsum.pro
 proskbeu.com
+prostik-varno.com
 protection.standard.us-east-1.oortstorages.com
 protectzone.digital
 protiomreznini.si
@@ -2113,6 +2116,7 @@ redirect-webmail-auth-0tesjs7sc02-login.page.gd
 redirect.forme.pacesheetmetal.co.uk
 rekona-auth.com
 rekona-varnost.com
+rekono.one
 renew.schoeme-seniorendomizil.de
 renew.wiiixpayments.com
 renewal-wix-com-dfc45ae9b69cb858cb38646e9efe.breidal.com
