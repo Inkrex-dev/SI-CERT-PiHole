@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-16 05:08:20 UTC
+# Updated: 2026-06-17 04:49:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1233,6 +1233,7 @@ host.novaljubljanskabankadd.com
 hotelboked9543383.world
 hotelilty.net
 hotelinfo-hotelrewiews.com
+house-global77140.com
 housemanage9442.com
 hranilnica-phv.com
 hru.community-verify-skampagne.click
@@ -1404,6 +1405,7 @@ lacrossestablic.com
 laimpresion3d.es
 lainezhotelzudokd.epp-xl.com
 lamacosto.fr
+lambolos.com
 lancejacks.suvithas.com
 laoairilnes.com
 lapharma.in
@@ -2294,6 +2296,7 @@ steellifeinc.us
 steprimo.com
 sterlitamakadm.ru
 stik365.com
+stikspk.net
 stirrupimpetus.us
 stratusypatch.us
 stt-flux.com
