@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-18 04:42:35 UTC
+# Updated: 2026-06-19 05:01:47 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -918,6 +918,7 @@ gls.3783.click
 gls.704831.com
 gls.73322.website
 gls.83958.lat
+gls.86305.live
 gls.a-sends.sbs
 gls.bload.eu
 gls.bolha.info
@@ -1222,6 +1223,7 @@ hnny3s8jkobtzhxj.blindfind.de
 hobartservice.help
 holavallarta.mx
 homdtrwers.us
+home-asia249.com
 homeglobal.cloudhomesdtdteams.live
 homerepairhelper.co
 hoppe.berliner-ruderjugend.de
@@ -2126,6 +2128,7 @@ rentalreviewg274924-d12637212.72936201.com
 reservation.hotels-wmm.com
 reserve.3qnlfz.com
 reserve.lpjn917.com
+resistecupr.trenix.nl
 respwfulus.online
 resvalidedelivery.de
 retasil.info
@@ -2225,6 +2228,7 @@ sk-b-1.net
 sk-b.net
 sk-b1.com
 skalis.be
+skasse.net
 skb-1.com
 skb-e.com
 skb-e1.com
