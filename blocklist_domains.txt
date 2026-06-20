@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-19 05:01:47 UTC
+# Updated: 2026-06-20 04:14:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -392,6 +392,7 @@ bolha.order-id5412.shop
 bolha.order-id5421.shop
 bolha.order-id5436.shop
 bolha.order-id6207.com
+bolha.order-id6584.site
 bolha.order-id6731.shop
 bolha.order-id7297.com
 bolha.order-id7829.shop
@@ -1094,6 +1095,7 @@ gov-vision-si.sbs
 gov.govsigovsli.cyou
 gove.lat
 govh.lat
+govis.cc
 govj.lat
 govk.lat
 govo.lat
@@ -1111,6 +1113,7 @@ govsi.rest
 govsi.sbs
 govsia.sbs
 govsiai.sbs
+govsibil.com
 govsibillll.com
 govsibin.com
 govsic.sbs
@@ -2286,6 +2289,7 @@ spkibs.com
 sport-socks.co.uk
 spotpreset.com
 sprl.in
+spstik.com
 src-07824.gonzalezdistribuidora.com
 srv.geraldaschonewille.nl
 srv75466.seohost.com.pl
