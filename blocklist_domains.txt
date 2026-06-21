@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-20 04:14:54 UTC
+# Updated: 2026-06-21 04:58:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1781,6 +1781,7 @@ otpbank-link.cfd
 otpbanka-26.cfd
 otpbanka-837.cfd
 otpbanka-links.cfd
+otpbanka-si-prijava.ilii.es
 otpbanka-si-prijava.issl.im
 otpbanka-si-prijava.llii.im
 otpbanka-si.com
