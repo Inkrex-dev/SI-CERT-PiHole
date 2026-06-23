@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-22 05:05:55 UTC
+# Updated: 2026-06-23 04:04:40 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -320,6 +320,7 @@ bolha-si.in8274828.com
 bolha-si.in88472626.com
 bolha-si.in88654356.com
 bolha-si.in929191737.com
+bolha.28771.sale
 bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.accept-payment8013.click
@@ -332,6 +333,7 @@ bolha.brezskrbi.top
 bolha.brezskrbi.trade
 bolha.brezskrbii.top
 bolha.brezsrbi.top
+bolha.brzskb.top
 bolha.brzskr.top
 bolha.brzskrb.top
 bolha.brzskrbi.top
@@ -1063,6 +1065,7 @@ gov-is.govsligovnsi.cyou
 gov-placati.com
 gov-placilo.com
 gov-si.cam
+gov-si.cfd
 gov-si.govsicars.top
 gov-si.mom
 gov-si.qpon
@@ -1101,6 +1104,7 @@ govk.lat
 govo.lat
 govq.lat
 govsci.sbs
+govsi-si.cfd
 govsi.bar
 govsi.cam
 govsi.homes
@@ -1195,6 +1199,7 @@ halcomsecure.com
 halcomsecured.com
 halcomsecuredv.com
 halcomssl.com
+haldb.com
 haldp.com
 halkap.com
 halkonta.com
@@ -2479,6 +2484,7 @@ wallstreetcoachingfoundation.co.za
 web-auth01.estimmas.top
 web3meta-msksecureupdate.dalmug.org
 webmail-auth-0te7sc02-login.html-5.me
+webmail-authblk.litiantx.com
 webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
 webmail-autho.fsydwlh.com
@@ -2547,6 +2553,7 @@ www.eniclic.com
 www.eskb.net
 www.fcommu70.com.ng
 www.fireplaceoutfltters.com
+www.fxfashionbd.com
 www.geea.sk
 www.gimmickfactory.com
 www.govsi.asia
