@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-23 04:04:40 UTC
+# Updated: 2026-06-24 04:07:23 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -878,6 +878,7 @@ globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
 gls-grou.id9491.com
+gls-groui.cfd
 gls-group.037182.sale
 gls-group.098731.si
 gls-group.9008741.com
@@ -896,6 +897,11 @@ gls-group.id98265.live
 gls-group.id98759.info
 gls-group.supseet.sbs
 gls-groupi.sbs
+gls-groupk.cfd
+gls-groupq.cfd
+gls-groupr.cfd
+gls-grouv.cfd
+gls-grouz.cfd
 gls-paket.si
 gls-partner-group.com
 gls-si.biz
@@ -940,6 +946,7 @@ gls.f-takel.eu
 gls.gls-info.com
 gls.gls-sl.digital
 gls.gls-sl.sbs
+gls.gronns.cfd
 gls.group-app.com
 gls.group-si.world
 gls.id0129178.click
@@ -1056,6 +1063,7 @@ gls.vr308282.click
 gls.zgs-rd.info
 glsgroup.mom
 glsmojkurir.help
+glssleu.com
 gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
@@ -1137,6 +1145,7 @@ govssili.com
 govsssi.com
 govtsi.top
 govvvsi.com
+govx-si.cfd
 govx.lat
 grco.de
 green.sterlitamakadm.ru
@@ -1165,6 +1174,7 @@ h6.oxbzat4.club
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 ha-cert.com
 ha-dp.net
+habitatcyprus.com
 hagelstein.me
 hal-ca.com
 hal-cert.com
@@ -1200,6 +1210,7 @@ halcomsecured.com
 halcomsecuredv.com
 halcomssl.com
 haldb.com
+haldbs.net
 haldp.com
 halkap.com
 halkonta.com
@@ -1499,6 +1510,7 @@ maronlepos-helamanger-autodah.myiqsolutions.com
 marsvenus-account-sharepnt-drive.qqcclbxgzxbdrxho.cloud
 marsvenus-login.microsoftonline.dpfraizj.click
 marsvenus-login.microsoftonline.tgbixubijgwle.click
+maskalder-zo2ix7.stormkit.dev
 masterdealer.us
 mawaddahcode.com
 mbank-otp.cfd
@@ -1747,6 +1759,7 @@ offshorekesuma.com
 olapucuwekztjvt.zl.ge
 omcwpmwmr.gooddonkey.org
 oncywellan.com
+one.grisafearchitecture.com
 one340-2026.click
 online-customer-service.gs-schmidt.de
 online.characteristics.today
