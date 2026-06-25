@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-24 04:07:23 UTC
+# Updated: 2026-06-25 04:07:53 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -192,6 +192,7 @@ amringenieria.com.ar
 amzgo.20-172-65-119.cpanel.site
 amzgoone.20-172-65-119.cpanel.site
 andersonsrubbishremoval.com.au
+anfamoto.org
 angstparty.co.za
 ansieng.com
 anxutrading.com
@@ -770,10 +771,13 @@ estafeeta.ink
 estebanveguer.com
 eu-otpinskb.com
 eu-skbinotp.com
+eudobro.cc
 euotpinskb.com
+eup-rav-as.com
 euproSKBotp.com
 euproskbotp.com
 eurocbd.store
+euvarna.com
 eventveterans.com
 evolvehairsolution.com
 evreux-eboutik.fr
@@ -878,6 +882,7 @@ globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
 gls-grou.id9491.com
+gls-grouap.pw
 gls-groui.cfd
 gls-group.037182.sale
 gls-group.098731.si
@@ -900,8 +905,10 @@ gls-groupi.sbs
 gls-groupk.cfd
 gls-groupq.cfd
 gls-groupr.cfd
+gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
+gls-grrroup.cc
 gls-paket.si
 gls-partner-group.com
 gls-si.biz
@@ -922,6 +929,7 @@ gls-sl.rest
 gls-sl.xyz
 gls-slo.help
 gls-yourgroup.cyou
+gls.048325.com
 gls.279927.com
 gls.3783.click
 gls.704831.com
@@ -943,12 +951,14 @@ gls.dostava.bond
 gls.dostava.club
 gls.esends.eu
 gls.f-takel.eu
+gls.gioop.cfd
 gls.gls-info.com
 gls.gls-sl.digital
 gls.gls-sl.sbs
 gls.gronns.cfd
 gls.group-app.com
 gls.group-si.world
+gls.growds.cfd
 gls.id0129178.click
 gls.id09876.com
 gls.id4973.com
@@ -1062,8 +1072,12 @@ gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
 glsgroup.mom
+glsigroup.icu
+glsigroupi.icu
 glsmojkurir.help
 glssleu.com
+glssli.com
+glsslj.com
 gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
@@ -1478,6 +1492,7 @@ lon-si.com
 lotreonline.one
 louvrier.net
 lp.washrocks.com
+lsigroupo.icu
 ltPDbj.worix.free.hr
 lunvoy.com
 lupecs.com.au
@@ -1612,6 +1627,7 @@ my-offer.top
 my.myrdi.nz.klfl.abrdns.com
 my5f3d1973-a2hosting-com.carloscornejoart.com
 my92b8bf88-a2hosting-com.tidalboreinn.com
+mydomain-secure.com
 mydublinguide.com
 myebay.digital
 myemail.skydynamics.com
