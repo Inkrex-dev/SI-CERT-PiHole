@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-25 04:07:53 UTC
+# Updated: 2026-06-26 04:14:53 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -901,6 +901,7 @@ gls-group.id918491.info
 gls-group.id98265.live
 gls-group.id98759.info
 gls-group.supseet.sbs
+gls-groupa.cfd
 gls-groupi.sbs
 gls-groupk.cfd
 gls-groupq.cfd
@@ -1501,6 +1502,7 @@ lyli.fi
 m365.com.cloud.lvps999.xyz
 m4o.orvexture.com
 machadofuneraria.com.br
+macustudio.com
 madbir4u.co.il
 maewaks.co.ke
 mail.adianjing.com
