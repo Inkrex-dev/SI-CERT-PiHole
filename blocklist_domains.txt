@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-26 04:14:53 UTC
+# Updated: 2026-06-27 04:00:41 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1386,6 +1386,7 @@ jnfzwdhqui.website
 jnkbm.com
 johnlucas.top
 joycity.in
+jpmorgan.iceiy.com
 june10.standard.us-east-1.oortech.com
 junglegeri.com
 jusdhwuns.online
@@ -1545,6 +1546,7 @@ mellavi.cl
 memberntfx.com
 mercandogmbh.com
 mercator.650euro.online
+messages.experts.vu
 meta-business-help-center-case-100000365258956.on-fleek.app
 meta-instagram-supportcenter.cfd
 metahelpdesk20.bolt.host
@@ -2664,6 +2666,7 @@ xuifrbycrzagi.gooddonkey.org
 xumeryn.cfd
 xwic.net
 xzecpjf.callligaris.com
+yablor.ru
 yellowcloverconsulting.co.za
 yelsed.nl
 yourcardlegend.com
