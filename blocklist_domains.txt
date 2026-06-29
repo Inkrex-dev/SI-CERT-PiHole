@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-28 04:23:17 UTC
+# Updated: 2026-06-29 04:42:35 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1121,6 +1121,7 @@ gov-soveli-si.sbs
 gov-vision-si.sbs
 gov.govsigovsli.cyou
 gov.siols.cfd
+gov.sloil.cfd
 gove.lat
 govh.lat
 govis.cc
@@ -1440,6 +1441,7 @@ kupujemprodajem.dostava.click
 kutt.it
 kuzam.net
 kzofar.dradilsongomes.com.br
+lab.coderarchitect.com
 lacrossestablic.com
 laimpresion3d.es
 lainezhotelzudokd.epp-xl.com
@@ -2639,6 +2641,7 @@ www.poultjw.shop
 www.procesverifikacijeonline.buzz
 www.revues-ufhb-ci.org
 www.rtmoto.pl
+www.setupnow.sbs
 www.sgipanama.com
 www.siraji.tn
 www.skb-fnc.com
