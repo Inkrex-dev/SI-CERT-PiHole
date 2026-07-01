@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-06-30 04:09:30 UTC
+# Updated: 2026-07-01 04:25:35 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -932,6 +932,7 @@ gls-sl.rest
 gls-sl.xyz
 gls-slo.help
 gls-yourgroup.cyou
+gls.00594238.click
 gls.048325.com
 gls.279927.com
 gls.3783.click
@@ -1076,6 +1077,7 @@ gls.vr308282.click
 gls.zgs-rd.info
 glsgroup.mom
 glsigroup.icu
+glsigroupau.icu
 glsigroupi.icu
 glsmojkurir.help
 glssleu.com
@@ -1572,6 +1574,7 @@ mimrovrste.com
 mitiid.com
 mittelco.art
 mixaeronautics.com
+mjgemy.s.gy
 mkbm365.com
 mobilenlbid.com
 mobilenlbsid.com
@@ -1610,6 +1613,7 @@ mojgls.slovenija-group.live
 mojhgls.id98597.live
 mojotp24.com
 mojpaket.info
+mojpakket24.info
 mojskbotp.com
 mokakosare.buzz
 monboislocal.fr
@@ -2214,6 +2218,7 @@ sanasalud.vip
 sanatoriofamiliar.com
 sardva.org
 sated.es
+sawayn.fitado.de
 schaden.rother-bremen.de
 schoolportalandbenefit.top
 schoolradleysnursings.edgeone.dev
@@ -2594,6 +2599,7 @@ www.eniclic.com
 www.eskb.net
 www.fcommu70.com.ng
 www.fireplaceoutfltters.com
+www.frontiersurvival.com
 www.fxfashionbd.com
 www.geea.sk
 www.gimmickfactory.com
