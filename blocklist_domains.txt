@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-01 04:25:35 UTC
+# Updated: 2026-07-02 04:04:44 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -168,6 +168,7 @@ aimartgroup.com
 airioomaruhotel.christmas
 airtranse.es
 ajhyouth.org
+akkharpatra.com
 aktiv-lohnsteuerhilfeverein.de
 albatrossautomation.cc
 alcojeuraw.online
@@ -396,6 +397,7 @@ bolha.order-id5412.shop
 bolha.order-id5421.shop
 bolha.order-id5436.shop
 bolha.order-id6207.com
+bolha.order-id6271.site
 bolha.order-id6584.site
 bolha.order-id6731.shop
 bolha.order-id7297.com
@@ -552,6 +554,7 @@ codelink.icu
 coderarchitect.com
 codjekwaxis.website
 coiqo.corponoar.com
+collegelax.us
 com-an.dk
 com-channels.com
 commitmentserver.com.autowallis.cam
@@ -839,6 +842,7 @@ form-us1-563957.public.500apps.org
 form.chengzhongxcl.com
 form.feathery.app
 form.finalform.so
+form.hotel-eu9923.com
 form.questionscout.com
 formareasesoria.com
 formazionemedform.it
@@ -1401,6 +1405,7 @@ juzju.at
 jw-travel.com
 jxskb.com
 k29a6.dnevet.ru
+ka-chiba.net
 kaambadaycare.com
 kalsiembas.io
 kargolar.net
