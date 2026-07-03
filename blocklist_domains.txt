@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-02 04:04:44 UTC
+# Updated: 2026-07-03 03:51:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -511,6 +511,7 @@ carfees-gov-sietc.uno
 carfees-sietc.cfd
 carfees-sietc.top
 cartershippingline.org
+cartwright.captpete.net
 casavestrella.com
 casinoatlanticcitybet.com.pe
 ccpadfo.com
@@ -546,6 +547,7 @@ clippingpathmission.com
 clk.pvnsolutions.com
 cllick.xyz
 cloudflare-ipfs.com
+cloudserver85.com
 cocic-calc.com
 cocojoyce.ci
 codcnwaeb.online
@@ -598,6 +600,7 @@ cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
 customer-online-agi.equihomeinternational.ch
 customerserviceprime-informaticaintegrada.net
+custompolicevehicles.com
 customserviamz-paymtstetamseis.aceinst.edu.pk
 cvgfsvc.cc
 cyberuls.com
@@ -1445,6 +1448,7 @@ ksrxgo.ticknstacked.com
 ktexim.pro
 kucoin.si
 kullerbytta.com
+kuphal.amtec-chemnitz.de
 kupujempradajem.linija-dostave.cfd
 kupujemprodajem.dostava.click
 kutt.it
@@ -1559,6 +1563,7 @@ mellavi.cl
 memberntfx.com
 mercandogmbh.com
 mercator.650euro.online
+merchant.form21476.shop
 messages.experts.vu
 meta-business-help-center-case-100000365258956.on-fleek.app
 meta-instagram-supportcenter.cfd
@@ -1847,6 +1852,7 @@ otpquiz.icu
 otpviiip.com
 otskb.com
 ottonlbp.com
+oud-gereedschap.nl
 ovationwifi.com
 ovuhbe3ku4jluk7.soundkraft-me.com
 oyn.at
@@ -1863,6 +1869,7 @@ paperless.training
 paravariarweb.com
 parkeasttownhomes.com
 partners.costumer.balearyc.com
+paulcooperracing.co.uk
 pay.klikomics.com
 payments.users.drumroamin.uk
 payplintelverify1.site
@@ -1873,6 +1880,7 @@ pdf-adobe-com-ae-acrobat.appwrite.network
 pedronoguera.com.br
 percayarakyatjp.us
 performancecontests.co.uk
+petrik-kolb.de
 phlqbatr.ru
 phv-centrala.com
 phv-hranilica.com
@@ -2427,6 +2435,7 @@ to.getsavyy.com
 tomdesign.si
 tomimarkets.net
 toolsotenet.com
+toraxx.de
 torphy.scorp251.net
 towncentres.co.nz
 toysforkids.zone
@@ -2520,6 +2529,7 @@ vmadministation.com
 vns-telecom.com
 vo.la
 voeux2023.becoming-group.com
+voiceofthechurch.org
 vopawub.cfd
 voxlivenow.com
 voxlivepro.com
