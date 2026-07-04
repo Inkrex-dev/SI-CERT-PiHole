@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-03 03:51:09 UTC
+# Updated: 2026-07-04 03:42:55 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -53,6 +53,7 @@
 2xskb.com
 3.86.42.232
 30416487.datastreamicux.digital
+358unfailingly.devispire.com
 361476537.anysolutions.com.br
 3786.dpd.loginto.me
 37fbbab9cd7ff57410e3c23a43d0a207.albfilz.com
@@ -224,6 +225,7 @@ asw.woukechou.cfd
 atlanticityplay.com.pe
 atplink.com
 audimedsaude.com.br
+autemtax.com
 auth.skb.net-bankarotp.cloudns.be
 authenticate-secure-id-f675a3d1-f7df-4f35-85dd-964e6.appwrite.network
 authline-checkappr0v.com.es
@@ -232,6 +234,7 @@ autochallengeusario.vvvforum.eu
 autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
 avsasan.com
+avtonet.site
 b538f.net
 b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
 babyurl.net
@@ -2413,6 +2416,7 @@ telatraan.com
 telekom.online-verify.click
 telenfy.net
 telkomnet.com.ng
+terrebonemitsubishi.ca
 test-sklep.justbefit.pl
 testnsolution.com
 theaudiobooklab.net
