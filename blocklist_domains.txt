@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-05 04:02:21 UTC
+# Updated: 2026-07-06 04:08:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -833,6 +833,7 @@ fjasijfiwe.top
 fko.com.mx
 flameministries.org
 flanp.com
+flatio.com-hidden.si
 flexispot-shop.com
 flexzone.im
 fli.so
@@ -1589,6 +1590,7 @@ mittelco.art
 mixaeronautics.com
 mjgemy.s.gy
 mkbm365.com
+mklik-nlb-rs.info
 mobilenlbid.com
 mobilenlbsid.com
 mobilenlbsida.com
