@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-06 04:08:36 UTC
+# Updated: 2026-07-07 03:59:16 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -226,6 +226,7 @@ atlanticityplay.com.pe
 atplink.com
 audimedsaude.com.br
 autemtax.com
+auth.creatormonetizationsupportgroup.click
 auth.skb.net-bankarotp.cloudns.be
 authenticate-secure-id-f675a3d1-f7df-4f35-85dd-964e6.appwrite.network
 authline-checkappr0v.com.es
@@ -788,6 +789,7 @@ eup-rav-as.com
 euproSKBotp.com
 euproskbotp.com
 eurocbd.store
+eusveti.com
 euvarna.com
 eventveterans.com
 evolvehairsolution.com
@@ -1180,6 +1182,7 @@ govtsi.top
 govvvsi.com
 govx-si.cfd
 govx.lat
+gp-surs.eu
 grco.de
 green.sterlitamakadm.ru
 greenbuddes.eu
