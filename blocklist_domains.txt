@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-07 03:59:16 UTC
+# Updated: 2026-07-08 03:25:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -949,10 +949,13 @@ gls.00594238.click
 gls.048325.com
 gls.279927.com
 gls.3783.click
+gls.37852387.click
 gls.704831.com
 gls.73322.website
 gls.83958.lat
 gls.86305.live
+gls.863126.live
+gls.8921.space
 gls.a-sends.sbs
 gls.bload.eu
 gls.bolha.info
@@ -1089,6 +1092,10 @@ gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
 glsgroup.mom
+glsgroupsj.top
+glsgrp.app
+glsgrpoa.top
+glsgrpos.lat
 glsigroup.icu
 glsigroupau.icu
 glsigroupi.icu
@@ -1714,6 +1721,7 @@ nkwebsolutions.nl
 nlb-bank.com
 nlb-banka-online.com
 nlb-banka.com
+nlb-bl.info
 nlb-eklik.click
 nlb-klik-me.click
 nlb-klik.lat
@@ -2121,6 +2129,7 @@ primoapparel.uk
 printnowgrafica.com.br
 privwebaccupdtpymntauthowemgvokwemgo.masjndfnweigroe.biz.id
 prizeonlines.com
+prkz.iggytheillustrator.co.uk
 prml.ink
 proad.top
 probashikhobor.com
@@ -2298,6 +2307,7 @@ sipost-my-home.top
 siskb1otp.com
 siskbinotp.com
 siskbinotp.net
+site-25d155360fde.mypreview.site
 sjeecold.ddns.cam
 sk-b-1.net
 sk-b.net
@@ -2418,6 +2428,7 @@ techadobe.com
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
+telcaomsl.liveblog365.com
 telekom.online-verify.click
 telenfy.net
 telkomnet.com.ng
