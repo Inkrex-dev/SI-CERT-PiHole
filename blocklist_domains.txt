@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-08 03:25:28 UTC
+# Updated: 2026-07-09 03:53:11 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -340,6 +340,7 @@ bolha.brezskrbi.top
 bolha.brezskrbi.trade
 bolha.brezskrbii.top
 bolha.brezsrbi.top
+bolha.brzeskbi.top
 bolha.brzskb.top
 bolha.brzskr.top
 bolha.brzskrb.top
@@ -765,6 +766,7 @@ emlpro2025-3a2a46d0db.de
 enbdx.net
 enede.org
 eng.ae
+enlace-de-ingreso.zya.me
 enquiryportal.strategicstability.de
 ent-10gin.info
 enta.baxterbatting.com
@@ -1091,6 +1093,7 @@ gls.svoje.info
 gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
+glsgrcouspz.cfd
 glsgroup.mom
 glsgroupsj.top
 glsgrp.app
@@ -1726,12 +1729,14 @@ nlb-eklik.click
 nlb-klik-me.click
 nlb-klik.lat
 nlb-kos-login.click
+nlb-secure.com
 nlb-si.cfd
 nlb-si3.site
 nlb-si4.site
 nlb.jasuma-austindo.com
 nlb.klik.04-29-2024.kardiocentro.cl
 nlb.klik.knowsitall.info
+nlb.prijava.click
 nlb.samleikin.app
 nlb2py.com
 nlb365dni.net
@@ -2568,6 +2573,7 @@ webmail-auth-0te7sc02-login.html-5.me
 webmail-authblk.litiantx.com
 webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
+webmail-authco.mdssmartrepalr.sbs
 webmail-autho.fsydwlh.com
 webmail-autho.ifuqin.com
 webmail-autho.nexgenpwrr.com
@@ -2576,6 +2582,7 @@ webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
 webmail-oauth.coachcurt.com
 webmail-oauthblk.bodinecc.com
+webmail-ouathuz.northicansglobal.com
 webmail.adawliah.com.sa
 webmail.authslrc.com
 webmail.euskaralogikoada.eus
