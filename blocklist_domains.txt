@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-09 03:53:11 UTC
+# Updated: 2026-07-10 03:54:04 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -577,6 +577,7 @@ contact.distributoins.click
 contact.introductions.vu
 contact.leveragers.click
 contact.necessarys.digital
+contacts.digitals.vu
 content.airpromo.com.br
 contractagreement42535788.t3.storage.dev
 controliumbt.com
@@ -1152,6 +1153,7 @@ gov.sloil.cfd
 gove.lat
 govh.lat
 govis.cc
+goviv.cc
 govj.lat
 govk.lat
 govo.lat
@@ -1556,6 +1558,7 @@ manernagongsi.top
 mankewitz.de
 mappedimemoria.it
 margheritatpwf.bfarrival.com
+markerlessar.com
 marketplacemedia.ubpages.com
 marktmagie.com
 maronlepos-helamanger-autodah.myiqsolutions.com
@@ -2167,6 +2170,7 @@ pull.gaistaicrai.digital
 purexwror.us
 pwallsolutions.co.za
 pyserive1.goodgarysmartprojects.co.za
+pythonnavy-i2sxzt.stormkit.dev
 q-r.to
 q9fb3bb05aa7.freewebhostmost.com
 qad.cooteacher.org
