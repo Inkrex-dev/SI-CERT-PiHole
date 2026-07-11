@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-10 03:54:04 UTC
+# Updated: 2026-07-11 03:20:16 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -614,6 +614,7 @@ d-hranilnica.com
 d0csrsvpnow.digital
 d53aa5d82d03b7fc7f8c2517cdcf4d20.ashokahospital.org
 d9f4d39cae884701bd74f247af5b24b9.albfilz.com
+daftshark.autos
 damirphoto.net
 dariobuscaglia.it
 dariomusicatv.it
@@ -1023,6 +1024,7 @@ gls.order24003.live
 gls.order30828.live
 gls.order334433.live
 gls.order34991.live
+gls.order36792.live
 gls.order63322273.live
 gls.order637001.live
 gls.order6531973.live
@@ -1651,6 +1653,7 @@ monboislocal.fr
 moneygram-eu.7324.click
 monge.pl
 moomoo-secs-en.com
+moravce-si.appsmith.com
 moretechgh.com
 motedem.com
 motivator.com.br
@@ -1706,6 +1709,7 @@ newglobal.cl
 newnoticesett.drr.ac
 newpassettings.drr.ac
 news.only-1-led.com
+nexavo.store
 nexus-hal.com
 nguoivietkharkov.com
 nhswj.net
@@ -1856,6 +1860,7 @@ otp-bankanet.cfd
 otp-cert.com
 otp-db.com
 otp-login.cfd
+otp-mbank.click
 otp-racunovodstvo.com
 otp-verify.online
 otp24sl.com
@@ -2475,6 +2480,7 @@ trader-ai.tv
 tradesingh.info
 traumainquiry.com
 trecappelli.it
+triglavquantai.com
 trk-tairiku.com
 trk.layers-develop-pen-rain.run
 trqr.link
