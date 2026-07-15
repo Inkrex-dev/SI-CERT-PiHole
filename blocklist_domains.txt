@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-14 02:55:53 UTC
+# Updated: 2026-07-15 02:54:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -922,6 +922,7 @@ gls-group.id918471.info
 gls-group.id918491.info
 gls-group.id98265.live
 gls-group.id98759.info
+gls-group.payclick.cfd
 gls-group.supseet.sbs
 gls-groupa.cfd
 gls-groupi.sbs
@@ -1101,6 +1102,7 @@ gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
 glsgrcouspz.cfd
+glsgrcousvpz.cfd
 glsgroup.mom
 glsgroupsj.top
 glsgrp.app
@@ -1573,7 +1575,9 @@ marsvenus-login.microsoftonline.dpfraizj.click
 marsvenus-login.microsoftonline.tgbixubijgwle.click
 maskalder-zo2ix7.stormkit.dev
 masterdealer.us
+masumtraders.com
 mawaddahcode.com
+mbank-net.nfo
 mbank-otp.cfd
 mbank-si.cfd
 mbanka-2026.cfd
@@ -1867,6 +1871,7 @@ otp-login.cfd
 otp-mbank.click
 otp-racunovodstvo.com
 otp-verify.online
+otp24net.com
 otp24sl.com
 otpbank-link.cfd
 otpbanka-26.cfd
@@ -2301,6 +2306,7 @@ shop.naturacenter.es
 shoperify.check5862.sbs
 shorten.is
 shorten.so
+shorten.tv
 shorten.world
 shupenia.com
 shvdeelse.online
