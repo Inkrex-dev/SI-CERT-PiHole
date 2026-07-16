@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-15 02:54:28 UTC
+# Updated: 2026-07-16 03:16:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -736,6 +736,7 @@ e-uprava.govsi.work
 e-uprrava.eu.cc
 e.vg
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
+e25040c0c305567e12d0a6ee8ea2197e6d74c5c7.s3.eu-central-3.ionoscloud.com
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
 econtdelidhi.cloud
@@ -1499,6 +1500,7 @@ lawlytics.in
 lawyergrowthsummits.com
 lcaoman.com
 lccwv.info
+leanpay-slovenija.com
 ledger-livestart-support.online
 ledger.com-recovery.com
 legalize.ph
@@ -1577,7 +1579,7 @@ maskalder-zo2ix7.stormkit.dev
 masterdealer.us
 masumtraders.com
 mawaddahcode.com
-mbank-net.nfo
+mbank-net.info
 mbank-otp.cfd
 mbank-si.cfd
 mbanka-2026.cfd
@@ -1657,6 +1659,7 @@ mojpaket.info
 mojpakket24.info
 mojskbotp.com
 mokakosare.buzz
+molefrill-raq6as.stormkit.dev
 monboislocal.fr
 moneygram-eu.7324.click
 monge.pl
@@ -1867,6 +1870,7 @@ otp-banka.net
 otp-bankanet.cfd
 otp-cert.com
 otp-db.com
+otp-kr.com
 otp-login.cfd
 otp-mbank.click
 otp-racunovodstvo.com
