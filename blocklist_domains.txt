@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-16 03:16:28 UTC
+# Updated: 2026-07-17 03:19:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -333,6 +333,7 @@ bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.accept-payment8013.click
 bolha.bolha.site
+bolha.brez-skrbi.cc
 bolha.brezskby.top
 bolha.brezskrb.top
 bolha.brezskrbi.cc
@@ -939,6 +940,7 @@ gls-partner-group.com
 gls-si.biz
 gls-si.check-order.eu
 gls-si.forum
+gls-si.info
 gls-si.live
 gls-si.order-checking.com
 gls-si.order-list.com
@@ -1872,7 +1874,9 @@ otp-cert.com
 otp-db.com
 otp-kr.com
 otp-login.cfd
+otp-mbank-net.info
 otp-mbank.click
+otp-mbank.info
 otp-racunovodstvo.com
 otp-verify.online
 otp24net.com
