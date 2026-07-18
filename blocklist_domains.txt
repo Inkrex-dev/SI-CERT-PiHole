@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-17 03:19:10 UTC
+# Updated: 2026-07-18 02:55:49 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -667,6 +667,7 @@ digckwlux.online
 digiart.ro
 digimatt.co.ke
 dik.si
+dikmentekstil.com
 dinabloom.com
 dinlbsiportl.com
 direcpridetarinc.cegepaweb.com
@@ -1334,6 +1335,7 @@ hvarstvo.com
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
 hyy.cdreyj.com
 hzascita.com
+i-28loops.com
 iRekono.com
 ib-gbkr.com
 ib-nkbm.com
@@ -1502,6 +1504,7 @@ lawlytics.in
 lawyergrowthsummits.com
 lcaoman.com
 lccwv.info
+leanpay-app.com
 leanpay-slovenija.com
 ledger-livestart-support.online
 ledger.com-recovery.com
@@ -1509,6 +1512,7 @@ legalize.ph
 legaz.es
 leovigueraye.info
 letsgetitnow2.store
+lewisburgneighborhoods.org
 lgrouptg.com
 lightningbull.com
 link.enormail.eu
