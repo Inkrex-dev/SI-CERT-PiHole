@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-18 02:55:49 UTC
+# Updated: 2026-07-19 03:28:31 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1883,6 +1883,7 @@ otp-mbank.click
 otp-mbank.info
 otp-racunovodstvo.com
 otp-verify.online
+otp.mbank.online
 otp24net.com
 otp24sl.com
 otpbank-link.cfd
