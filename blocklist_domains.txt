@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-21 03:21:57 UTC
+# Updated: 2026-07-22 03:20:24 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -493,6 +493,7 @@ brightbrains.net
 brothersfarm.contact
 bskuna-mypi.com
 bspoga.org
+btyuik.store
 budexsc.pl
 build5.brandragons.com
 bulkurlshortener.com
@@ -505,6 +506,7 @@ business.help-managecontact.com
 bwfairfieldhotel.com
 byvn.net
 c3646bde3f7.freewebhostmost.com
+c45mrv.s.gy
 c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
 cadaverine.tehillsglobal.com
 cafedesafari.com
@@ -624,6 +626,7 @@ dariomusicatv.it
 darkroadsmu.com
 datesoases.com
 davis.birgit-schoenle.de
+dazzledress.xyz
 dbdoc.org
 dbotp.com
 dbotp1skb.com
@@ -640,6 +643,7 @@ de2b339ee2dfbdd4e62693bae61a2087.frank-fahner.de
 dederrer.com
 defendriver.com
 deflixog.cc
+deisima.lt
 deltahairsalon.net
 dermahopeperu.com
 desentupidora.pro.br
@@ -649,6 +653,7 @@ desokupamos.es
 despachosoto.com
 deutscheshaus.ro
 devsitebrt.brtloja.com.br
+dexmetal.hu
 dgpj.cv
 dgvglc.quantibright.com
 dh-1.net
@@ -911,6 +916,7 @@ gls-grouap.pw
 gls-groui.cfd
 gls-group.037182.sale
 gls-group.098731.si
+gls-group.843619.com
 gls-group.9008741.com
 gls-group.904981.help
 gls-group.908741.info
@@ -963,6 +969,7 @@ gls.279927.com
 gls.3783.click
 gls.37852387.click
 gls.704831.com
+gls.72841.club
 gls.73322.website
 gls.83958.lat
 gls.86305.live
@@ -1608,6 +1615,7 @@ meta-instagram-supportcenter.cfd
 metahelpdesk20.bolt.host
 metiopniqueskuitr471.com
 metspa.cam
+mexolix.icu
 mffunilariaepintura.com
 mhl6cxailcj0x2rarogruc2j1cmdhcm1hawxlci5jb20vdwq4zwlqzm.acm-tax.gr
 microestrategico.com
@@ -1921,6 +1929,7 @@ paravariarweb.com
 parkeasttownhomes.com
 partners.costumer.balearyc.com
 paulcooperracing.co.uk
+pavreno.cfd
 pay.klikomics.com
 payments.users.drumroamin.uk
 payplintelverify1.site
@@ -2254,6 +2263,7 @@ rialtoparty.it
 riosaladohp.com
 rkauth.com
 rlabservices.com
+rmc-kost.kz
 robertodelapenamarshall.com
 rodo.optinex.pl
 romecolosseumapartment.com
@@ -2370,6 +2380,7 @@ skskb.com
 sl1nk.com
 slcdc.net
 sledenje-posta.help
+slicernebula-vrnkqs.stormkit.dev
 slivhpjwrd.website
 slo.advanced-blutickfanpages.sbs
 slo498756.com
@@ -2491,6 +2502,7 @@ tlsn.io
 to.getsavyy.com
 tomdesign.si
 tomimarkets.net
+tonisoldering.com
 toolsotenet.com
 toraxx.de
 torphy.scorp251.net
@@ -2608,6 +2620,7 @@ webmail-authblk.litiantx.com
 webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
 webmail-authco.mdssmartrepalr.sbs
+webmail-autho.ccmzy.com
 webmail-autho.fsydwlh.com
 webmail-autho.ifuqin.com
 webmail-autho.nexgenpwrr.com
@@ -2778,4 +2791,5 @@ zigallerie.store
 zkwmbsqdoa.icu
 znszdruzenje.trenix.nl
 zpr.io
+zpxkid.graceacupunctureclinic.com
 zucowidpy.online
