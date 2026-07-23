@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-22 03:20:24 UTC
+# Updated: 2026-07-23 03:27:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -39,6 +39,7 @@
 1xskb.com
 20974a133d2ec6dfe920d20d010716b1.equihomeinternational.at
 228439.gooddonkey.org
+230814.cc
 24-info.si
 24c9d.cfd
 286283476351272kymsmyqkkopm.feedsforgrowth.xyz
@@ -335,6 +336,7 @@ bolha.accept-payment8013.click
 bolha.bolha.site
 bolha.brez-skrbi.cc
 bolha.brezskby.top
+bolha.brezskrb.ink
 bolha.brezskrb.top
 bolha.brezskrbi.cc
 bolha.brezskrbi.com
@@ -2348,6 +2350,7 @@ si.verifierle-badge-bleu.sbs
 siapcuan.my.id
 sichernauthkraft.de
 simpecon.com
+siollnet.liveblog365.com
 siotp1skb.com
 siotpinskb.com
 sipost-my-home.top
