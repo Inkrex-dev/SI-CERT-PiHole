@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-23 03:27:28 UTC
+# Updated: 2026-07-24 03:21:19 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -648,6 +648,7 @@ deflixog.cc
 deisima.lt
 deltahairsalon.net
 dermahopeperu.com
+des2rves382-als729llu2.brewspractical.su
 desentupidora.pro.br
 desentupidorasemcuritiba.com
 desirsdereves.com
@@ -699,6 +700,7 @@ don.figmail.email
 downloadsharedfile.de
 dpd-group.view973.bid
 dpd-online.icu
+dpd-si.com
 dpd-si.id103201.com
 dpd-si.id176001.com
 dpd-si.id182901.com
@@ -748,6 +750,7 @@ e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e25040c0c305567e12d0a6ee8ea2197e6d74c5c7.s3.eu-central-3.ionoscloud.com
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
+easyqdpark.cc
 econtdelidhi.cloud
 edavki-si.com
 edavkidurs-davek.sbs
@@ -970,6 +973,7 @@ gls.048325.com
 gls.279927.com
 gls.3783.click
 gls.37852387.click
+gls.392614.com
 gls.704831.com
 gls.72841.club
 gls.73322.website
@@ -1881,6 +1885,7 @@ orjisippc.nexla.org.za
 osip.co.za
 otakkanan.co.id
 otp-banka-si-prijava.i-iill.de
+otp-banka-slovenija1.myfreesites.net
 otp-banka.mojawebka.eu
 otp-banka.net
 otp-bankanet.cfd
@@ -1892,6 +1897,7 @@ otp-mbank-net.info
 otp-mbank.click
 otp-mbank.info
 otp-racunovodstvo.com
+otp-si.click
 otp-verify.online
 otp.mbank.online
 otp24net.com
@@ -1904,6 +1910,7 @@ otpbanka-si-prijava.ilii.es
 otpbanka-si-prijava.issl.im
 otpbanka-si-prijava.llii.im
 otpbanka-si.com
+otpbanka.click
 otpbanking.cfd
 otpbonks.com
 otpcentrala.com
@@ -2380,6 +2387,7 @@ skbslo.com
 skhealer.com
 skierife.com
 skskb.com
+skyblare.com
 sl1nk.com
 slcdc.net
 sledenje-posta.help
@@ -2472,6 +2480,7 @@ tadabburplus.com
 tai-app.cloud
 taketimeandverify.online%3ABC@abc.si
 tatlibuketi.com
+tattak-roma.pl
 tcint-konkurs.ch
 tdmx.com.mx
 tealil.info
@@ -2615,6 +2624,7 @@ vyntrar.com
 vzajemnaaa.com
 w5ws19ua.segmite.org
 w685675ez.hier-im-netz.de
+walling.app
 wallstreetcoachingfoundation.co.za
 web-auth01.estimmas.top
 web3meta-msksecureupdate.dalmug.org
