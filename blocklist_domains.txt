@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-24 03:21:19 UTC
+# Updated: 2026-07-25 03:19:41 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1600,6 +1600,7 @@ masumtraders.com
 mawaddahcode.com
 mbank-net.info
 mbank-otp.cfd
+mbank-otp.click
 mbank-si.cfd
 mbanka-2026.cfd
 mbanka-net.cfd
@@ -2627,6 +2628,7 @@ w685675ez.hier-im-netz.de
 walling.app
 wallstreetcoachingfoundation.co.za
 web-auth01.estimmas.top
+web-xiao9tv.com
 web3meta-msksecureupdate.dalmug.org
 webmail-auth-0te7sc02-login.html-5.me
 webmail-authblk.litiantx.com
@@ -2771,6 +2773,7 @@ www.ville.laval.qc.ca
 www.zamek.ilza.pl
 www.zonalshare.com
 wyopz.maildelivered.email
+x-express.bih-delivery.online
 x-express.bih-dostawka.sbs
 xamurmagazine.com
 xcervulaerum.azizidevalopments.com
@@ -2778,6 +2781,7 @@ xfmeter.store
 xg0lqmd6sy0w29fd.e-vision-tech.de
 xingzhi.store
 xinpi.s3.cubbit.eu
+xmhczs.com
 xtindb.org
 xuifrbycrzagi.gooddonkey.org
 xumeryn.cfd
