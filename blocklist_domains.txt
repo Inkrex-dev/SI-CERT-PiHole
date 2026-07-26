@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-25 03:19:41 UTC
+# Updated: 2026-07-26 03:33:31 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -2777,6 +2777,7 @@ x-express.bih-delivery.online
 x-express.bih-dostawka.sbs
 xamurmagazine.com
 xcervulaerum.azizidevalopments.com
+xevona.us
 xfmeter.store
 xg0lqmd6sy0w29fd.e-vision-tech.de
 xingzhi.store
