@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-27 03:41:32 UTC
+# Updated: 2026-07-28 03:12:57 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -193,6 +193,7 @@ amendes-gouv.solutions
 amfoodsna.ca
 amicsdelopera.com
 amringenieria.com.ar
+amuse-arnes5.morletas.com
 amzgo.20-172-65-119.cpanel.site
 amzgoone.20-172-65-119.cpanel.site
 andersonsrubbishremoval.com.au
@@ -424,6 +425,7 @@ bolha.ordgmtr811.cfd
 bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.potrdi-link-prejemanje.click
+bolha.potrdilo-o-placilu-narocila-order3456.shop
 bolha.prejemanje-sredstev02019.shop
 bolha.prejemanje-sredstev923491.shop
 bolha.receive-funds.digital
@@ -973,6 +975,7 @@ gls-yourgroup.cyou
 gls.00594238.click
 gls.048325.com
 gls.279927.com
+gls.3597238.biz
 gls.3783.click
 gls.37852387.click
 gls.392614.com
@@ -1458,6 +1461,7 @@ k29a6.dnevet.ru
 ka-chiba.net
 kaambadaycare.com
 kalsiembas.io
+kareto.store
 kargolar.net
 karoowebz.ir
 kaucsb0lszvzobzx.gt-industries.com
@@ -1749,6 +1753,7 @@ nguoivietkharkov.com
 nhswj.net
 nib-kliksi.com
 nietclix.tkburgers.com
+nievolaengenharia.com.br
 njj.standard.us-east-1.oortstorages.com
 nkbm-centrala.com
 nkbm-otp.com
@@ -2446,6 +2451,7 @@ stamiwop.us
 starslot.one
 starti.tn
 steellifeinc.us
+stellarbbs.com
 steprimo.com
 sterlitamakadm.ru
 stik365.com
@@ -2453,6 +2459,7 @@ stikspk.net
 stirrupimpetus.us
 stratusypatch.us
 stt-flux.com
+sttyuio.store
 studioclittarru.it
 studioibc.cfd
 submit-form.com
@@ -2547,6 +2554,7 @@ txrizivselfserv.be.hllill.abrdns.com
 uiomoakij.gooddonkey.org
 uipath-in.com
 ujlog.ci
+ujzp2th2.crypticloom.sbs
 ultradjheifiers.online
 uni-lj-webmail.info
 unicredlt-si.com
