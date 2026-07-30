@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-29 03:16:48 UTC
+# Updated: 2026-07-30 02:49:26 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -359,6 +359,7 @@ bolha.dostava-link-info.sbs
 bolha.dostava-potrditev1.click
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.hr-order92782.site
 bolha.id12518901.info
 bolha.id41082302.info
 bolha.id71232431.info
@@ -1582,6 +1583,7 @@ mail.adianjing.com
 mail14.vumar.top
 mail15.jupitar.online
 mailbox-settings-update.s3.eu-central-3.ionoscloud.com
+mailbox.njmssx.com
 mailwebmails.com
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
@@ -2327,6 +2329,7 @@ securedocumenttransferportalpanel.my
 securewebmail.info
 security.schwab4.sbs
 segurytel.com.pe
+sekontektiolp.liveblog365.com
 selmoreadvertising.com
 senged.com
 seriesandtv.com
@@ -2368,6 +2371,8 @@ si.verifierle-badge-bleu.sbs
 siapcuan.my.id
 sichernauthkraft.de
 simpecon.com
+siolee5487f.liveblog365.com
+siolenet254879.liveblog365.com
 sioll.liveblog365.com
 siollnet.liveblog365.com
 siotp1skb.com
@@ -2654,6 +2659,8 @@ webmail-autho.ccmzy.com
 webmail-autho.fsydwlh.com
 webmail-autho.ifuqin.com
 webmail-autho.nexgenpwrr.com
+webmail-autho.shawyf.com
+webmail-autho.vajueji.com
 webmail-autho.zjwztape.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
