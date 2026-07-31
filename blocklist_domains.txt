@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-30 02:49:26 UTC
+# Updated: 2026-07-31 03:32:16 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -225,7 +225,9 @@ ariani.es
 arnes.webmail.net.co
 arts2nfts.com
 assets.norbr.io
+assume-Eragon5.bideasynow.com
 asw.woukechou.cfd
+atexmarkets.com
 atlanticityplay.com.pe
 atplink.com
 audimedsaude.com.br
@@ -1516,6 +1518,7 @@ lambolos.com
 lancejacks.suvithas.com
 laoairilnes.com
 lapharma.in
+lapostopnet.com
 lasko.com@tinyfy.cc
 latinsecurities-uy.com
 lausanne.dk
@@ -2224,6 +2227,7 @@ prwsso6jl1moat9npgf4.groupsorlink.com
 ptotsisi.top
 pub-ac68e5ertdtfemm-jp.gs
 pub-gtx234ty57t7ygty8g66fgh756758h7h-com.li
+pugetsoundaikikai.org
 pull.gaistaicrai.digital
 purexwror.us
 pwallsolutions.co.za
@@ -2823,6 +2827,7 @@ z8ixg.infinityautornations.com
 zaid-designs.com
 zak.minimalistspace.de
 zanove.com
+zenocuserauthfero.grandboatsspain.com
 zerodwaixt.us
 zfrmz.com
 zh-h5-xiongmao.com
