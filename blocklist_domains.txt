@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-07-31 03:32:16 UTC
+# Updated: 2026-08-01 03:32:01 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -342,6 +342,7 @@ bolha.brez-skrbi.cc
 bolha.brezskby.top
 bolha.brezskrb.ink
 bolha.brezskrb.top
+bolha.brezskrbi-verify.cc
 bolha.brezskrbi.cc
 bolha.brezskrbi.com
 bolha.brezskrbi.ink
@@ -1145,6 +1146,7 @@ gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
 gosell.ro
+goullap25879.liveblog365.com
 gov-cenik.com
 gov-is.govsligovnsi.cyou
 gov-placati.com
@@ -2512,6 +2514,7 @@ teckvision.cfd
 tecnobeton.eu
 telatraan.com
 telcaomsl.liveblog365.com
+telekom-si.click
 telekom.online-verify.click
 telenfy.net
 telkomnet.com.ng
@@ -2590,6 +2593,7 @@ url6333.notification.starshipit.com
 url8356.zyprr.net
 urlbae.bio
 urls.fr
+urlx.fr
 user-login894393929032toda98j32.accessomfs.com
 user.cheacker.store
 user.manage.wix.pawsparlour.com
@@ -2796,6 +2800,7 @@ www.ukgrowthclub.com
 www.verification-accountt.click
 www.verifyemailnow.click
 www.ville.laval.qc.ca
+www.weldtrade.pl
 www.zamek.ilza.pl
 www.zonalshare.com
 wyopz.maildelivered.email
