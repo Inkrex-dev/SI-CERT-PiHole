@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-02 03:31:33 UTC
+# Updated: 2026-08-03 03:33:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -936,6 +936,7 @@ gls-group.904981.help
 gls-group.908741.info
 gls-group.9401921.com
 gls-group.98295.live
+gls-group.99978.shop
 gls-group.cyou
 gls-group.gls-grupservice.com
 gls-group.id18917.info
@@ -1928,6 +1929,7 @@ otpbanka-si-prijava.issl.im
 otpbanka-si-prijava.llii.im
 otpbanka-si.com
 otpbanka.click
+otpbanka.online
 otpbanking.cfd
 otpbonks.com
 otpcentrala.com
