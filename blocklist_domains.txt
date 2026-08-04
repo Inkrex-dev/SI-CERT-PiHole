@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-03 03:33:52 UTC
+# Updated: 2026-08-04 03:16:48 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -354,6 +354,7 @@ bolha.brzeskbi.top
 bolha.brzskb.top
 bolha.brzskr.top
 bolha.brzskrb.top
+bolha.brzskrbi.ink
 bolha.brzskrbi.top
 bolha.deliscr.com
 bolha.delivery-id5712.com
@@ -620,6 +621,7 @@ cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
 customer-online-agi.equihomeinternational.ch
 customerserviceprime-informaticaintegrada.net
+customjacketmaker.com
 custompolicevehicles.com
 customserviamz-paymtstetamseis.aceinst.edu.pk
 cvgfsvc.cc
@@ -653,6 +655,7 @@ dederrer.com
 defendriver.com
 deflixog.cc
 deisima.lt
+delsafa.com
 deltahairsalon.net
 dermahopeperu.com
 des2rves382-als729llu2.brewspractical.su
@@ -919,6 +922,7 @@ geweb.info
 gfd.authweb.sbs
 gfd.filbun.pro
 ghamdamn671xkaz.graficosdm.com.uy
+ghihxcvl.cfd
 giggedfrog.com
 gilardonispa.top
 gjtgqhgp2tui7ra.zl.ge
@@ -2517,6 +2521,7 @@ tecnobeton.eu
 telatraan.com
 telcaomsl.liveblog365.com
 telekom-si.click
+telekom-si.com
 telekom.online-verify.click
 telenfy.net
 telkomnet.com.ng
