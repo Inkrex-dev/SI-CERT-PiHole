@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-04 03:16:48 UTC
+# Updated: 2026-08-05 03:11:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -366,6 +366,7 @@ bolha.dostavo-paket52.click
 bolha.hr-order92782.site
 bolha.id12518901.info
 bolha.id41082302.info
+bolha.id5491.click
 bolha.id71232431.info
 bolha.id71274431.info
 bolha.id71319342.info
@@ -1665,6 +1666,7 @@ mobilenlbsid.com
 mobilenlbsida.com
 mobilenlbv.com
 mogls.904901.com
+moj-telekom.online
 moja-otp.com
 moja-posta.help
 moja-posta.my
@@ -1765,6 +1767,7 @@ nexavo.store
 nexus-hal.com
 nguoivietkharkov.com
 nhswj.net
+nib-bh.click
 nib-kliksi.com
 nietclix.tkburgers.com
 nievolaengenharia.com.br
@@ -1920,6 +1923,7 @@ otp-mbank.click
 otp-mbank.info
 otp-racunovodstvo.com
 otp-si.click
+otp-si.online
 otp-verify.online
 otp.mbank.online
 otp24net.com
@@ -1957,6 +1961,7 @@ paketpostasi.com
 paladinrag-jrcz9h.stormkit.dev
 panelelektrikltd.com.tr
 paperless.training
+parasite.mypi.co
 paravariarweb.com
 parkeasttownhomes.com
 partners.costumer.balearyc.com
@@ -2327,6 +2332,7 @@ samuelandwilliams.co.uk
 sanasalud.vip
 sanatoriofamiliar.com
 sardva.org
+sarsvs.com
 sated.es
 sawayn.fitado.de
 schaden.rother-bremen.de
@@ -2374,6 +2380,7 @@ si-home-post.life
 si-mbank.cfd
 si-postatrackingv.life
 si-postazasebno.top
+si-telekom.online
 si-update-nlbpay-clieytkwav.groupsorlink.com
 si-update-nlbpay-halimzpmyo.groupsorlink.com
 si.advanced-blutickfanpages.sbs
