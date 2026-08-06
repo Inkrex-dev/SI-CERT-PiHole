@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-05 03:11:58 UTC
+# Updated: 2026-08-06 03:15:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -132,6 +132,7 @@ access.piagginaerospace.info
 accesses.moderations.digital
 accouint-rakiuten-jp.com
 account-security.fwh.is
+account.concepts.vu
 account.credentials.world
 account.supports.vu
 accounts-hetzner.stretchshopmen.nl
@@ -894,6 +895,7 @@ franceresell.fr
 frmnewmicrosoftonlineservice.com.dyrubber.cam
 fsmsupports.com
 ftrica-log.conohawing.com
+fts.unt.ba
 ftweb.info
 futurepeak.vip
 fwodjkswjs.alexylalito.pe
@@ -1784,9 +1786,11 @@ nkbmsidda.com
 nkbmsidsid.com
 nkmbe.com
 nkwebsolutions.nl
+nlb-ba.hyrje.co
 nlb-bank.com
 nlb-banka-online.com
 nlb-banka.com
+nlb-bh.info
 nlb-bl.info
 nlb-eklik.click
 nlb-klik-me.click
@@ -1890,7 +1894,6 @@ online.characteristics.today
 online.computation.shop
 online.computation1.click
 online.otpbankaid.digital
-online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
 oo2w7buimfxzsiiqxosei5gjiux4k4c2qwutebaiastbhhvretjq.0x0.io.vn
@@ -1923,12 +1926,14 @@ otp-mbank.click
 otp-mbank.info
 otp-racunovodstvo.com
 otp-si.click
+otp-si.info
 otp-si.online
 otp-verify.online
 otp.mbank.online
 otp24net.com
 otp24sl.com
 otpbank-link.cfd
+otpbank.click
 otpbanka-26.cfd
 otpbanka-837.cfd
 otpbanka-links.cfd
@@ -1937,6 +1942,7 @@ otpbanka-si-prijava.issl.im
 otpbanka-si-prijava.llii.im
 otpbanka-si.com
 otpbanka.click
+otpbanka.hyrje.co
 otpbanka.online
 otpbanking.cfd
 otpbonks.com
@@ -2329,6 +2335,7 @@ salesmix.cloud
 salomon.finatlyex.cfd
 samratbd.com
 samuelandwilliams.co.uk
+samup.live
 sanasalud.vip
 sanatoriofamiliar.com
 sardva.org
@@ -2820,6 +2827,7 @@ www.zonalshare.com
 wyopz.maildelivered.email
 x-express.bih-delivery.online
 x-express.bih-dostawka.sbs
+x-express.bihnadruzba.click
 xamurmagazine.com
 xcervulaerum.azizidevalopments.com
 xevona.us
