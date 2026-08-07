@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-06 03:15:12 UTC
+# Updated: 2026-08-07 02:55:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -704,6 +704,7 @@ dmsneb.com
 dnkpos.ink
 doamienin-serve.pilzschule-nordwest.de
 doc-previewonline-76282-10286275ghfkwai.online
+docs.fileverse.io
 docsfilefolders.horizonex.org
 documentation.contains.life
 docxxmonsters.com
@@ -937,6 +938,7 @@ gls-grouap.pw
 gls-groui.cfd
 gls-group.037182.sale
 gls-group.098731.si
+gls-group.55655.click
 gls-group.843619.com
 gls-group.9008741.com
 gls-group.904981.help
@@ -999,6 +1001,8 @@ gls.83958.lat
 gls.86305.live
 gls.863126.live
 gls.8921.space
+gls.9173.site
+gls.9419.site
 gls.98312.space
 gls.a-sends.sbs
 gls.bload.eu
@@ -2210,6 +2214,7 @@ prijaja.ddns.cam
 prijava-nlbracun.com
 prijava-otp-banka-si.issl.im
 prijava-otpbanka-si.issl.im
+prijava.otpbankasi.online
 prijava_telekom_si.gamelaunch.goldwin.com
 prijavaa-nlbsiportal.com
 primoapparel.uk
@@ -2624,6 +2629,7 @@ usersbilling.digital
 userswix-com-signin.ardebouw.com
 userswix-login-logincompname.mountainspavillaplaz.com
 uukrposhta.icu
+v2527cxwhd.quicktrustdesign.de
 v3.newsmailservice.de
 valena.ro
 valetravel.co.uk
