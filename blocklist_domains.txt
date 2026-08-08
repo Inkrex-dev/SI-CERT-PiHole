@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-07 02:55:06 UTC
+# Updated: 2026-08-08 02:00:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1930,6 +1930,7 @@ otp-mbank.click
 otp-mbank.info
 otp-racunovodstvo.com
 otp-si.click
+otp-si.co
 otp-si.info
 otp-si.online
 otp-verify.online
@@ -2541,6 +2542,7 @@ telatraan.com
 telcaomsl.liveblog365.com
 telekom-si.click
 telekom-si.com
+telekom.hyrje.co
 telekom.online-verify.click
 telenfy.net
 telkomnet.com.ng
@@ -2702,6 +2704,7 @@ webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
 webmail-oauth.coachcurt.com
 webmail-oauthblk.bodinecc.com
 webmail-ouathuz.northicansglobal.com
+webmail-secure-officeclientsystem-weblogin-dphu8okkhipg.zh-cn.edgeone.cool
 webmail.adawliah.com.sa
 webmail.authslrc.com
 webmail.euskaralogikoada.eus
