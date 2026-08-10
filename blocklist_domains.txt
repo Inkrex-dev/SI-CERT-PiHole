@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-09 02:08:21 UTC
+# Updated: 2026-08-10 02:15:35 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -892,6 +892,7 @@ formareasesoria.com
 formazionemedform.it
 formdesigner.pro
 fortunalogistix.com
+foyer-online.de
 franceresell.fr
 frmnewmicrosoftonlineservice.com.dyrubber.cam
 fsmsupports.com
@@ -1330,6 +1331,7 @@ helpdesk.syntoviax.com
 helper.surveychmerms.com
 het.antoniaworld.com
 hfheygfyhfgfg.pescasporta.com
+hhokit.co.uk
 hibuxyukse.brababetjogo.com
 hitro-placilo.com
 hlcauth.com
