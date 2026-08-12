@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-11 02:07:34 UTC
+# Updated: 2026-08-12 02:25:24 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -339,6 +339,7 @@ bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.accept-payment8013.click
 bolha.bolha.site
+bolha.brez-skrbi-verify.cc
 bolha.brez-skrbi.cc
 bolha.brezskby.top
 bolha.brezskrb.ink
@@ -705,7 +706,6 @@ dmsneb.com
 dnkpos.ink
 doamienin-serve.pilzschule-nordwest.de
 doc-previewonline-76282-10286275ghfkwai.online
-docs.fileverse.io
 docsfilefolders.horizonex.org
 documentation.contains.life
 docxxmonsters.com
@@ -728,6 +728,7 @@ dpd-si.transfermoneykla.cc
 dpd-si.transfermoneyuax.xyz
 dpd-si.trnsfrmney-61257.xyz
 dpd-si.trnsfrmneycf.xyz
+dpd-si.website
 dpd-slovenia.owebb.shop
 dpd-slovenija.help
 dpd.click-select324.com
@@ -2326,6 +2327,7 @@ rodo.optinex.pl
 romecolosseumapartment.com
 ronnebech.dk
 room-hourse4772.com
+roomnights.csdhby.com
 rooms-cityhub723.com
 rooms-stayhub209.com
 roundcube-support.vitaminopro-uz.com
