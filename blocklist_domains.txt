@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-12 02:25:24 UTC
+# Updated: 2026-08-13 02:26:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -502,6 +502,7 @@ box-sigroup.buzz
 boxinggolbal.de
 bqc2vlm2ewpklod.soundkraft-me.com
 branidy.com
+braseltonervet.com
 bridge.metalsart.in
 brightbrains.net
 brothersfarm.contact
@@ -942,6 +943,7 @@ gls-grouap.pw
 gls-groui.cfd
 gls-group.037182.sale
 gls-group.098731.si
+gls-group.22522.website
 gls-group.55655.click
 gls-group.843619.com
 gls-group.9008741.com
@@ -1441,6 +1443,7 @@ interrakctliveebrokeirs.com
 intesa24si.com
 intesa24sl.com
 invoice.syracuseculturalworkers.com
+inzar-es.info
 ioserve.org
 iranparametric.com
 ironbd.com
@@ -1995,6 +1998,7 @@ pdf-adobe-com-ae-acrobat.appwrite.network
 pedronoguera.com.br
 percayarakyatjp.us
 performancecontests.co.uk
+petamia.com
 petrik-kolb.de
 phlqbatr.ru
 phv-centrala.com
