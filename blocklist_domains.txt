@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-13 02:26:52 UTC
+# Updated: 2026-08-14 02:25:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1907,6 +1907,7 @@ online.characteristics.today
 online.computation.shop
 online.computation1.click
 online.otpbankaid.digital
+online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
 oo2w7buimfxzsiiqxosei5gjiux4k4c2qwutebaiastbhhvretjq.0x0.io.vn
@@ -1942,6 +1943,7 @@ otp-si.click
 otp-si.co
 otp-si.info
 otp-si.online
+otp-slo.live
 otp-verify.online
 otp.mbank.online
 otp24net.com
@@ -2554,6 +2556,7 @@ telatraan.com
 telcaomsl.liveblog365.com
 telekom-si.click
 telekom-si.com
+telekom-slo.live
 telekom.hyrje.co
 telekom.online-verify.click
 telenfy.net
