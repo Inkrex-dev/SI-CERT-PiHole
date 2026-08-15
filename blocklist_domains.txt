@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-14 02:25:12 UTC
+# Updated: 2026-08-15 01:36:26 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1006,6 +1006,7 @@ gls.73322.website
 gls.83958.lat
 gls.86305.live
 gls.863126.live
+gls.863152.live
 gls.8921.space
 gls.9173.site
 gls.9419.site
@@ -1895,6 +1896,7 @@ odhikfskjrjkndpkundbms-hdsgmdnknsdn.edgeone.app
 odindrive.info
 odjemalec.arnes.streznik.test119949.test-account.com
 odwarsolutions.com
+off365acess.jumpingcrab.com
 officeprocleaningcocom-bb1e7ce8ad4685a.fwtrack.com
 offshorekesuma.com
 olapucuwekztjvt.zl.ge
@@ -2703,6 +2705,7 @@ web-auth01.estimmas.top
 web-xiao9tv.com
 web3meta-msksecureupdate.dalmug.org
 webmail-auth-0te7sc02-login.html-5.me
+webmail-authb.bjyzzy.com
 webmail-authblk.litiantx.com
 webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
