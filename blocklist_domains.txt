@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-17 01:41:14 UTC
+# Updated: 2026-08-18 01:36:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1412,6 +1412,7 @@ importadoralobos.com
 imsagentes.pe
 inaequo.es
 indosoft.dk
+infinitycast.in
 infinitypoolsuites.com
 info-cardapp-nlbpay.hier-im-netz.de
 info.momoiescolar.com
@@ -1780,6 +1781,7 @@ newglobal.cl
 newnoticesett.drr.ac
 newpassettings.drr.ac
 news.only-1-led.com
+newsiolenta874596.liveblog365.com
 nexavo.store
 nexus-hal.com
 nguoivietkharkov.com
@@ -1936,6 +1938,7 @@ otp-banka.net
 otp-bankanet.cfd
 otp-cert.com
 otp-db.com
+otp-group.info
 otp-kr.com
 otp-login.cfd
 otp-mbank-net.info
@@ -1964,6 +1967,7 @@ otpbanka.click
 otpbanka.hyrje.co
 otpbanka.hyrje.com
 otpbanka.online
+otpbankasi.co
 otpbanking.cfd
 otpbonks.com
 otpcentrala.com
@@ -2040,6 +2044,7 @@ posljipaket-sl.nuone.shop
 posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 posljipaket.me
+poslovni24ur.com
 post-si.com
 post-si.net
 post-si.online
@@ -2207,6 +2212,7 @@ posteav.top
 postmgmd.icu
 postni-si.top
 postnordf.cfd
+postojna-cave.pro
 postservice.info
 postsinews.top
 postslovenija.top
@@ -2483,6 +2489,7 @@ sofiadumonde.com
 sogetras.sn
 solnik-ar.com
 solsiborg.com
+solutionshell.com
 soosowestcloudexprt.ru
 sostorontomovers.ca
 soucdecopese.com
@@ -2654,6 +2661,7 @@ v3.newsmailservice.de
 valena.ro
 valetravel.co.uk
 varkalahomestay.com
+varnost-si.com
 varnost-ursiv.com
 vasracun-varnost.net
 vb-consulting.cz
@@ -2702,14 +2710,17 @@ w5ws19ua.segmite.org
 w685675ez.hier-im-netz.de
 walling.app
 wallstreetcoachingfoundation.co.za
+wearamci.com
 web-auth01.estimmas.top
 web-xiao9tv.com
 web3meta-msksecureupdate.dalmug.org
+webm-authcp.doobo-kr.com
 webmail-auth-0te7sc02-login.html-5.me
 webmail-authb.bjyzzy.com
 webmail-authblk.litiantx.com
 webmail-authblk.xuanzhenge.com
 webmail-authblk.xycgbl.com
+webmail-authco.cabcikalg.com
 webmail-authco.mdssmartrepalr.sbs
 webmail-autho.ccmzy.com
 webmail-autho.fsydwlh.com
