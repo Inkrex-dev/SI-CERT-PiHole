@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-19 01:38:29 UTC
+# Updated: 2026-08-20 01:37:23 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -138,6 +138,7 @@ account.supports.vu
 accounts-hetzner.stretchshopmen.nl
 accounts-hetzner.wolfmystical.com
 accounts.efficencient.digital
+accountsworspace78jh76r.co
 acitybet.com.pe
 activation2fa.ru
 actual-travel.biz
@@ -243,6 +244,7 @@ autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
 avsasan.com
 avtonet.site
+aywmcs4ulr504v3s0v.live
 b538f.net
 b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
 babyurl.net
@@ -307,6 +309,7 @@ bnskb.com
 bocwyafty.online
 bohinj-eco-hotel.sbs
 boierafty.us
+bolha-.brzskrb.ink
 bolha-si.an264818.com
 bolha-si.an2837123.com
 bolha-si.an36482746.com
@@ -620,6 +623,7 @@ cpssaccesspanelhost3810796wyjzxmhl6cxailcj0x21rarrodiscosom.acm-tax.gr
 crepiqome.online
 crm1.ascentismedia.com
 crmk.com.ar
+csa-architecst.com
 csaerst853-ygfaev434.tecchein.cam
 csplm.online
 ct-erg.com
@@ -1433,6 +1437,7 @@ inobra.ar
 inproseal.pe
 inseselectronicsecurity.com
 inspirations.es
+instantgiftz.com
 institutosursumcorda.com.br
 integrallife.it
 interactive-security.com
@@ -1947,6 +1952,7 @@ otp-mbank-net.info
 otp-mbank.click
 otp-mbank.info
 otp-prijava.info
+otp-prijava.live
 otp-racunovodstvo.com
 otp-si.click
 otp-si.co
@@ -2738,6 +2744,7 @@ webmail-autho.zjwztape.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
 webmail-oauth.coachcurt.com
+webmail-oauth.xnldsj.com
 webmail-oauthblk.bodinecc.com
 webmail-ouathuz.northicansglobal.com
 webmail-secure-officeclientsystem-weblogin-dphu8okkhipg.zh-cn.edgeone.cool
