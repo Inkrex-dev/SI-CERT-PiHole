@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-20 01:37:23 UTC
+# Updated: 2026-08-21 01:42:22 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -359,6 +359,7 @@ bolha.brezskrbii.top
 bolha.brezsrbi.top
 bolha.brzeskbi.top
 bolha.brzskb.top
+bolha.brzskr.ink
 bolha.brzskr.top
 bolha.brzskrb.top
 bolha.brzskrbi.ink
@@ -1573,6 +1574,7 @@ lgrouptg.com
 lightningbull.com
 link.enormail.eu
 link3p.org
+linkm-si.com
 linkotpbanka.cfd
 links-mbank.cfd
 links-otpbank.cfd
@@ -1583,6 +1585,7 @@ liveguardfixcenter.top
 liveprofiles.cc
 llink.to
 llosrl.com
+llut.steponinfotech.com
 ln.shorturl.es
 lnk.do
 localcincinnatinews.com
@@ -2559,6 +2562,7 @@ t-2net.com
 t.dripemail2.com
 t2.slov-si.help
 t2m.io
+t5p9w2d7j1f8h4s6ky.live
 t7ts.aterpishu.com
 t9vz.beastdatatrackinghub.com
 tabbys-catsitting.co.uk
@@ -2809,6 +2813,7 @@ www.fcommu70.com.ng
 www.fireplaceoutfltters.com
 www.frontiersurvival.com
 www.fxfashionbd.com
+www.g14dgvdgzher.com
 www.geea.sk
 www.gimmickfactory.com
 www.govsi.asia
@@ -2868,6 +2873,7 @@ www.tecorportas.com
 www.telefonoerotico1.it
 www.telekom.lat
 www.terragalosintern.at
+www.tfc0b3te.com
 www.tienbip.click
 www.tripadvisor.us-n8725715.rentals
 www.ukgrowthclub.com
@@ -2875,6 +2881,7 @@ www.verification-accountt.click
 www.verifyemailnow.click
 www.ville.laval.qc.ca
 www.weldtrade.pl
+www.yy8qxt1k.com
 www.zamek.ilza.pl
 www.zonalshare.com
 wyopz.maildelivered.email
@@ -2903,6 +2910,7 @@ ys1.barywhents.ru
 yume.cutegirl.jp
 yuvahallabol.in
 yuyetrtetee-uyeteuej-ueydjdd-yteyhdjd.online
+z1f6p3w8j2t7g9b4mx.live
 z8ixg.infinityautornations.com
 zaid-designs.com
 zak.minimalistspace.de
