@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-21 01:42:22 UTC
+# Updated: 2026-08-22 01:35:43 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -564,6 +564,7 @@ checkytraff.com
 cheksapoto.com
 chicstyle123.com
 chopefoundation.co.za
+chs-si.com
 cidt.ci
 cineaudio.de
 cityexpress.cc
@@ -2231,6 +2232,7 @@ postsinews.top
 postslovenija.top
 posyer-qy.top
 posyer-rs.top
+potrditev-podatkov.com
 potsbn.top
 povracilo-stroskov.cc
 powerswiss.us
