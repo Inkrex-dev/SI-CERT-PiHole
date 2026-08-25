@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-24 01:43:07 UTC
+# Updated: 2026-08-25 01:37:47 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1644,6 +1644,7 @@ maronlepos-helamanger-autodah.myiqsolutions.com
 marsvenus-account-sharepnt-drive.qqcclbxgzxbdrxho.cloud
 marsvenus-login.microsoftonline.dpfraizj.click
 marsvenus-login.microsoftonline.tgbixubijgwle.click
+masazehenrieta.sk
 maskalder-zo2ix7.stormkit.dev
 masterdealer.us
 masumtraders.com
@@ -2238,6 +2239,7 @@ potsbn.top
 povracilo-stroskov.cc
 powerswiss.us
 ppao110093.zya.me
+pr-3549.tommeetippee.ppddev.co.uk
 pradhikar.org
 praxis-fuer-energiemedizin.ch
 premanteamqualools.asesolu.com
@@ -2508,6 +2510,7 @@ solnik-ar.com
 solsiborg.com
 solutionshell.com
 soosowestcloudexprt.ru
+sophiespearl.com
 sostorontomovers.ca
 soucdecopese.com
 sp-track.dbdoc.org
@@ -2918,6 +2921,7 @@ z8ixg.infinityautornations.com
 zaid-designs.com
 zak.minimalistspace.de
 zanove.com
+zascita-klientov.com
 zenocuserauthfero.grandboatsspain.com
 zerodwaixt.us
 zfrmz.com
