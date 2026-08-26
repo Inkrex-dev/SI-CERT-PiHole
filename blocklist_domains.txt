@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-25 01:37:47 UTC
+# Updated: 2026-08-26 01:43:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -296,6 +296,7 @@ billingfailed.digital
 billingsmanager.buffalocuboidzx10g.com
 bin-si.com
 bisnmsx.com
+bit-si.lat
 biteonus.com
 bitzli.ch
 bj13811437077.com
@@ -776,6 +777,7 @@ e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
 easyqapark.vu
 easyqdpark.cc
+ebfcd45eb5387229066062d444ca0fd438f13979.s3.eu-central-3.ionoscloud.com
 econtdelidhi.cloud
 edavki-si.com
 edavkidurs-davek.sbs
@@ -952,6 +954,7 @@ gls-groui.cfd
 gls-group.037182.sale
 gls-group.098731.si
 gls-group.22522.website
+gls-group.421021.info
 gls-group.55655.click
 gls-group.843619.com
 gls-group.9008741.com
@@ -1008,6 +1011,7 @@ gls.3597238.biz
 gls.3783.click
 gls.37852387.click
 gls.392614.com
+gls.6383639.lat
 gls.704831.com
 gls.72841.club
 gls.73322.website
@@ -1526,6 +1530,7 @@ kitdesigner.primoapparel.uk
 kittensmarket.com
 klik-nlb.cfd
 klik-nlb.com
+klik-si.click
 klikappnlb.online
 kneepaintreatmentpro.com
 knfmj.csbnr.com
@@ -1967,6 +1972,7 @@ otp-si.online
 otp-slo.live
 otp-verify.online
 otp.mbank.online
+otp.si-si.online
 otp24net.com
 otp24sl.com
 otpbank-link.cfd
@@ -2429,6 +2435,7 @@ shorten.tv
 shorten.world
 shupenia.com
 shvdeelse.online
+si-gbkr.site
 si-gov.cam
 si-gov.one
 si-home-post.life
@@ -2682,6 +2689,7 @@ v3.newsmailservice.de
 valena.ro
 valetravel.co.uk
 varkalahomestay.com
+varna-povezava.com
 varnost-si.com
 varnost-sl.com
 varnost-ursiv.com
