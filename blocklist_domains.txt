@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-26 01:43:09 UTC
+# Updated: 2026-08-27 08:42:26 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -202,6 +202,7 @@ andersonsrubbishremoval.com.au
 anfamoto.org
 angstparty.co.za
 ansieng.com
+antiscreen.com.tr
 anxious-teal-tmpvvb0j.edgeone.dev
 anxutrading.com
 aob.terminmail.de
@@ -1390,6 +1391,7 @@ hvarnost.com
 hvarnost24.com
 hvarstvo.com
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
+hxnrdw.icu
 hyy.cdreyj.com
 hzascita.com
 i-28loops.com
@@ -1458,6 +1460,7 @@ interrakctliveebrokeirs.com
 intesa24si.com
 intesa24sl.com
 invoice.syracuseculturalworkers.com
+involtenergy.com
 inzar-es.info
 ioserve.org
 iranparametric.com
@@ -1528,6 +1531,7 @@ ketchen.centercommercialonline.com
 kings22kar.com
 kitdesigner.primoapparel.uk
 kittensmarket.com
+kleider-kunst.com
 klik-nlb.cfd
 klik-nlb.com
 klik-si.click
@@ -2683,6 +2687,7 @@ users.manage.florenceoregon.net
 usersbilling.digital
 userswix-com-signin.ardebouw.com
 userswix-login-logincompname.mountainspavillaplaz.com
+ustanovkasvai.ru
 uukrposhta.icu
 v2527cxwhd.quicktrustdesign.de
 v3.newsmailservice.de
