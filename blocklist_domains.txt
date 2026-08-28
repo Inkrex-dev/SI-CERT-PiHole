@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-27 08:42:26 UTC
+# Updated: 2026-08-28 10:54:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -355,6 +355,7 @@ bolha.brezskrbi.cc
 bolha.brezskrbi.com
 bolha.brezskrbi.fit
 bolha.brezskrbi.ink
+bolha.brezskrbi.live
 bolha.brezskrbi.top
 bolha.brezskrbi.trade
 bolha.brezskrbii.top
@@ -517,6 +518,7 @@ bskuna-mypi.com
 bspoga.org
 btyuik.store
 budexsc.pl
+budgetbondcleans.com.au
 build5.brandragons.com
 bulkurlshortener.com
 bullet.metrolife.info
@@ -573,6 +575,7 @@ cityexpress.cc
 citywear.com.bd
 cj3EPc52QTPeUvt.ccforaction.com
 ckoya-coiffure.fr
+clbbsdfc.com
 clcr.me
 clientlogin.sapconcurrentservices.help
 clinsesmt.com
@@ -583,6 +586,7 @@ cloudflare-ipfs.com
 cloudserver85.com
 cocic-calc.com
 cocojoyce.ci
+cocoro-k.co.jp
 codcnwaeb.online
 codeigniter.netouta.me.uk
 codelink.icu
@@ -1778,8 +1782,10 @@ mypost.mmkbk.online
 mysi.live
 mysupportservicee.com
 mytriglav.dtdns.org
+myweeteepee.co.uk
 n-ickel.com
 n-lb.com
+nailstrip.co.uk
 napvibe.com
 nazatec.pe
 nbbrail.co.uk
@@ -2059,6 +2065,7 @@ podologoenbenavente.com
 pointonecorp.gapinc.sbs
 pollich.meikomail.com
 polskawatrchingfilms.com
+pomi.digital
 pontodasferragensgru.com.br
 poosts.life
 porcelltoursperu.com
@@ -2416,6 +2423,7 @@ sekontektiolp.liveblog365.com
 selmoreadvertising.com
 senged.com
 seriesandtv.com
+serv64securecafeprootaalholdingjzmjom8sccentcexpenucwxhzuv.nevzat.nl
 servadmnauth.de
 server.app.cloud.banbarfurniture.com
 server.crisanalitica.com
@@ -2467,6 +2475,7 @@ siskb1otp.com
 siskbinotp.com
 siskbinotp.net
 site-25d155360fde.mypreview.site
+six5studio.online
 sjeecold.ddns.cam
 sk-b-1.net
 sk-b.net
