@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-28 10:54:59 UTC
+# Updated: 2026-08-29 06:41:19 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -2704,6 +2704,7 @@ valena.ro
 valetravel.co.uk
 varkalahomestay.com
 varna-povezava.com
+varni-dostop.com
 varnost-si.com
 varnost-sl.com
 varnost-ursiv.com
@@ -2758,6 +2759,7 @@ wearamci.com
 web-auth01.estimmas.top
 web-xiao9tv.com
 web3meta-msksecureupdate.dalmug.org
+webersolar.com.br
 webm-authcp.doobo-kr.com
 webmail-auth-0te7sc02-login.html-5.me
 webmail-authb.bjyzzy.com
