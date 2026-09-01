@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-08-31 04:58:13 UTC
+# Updated: 2026-09-01 04:37:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -243,6 +243,7 @@ auths.yctn-tw.com
 autochallengeusario.vvvforum.eu
 autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
+avenelleacrafters.lat
 avsasan.com
 avtonet.site
 aywmcs4ulr504v3s0v.live
@@ -1276,6 +1277,7 @@ green.sterlitamakadm.ru
 greenbuddes.eu
 greenleafaccounting.net
 grimecoin.io
+groupepotentielillimite.com
 grupocas.com.br
 grupocedva.mx
 grupomiracle.com
@@ -1293,6 +1295,7 @@ guweb.info
 gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
 gyweb.info
 gzjls.edgeone.app
+h1.nu
 h2roilqas.com
 h6.oxbzat4.club
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
@@ -1946,6 +1949,7 @@ online.otpbankaid.digital
 online.settings.world
 online.sustains.world
 onlines-otp.mojawebka.eu
+onyxhealthplus.com
 oo2w7buimfxzsiiqxosei5gjiux4k4c2qwutebaiastbhhvretjq.0x0.io.vn
 openai-chatgpt.tennispoint.es
 openai-onlinecfg.dafleek.com
@@ -2517,6 +2521,7 @@ slotpskb.net
 sloveniapost.co
 slovenija-posta.yiff.fi
 slovenije-pack.cfd
+slovenska-pocta.online
 slovenska-posta.help
 slskb1.com
 slskb1otp.com
