@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-02 03:59:19 UTC
+# Updated: 2026-09-03 03:58:41 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -64,6 +64,7 @@
 3yfuwc.troubleyn.com
 40033272.mcgrawmemories.com
 43965120.zenifyro.com
+4aec4310621e94619bc836b8c34a6f29.marsella.eu
 4lkds8of67t.tax-slayerpro.com
 4qweb.info
 50172.cfd
@@ -898,6 +899,7 @@ fli.so
 fliknovapp.com
 floatsbriefed.org.uk
 flomp.sbs
+fls-a2976864-b9ae-4ea7-b69a-45303c00e609.laravel.cloud
 flverr-verif.info
 flysgo.com
 fore-mining.top
@@ -1389,6 +1391,7 @@ hru.community-verify-skampagne.click
 hse-dodatek.si
 hse-electro.com
 hse-energija.com
+hse-energija.info
 hse-energy.info
 hse-helpcenter.com
 hse-info-help.com
@@ -2431,6 +2434,7 @@ sekontektiolp.liveblog365.com
 selmoreadvertising.com
 senged.com
 seriesandtv.com
+serv-ntflix.com
 serv64securecafeprootaalholdingjzmjom8sccentcexpenucwxhzuv.nevzat.nl
 servadmnauth.de
 server.app.cloud.banbarfurniture.com
@@ -2624,6 +2628,7 @@ telenfy.net
 telkomnet.com.ng
 terrebonemitsubishi.ca
 test-sklep.justbefit.pl
+test.ts-alu.de
 testnsolution.com
 theaudiobooklab.net
 thebuzz413.com
@@ -2706,6 +2711,7 @@ users.manage.florenceoregon.net
 usersbilling.digital
 userswix-com-signin.ardebouw.com
 userswix-login-logincompname.mountainspavillaplaz.com
+userswix-signin-customer.micherocacace.com
 ustanovkasvai.ru
 uukrposhta.icu
 v2527cxwhd.quicktrustdesign.de
@@ -2929,6 +2935,7 @@ wyopz.maildelivered.email
 x-express.bih-delivery.online
 x-express.bih-dostawka.sbs
 x-express.bihnadruzba.click
+x-express.dostava-order.me
 xamurmagazine.com
 xcervulaerum.azizidevalopments.com
 xevona.us
