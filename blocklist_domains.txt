@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-04 04:00:12 UTC
+# Updated: 2026-09-05 03:57:26 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -247,6 +247,7 @@ autoredi.black.oregoninternetsales.com
 avenelleacrafters.lat
 avsasan.com
 avtonet.site
+awiaahereinc.vu
 aywmcs4ulr504v3s0v.live
 b538f.net
 b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
@@ -2638,6 +2639,7 @@ themews.co.nz
 theopendor-mission.com
 theperfumescollection.com
 thepowderroom.co.nz
+therose-chicago.org
 thesleekmart.com
 thistimeway.co
 ti-usr1-cp.cuc-carrera-ti.ac.cr
