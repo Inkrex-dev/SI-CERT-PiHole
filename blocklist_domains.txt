@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-07 04:03:00 UTC
+# Updated: 2026-09-08 04:04:27 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -545,6 +545,7 @@ cam-agents.com
 candidoeguimaraes.com.br
 caneicorps.com
 cannonpult.com
+capbienvivreinnovativesnfbzjvctlye.gpirnfras.vu
 captcha-resolve.com
 carfees-gov-sietc.uno
 carfees-sietc.cfd
@@ -562,6 +563,7 @@ centrodesgios.sviluppo.host
 cert-dora.com
 cert-zascita.com
 cert-zvop.com
+cert.rbjpro.com
 cflix.e2childcare.com
 channelwebtech.com
 charleslaurenfoundation.org
@@ -1617,6 +1619,7 @@ lnk.do
 localcincinnatinews.com
 login-user-verification28.beardpaintings.com
 login.biyogekanotogenkyo.info
+login.bluevalleyiabs.com
 login.caner.info
 login.casino-top10.org
 login.immeostudio.com
@@ -1624,6 +1627,7 @@ login.kggpho.icu
 login.onedriveforbusinesses.org
 login.primabase.info
 login.siibelco.com
+login.structurestone.org
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
 lon-hranilica.com
 lon-poslovni.com
@@ -1967,6 +1971,7 @@ optba.com
 optbnk1.com
 optin.pemln.net
 opweqryqajsgsgjdnzbxhdipkl.edgeone.app
+oqjyl9xnnt.sxzhhyznzb.com
 oramco.pk
 ordertakemoneysoulfood.com
 orjisippc.nexla.org.za
@@ -2630,6 +2635,7 @@ telekom.online-verify.click
 telenfy.net
 telkomnet.com.ng
 terrebonemitsubishi.ca
+test-e92387da.it93.de
 test-sklep.justbefit.pl
 test.ts-alu.de
 testnsolution.com
