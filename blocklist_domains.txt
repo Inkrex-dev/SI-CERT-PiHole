@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-13 04:19:10 UTC
+# Updated: 2026-09-14 04:26:08 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1435,6 +1435,7 @@ ick22.support
 ick23.support
 icpgovfddg.online
 icr24.support
+id21776.site
 id4828149ef88aa.knittingpals.org
 idaaaa013.me
 ideiapropaganda.com.br
