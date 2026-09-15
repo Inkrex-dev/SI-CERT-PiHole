@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-14 04:26:08 UTC
+# Updated: 2026-09-15 04:26:45 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -766,6 +766,7 @@ dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.help
 dpd.receivemoney-si.shop
+dpd.si-com.website
 dpd.ureceiveu.com
 dpldteam.click
 dqkxhrpnhosnfrh9.ays9ujizq.su
@@ -865,7 +866,9 @@ facebook-ads-team-helpr-21x.ubpages.com
 facebook-support.tempisite.com
 facsiolnet26951.liveblog365.com
 faizan.mssoftsites.com
+fam.familiebrauer.com
 famoeser-asbrataramustopgigsdrunk.line.pm
+fariadepaiva.com.br
 farmersagencyinc27.appwrite.network
 fashionleather.com
 fastpath.digital
@@ -2001,6 +2004,7 @@ otp-login.cfd
 otp-mbank-net.info
 otp-mbank.click
 otp-mbank.info
+otp-mbank.live
 otp-prijava.info
 otp-prijava.live
 otp-racunovodstvo.com
@@ -2373,6 +2377,7 @@ radio.mowuti.5g.in
 radioexmera.com
 randewijkbeterwonen.nl
 ravikrushnaheights.com
+rbbqhuyt.store
 reachoutperk.info
 reactivate-domain.ittco.cl
 reaktivacija-isps.com
@@ -2597,6 +2602,7 @@ stik365.com
 stikspk.net
 stirrupimpetus.us
 stratusypatch.us
+structuralsteel-eng.co.za
 stt-flux.com
 sttyuio.store
 studioclittarru.it
@@ -2619,6 +2625,7 @@ syncaccess-hag-db.syncronex.com
 syncz.krymaxio.com
 syntaxtechs.net
 t-2net.com
+t-spotifyvote.fwh.is
 t.dripemail2.com
 t2.slov-si.help
 t2m.io
