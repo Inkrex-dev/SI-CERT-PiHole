@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-15 04:26:45 UTC
+# Updated: 2026-09-16 04:21:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -726,6 +726,7 @@ dkpostfirst.info
 dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
 dlfix.e2childcare.com
+dmn.ginkgopflege.de
 dmsneb.com
 dnkpos.ink
 doamienin-serve.pilzschule-nordwest.de
@@ -1381,6 +1382,7 @@ hfheygfyhfgfg.pescasporta.com
 hhokit.co.uk
 hibuxyukse.brababetjogo.com
 hitro-placilo.com
+hjuyi.us
 hlcauth.com
 hlgsbearing.cv
 hnny3s8jkobtzhxj.blindfind.de
@@ -1581,6 +1583,7 @@ kupujempradajem.linija-dostave.cfd
 kupujemprodajem.dostava.click
 kutt.it
 kuzam.net
+kxfqhju.us
 kzofar.dradilsongomes.com.br
 lab.coderarchitect.com
 lacrossestablic.com
@@ -2353,6 +2356,7 @@ q-r.to
 q9fb3bb05aa7.freewebhostmost.com
 qad.cooteacher.org
 qejepex.cfd
+qepahju.us
 qhawanaresort.com
 qkhx.covalysion.ru
 qrto.org
