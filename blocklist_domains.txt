@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-16 04:21:59 UTC
+# Updated: 2026-09-17 04:27:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -854,6 +854,7 @@ eup-rav-as.com
 euproSKBotp.com
 euproskbotp.com
 eurocbd.store
+euroomed.htakao.info
 eusveti.com
 euvarna.com
 eventveterans.com
@@ -1447,6 +1448,7 @@ ideiapropaganda.com.br
 idoxsoft.com
 ieskbinotp.com
 ii-sen.ir
+iisrr.in
 ikbm365.com
 ikkakzqtlwawmq.gooddonkey.org
 imacpoint.id
@@ -1785,6 +1787,7 @@ monge.pl
 moomoo-secs-en.com
 moravce-si.appsmith.com
 moretechgh.com
+morningmate.com
 motedem.com
 motivator.com.br
 motorkarskydoupe.cz
@@ -2066,6 +2069,7 @@ partners.costumer.balearyc.com
 paulcooperracing.co.uk
 pavreno.cfd
 pay.klikomics.com
+pay.kuz-edu.ru
 payments.users.drumroamin.uk
 payplintelverify1.site
 pbnotp.com
