@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-17 04:27:58 UTC
+# Updated: 2026-09-18 04:12:37 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1508,6 +1508,7 @@ isp-financni.com
 isp-in.com
 isp-sedez.net
 ispuprava.com
+isshin.jp
 issl.im
 itc-bhv.de
 itechnova.es
@@ -1669,6 +1670,7 @@ maewaks.co.ke
 mail.adianjing.com
 mail14.vumar.top
 mail15.jupitar.online
+mail88.exempler.top
 mailbox-settings-update.s3.eu-central-3.ionoscloud.com
 mailbox.njmssx.com
 mailwebmails.com
@@ -1949,6 +1951,7 @@ novaslovninanlb.alternativasatzin.com.mx
 novasokaslovenia.com
 novyritm.su
 nt8-gg.info
+numerodefacilmemorizacao.com.br
 nvoapezoapea.com
 nvw.enconism.ru
 nxskb.com
@@ -2615,6 +2618,7 @@ stt-flux.com
 sttyuio.store
 studioclittarru.it
 studioibc.cfd
+sub.vrfyupdate.eu.cc
 submit-form.com
 submitcaptcha.com
 suciaropa.com
