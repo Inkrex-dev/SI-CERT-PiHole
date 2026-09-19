@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-18 04:12:37 UTC
+# Updated: 2026-09-19 04:09:01 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -575,6 +575,7 @@ chccs.co.uk
 checkifbot.digital
 checkout-customer.in-b--o---x.com
 checkytraff.com
+chehalisresourcecenter.com
 cheksapoto.com
 chicstyle123.com
 chopefoundation.co.za
@@ -737,6 +738,7 @@ docxxmonsters.com
 dolvax.casa
 domenca.spofex.de
 don.figmail.email
+download.schema-core.cloud
 downloadsharedfile.de
 dpd-group.view973.bid
 dpd-online.icu
@@ -1048,6 +1050,7 @@ gls.863171.live
 gls.8921.space
 gls.9173.site
 gls.9419.site
+gls.94365409.cfd
 gls.9485499.info
 gls.98312.space
 gls.a-sends.sbs
@@ -1492,6 +1495,7 @@ interiakastliverevbrokeers.com
 interrakctliveebrokeirs.com
 intesa24si.com
 intesa24sl.com
+inventory.easdc.com
 invoice.syracuseculturalworkers.com
 involtenergy.com
 inzar-es.info
@@ -2081,6 +2085,7 @@ pcatec.com
 pcbdigital.com.au
 pdf-adobe-com-ae-acrobat.appwrite.network
 pedronoguera.com.br
+peppercornpremierschools.sc.ke
 percayarakyatjp.us
 performancecontests.co.uk
 petamia.com
@@ -2456,6 +2461,7 @@ sated.es
 sawayn.fitado.de
 sbche.com
 schaden.rother-bremen.de
+schema-core.cloud
 schoolportalandbenefit.top
 schoolradleysnursings.edgeone.dev
 scintillating.vip
