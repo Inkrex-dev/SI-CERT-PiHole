@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-19 04:09:01 UTC
+# Updated: 2026-09-20 04:28:20 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -369,6 +369,7 @@ bolha.brezskrbii.top
 bolha.brezsrbi.top
 bolha.brzeskbi.top
 bolha.brzskb.top
+bolha.brzskb.world
 bolha.brzskr.ink
 bolha.brzskr.top
 bolha.brzskrb.top
@@ -510,6 +511,7 @@ booking-pre-approved384226-ap372541028.hotel-share-5bhd4e.online
 booking.938472.store
 booking.confirmation-id089172.com
 booking.confirmation-id88182.com
+booking.guest-arrival-portal.com
 bookingguestverify.com
 booklng.conflrmation-ld654883.com
 bounce.pivobu.pro
@@ -1138,6 +1140,7 @@ gls.order86199.live
 gls.order918325.biz
 gls.order92225.live
 gls.page231445.cfd
+gls.potvrdanarudzbe299.click
 gls.prejemdenarja0.icu
 gls.receive-funds.sbs
 gls.receive-g.com
