@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-20 04:28:20 UTC
+# Updated: 2026-09-21 04:26:19 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -513,6 +513,8 @@ booking.confirmation-id089172.com
 booking.confirmation-id88182.com
 booking.guest-arrival-portal.com
 bookingguestverify.com
+bookingrm.guestconsole.com
+bookingrm.stayinfodesk.com
 booklng.conflrmation-ld654883.com
 bounce.pivobu.pro
 box-glsgroup.top
