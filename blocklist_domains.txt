@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-21 04:26:19 UTC
+# Updated: 2026-09-22 04:22:03 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -922,6 +922,7 @@ flverr-verif.info
 flysgo.com
 fore-mining.top
 form-eu1-562854.public.500apps.org
+form-payway-com-hr-518862.erste-hilfe-poessneck.de
 form-us1-563144.public.500apps.org
 form-us1-563957.public.500apps.org
 form.chengzhongxcl.com
@@ -2309,6 +2310,7 @@ potrditev-podatkov.com
 potsbn.top
 povracilo-stroskov.cc
 powerswiss.us
+powertracksystem.com
 ppao110093.zya.me
 pr-3549.tommeetippee.ppddev.co.uk
 pradhikar.org
@@ -2942,6 +2944,7 @@ www.me-nlb-banka.com
 www.michelelaricchia.it
 www.mk-nlb.com
 www.mobilenlbid.com
+www.mtusers.sbs
 www.mvn88.com
 www.my-gls24.com
 www.n0va-ljuibljanska.com
