@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-22 04:22:03 UTC
+# Updated: 2026-09-23 04:18:53 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -178,6 +178,7 @@ akkharpatra.com
 aknidreklovapa.appwrite.network
 aktiv-lohnsteuerhilfeverein.de
 albatrossautomation.cc
+albritishstone.co.uk
 alcojeuraw.online
 alejandrovelez.pe
 aletaxi.com.pl
@@ -727,6 +728,7 @@ discoverreal.lat
 divemastermergulho.com
 divernastermergulho.com
 djc1syp3i78huv1f.grind-pvc.com
+dkalogistics-ca.com
 dkpostfirst.info
 dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
@@ -801,6 +803,7 @@ easistent.prijava.eu
 easyqapark.vu
 easyqdpark.cc
 ebfcd45eb5387229066062d444ca0fd438f13979.s3.eu-central-3.ionoscloud.com
+ecomakesworth.com
 econtdelidhi.cloud
 edavki-si.com
 edavkidurs-davek.sbs
@@ -1054,6 +1057,7 @@ gls.863152.live
 gls.863171.live
 gls.8921.space
 gls.9173.site
+gls.93174.shop
 gls.9419.site
 gls.94365409.cfd
 gls.9485499.info
@@ -1736,6 +1740,7 @@ metspa.cam
 mexolix.icu
 mffunilariaepintura.com
 mhl6cxailcj0x2rarogruc2j1cmdhcm1hawxlci5jb20vdwq4zwlqzm.acm-tax.gr
+microdrivescloud.cc
 microestrategico.com
 microfineye.com
 middlemathmovement.us
@@ -1745,6 +1750,7 @@ milesarwards.com
 mimorvrste.com
 mimovorste.com
 mimrovrste.com
+minerex.site
 mitiid.com
 mittelco.art
 mixaeronautics.com
@@ -2414,6 +2420,7 @@ redirect.forme.pacesheetmetal.co.uk
 rekona-auth.com
 rekona-varnost.com
 rekono.one
+rem.ax
 renew.schoeme-seniorendomizil.de
 renew.wiiixpayments.com
 renewal-wix-com-dfc45ae9b69cb858cb38646e9efe.breidal.com
@@ -2699,6 +2706,7 @@ time-raw.free.nf
 timocomblog.com
 tinycut.link
 tinyurl.ph
+tired-ivory-suyktkhv.edgeone.dev
 tls.idealdxb.ae
 tls.tc
 tlsn.io
@@ -2882,6 +2890,7 @@ wjsco.ir
 wooclwkhop.online
 worpcknnel.cfd
 woundsunwrapped.com
+wp.gebkon.de
 wpmtrading.net
 wpqogn.ifinitefuture.ru
 www-dpd.myflik.help
@@ -2965,6 +2974,7 @@ www.nova-ljublajanska.com
 www.nova-ljublajnska.com
 www.nova-ljubljanska.com
 www.novakbm.co
+www.officenced.com
 www.pdf-autocut.de
 www.pjengineering.dk
 www.portalgranollers.com
