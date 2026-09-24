@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-23 04:18:53 UTC
+# Updated: 2026-09-24 04:15:11 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -129,6 +129,7 @@ abbott.excite.asia
 abrahamrollmusic.com
 abre.ai
 academicbizpro.com
+access-ledger.eu
 access.piagginaerospace.info
 accesses.moderations.digital
 accouint-rakiuten-jp.com
@@ -776,6 +777,7 @@ dpd.receive-funds1.world
 dpd.receive-money.help
 dpd.receivemoney-si.shop
 dpd.si-com.website
+dpd.si-com.xyz
 dpd.ureceiveu.com
 dpldteam.click
 dqkxhrpnhosnfrh9.ays9ujizq.su
@@ -808,6 +810,7 @@ econtdelidhi.cloud
 edavki-si.com
 edavkidurs-davek.sbs
 editorcard.com
+educationkeeda.info
 edwardtumwine.com
 eej.at
 eeq07.icu
@@ -905,6 +908,7 @@ finessa-justcegov.click
 finessa-justcegov.help
 finessa-justcegov.uno
 finzascita.com
+firmware-ledger.eu
 firverr.org
 fitfam.pl
 fiveacresgarage.top
@@ -2012,6 +2016,7 @@ optin.pemln.net
 opweqryqajsgsgjdnzbxhdipkl.edgeone.app
 oqjyl9xnnt.sxzhhyznzb.com
 oramco.pk
+orcinuytr.store
 ordertakemoneysoulfood.com
 orjisippc.nexla.org.za
 osip.co.za
@@ -2414,6 +2419,7 @@ realgymessentials.com
 rebrandly.info
 recovery-ledgersupport.com
 recovery.toddsurvey.com
+recsprht.educationkeeda.info
 redirect-secure.cc
 redirect-webmail-auth-0tesjs7sc02-login.page.gd
 redirect.forme.pacesheetmetal.co.uk
