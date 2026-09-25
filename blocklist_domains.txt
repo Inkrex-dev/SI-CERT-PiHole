@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-24 04:15:11 UTC
+# Updated: 2026-09-25 04:27:18 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -869,6 +869,7 @@ eurocbd.store
 euroomed.htakao.info
 eusveti.com
 euvarna.com
+eventual-sapphire-rysfymvb.edgeone.dev
 eventveterans.com
 evolvehairsolution.com
 evreux-eboutik.fr
@@ -885,6 +886,7 @@ famoeser-asbrataramustopgigsdrunk.line.pm
 fariadepaiva.com.br
 farmersagencyinc27.appwrite.network
 fashionleather.com
+fastekconsult.com
 fastpath.digital
 fastshopping.info
 fbittaradvogados.com.br
@@ -1571,6 +1573,7 @@ kbmOTP.net
 kbmotp1.net
 kdlagroindustries.com
 kecunip.com
+keepingitholisticcom.bigscoots-staging.com
 keepo.io
 keepushealthy.com
 kendari4d.net
@@ -1628,6 +1631,7 @@ lccwv.info
 leanpay-app.com
 leanpay-slovenija.com
 ledger-livestart-support.online
+ledger-wallet-update.eu
 ledger.com-recovery.com
 legalize.ph
 legaz.es
@@ -1648,6 +1652,7 @@ lions-lndustries.com
 lisboaadschool.com
 liveguardfixcenter.top
 liveprofiles.cc
+livinglab.nl
 llink.to
 llosrl.com
 llut.steponinfotech.com
@@ -2920,6 +2925,7 @@ www.banakanet-nkbm.com
 www.banknown.de
 www.bolha-si.an37482716.com
 www.cdlitalia.it
+www.cloudfileportal.com
 www.collaboratecode.com
 www.conqcook.com
 www.copefi.com
@@ -3010,6 +3016,7 @@ www.yy8qxt1k.com
 www.zamek.ilza.pl
 www.zonalshare.com
 wyopz.maildelivered.email
+x-express.ba-pik-dostavka.sbs
 x-express.bih-delivery.online
 x-express.bih-dostawka.sbs
 x-express.bihnadruzba.click
@@ -3029,6 +3036,7 @@ xumeryn.cfd
 xwic.net
 xzecpjf.callligaris.com
 yablor.ru
+yar-lider.ru
 yellowcloverconsulting.co.za
 yelsed.nl
 yourcardlegend.com
