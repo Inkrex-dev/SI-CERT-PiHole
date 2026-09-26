@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-25 04:27:18 UTC
+# Updated: 2026-09-26 04:31:40 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -356,6 +356,8 @@ bolha.bolha.site
 bolha.brez-skbri.cc
 bolha.brez-skrbi-verify.cc
 bolha.brez-skrbi.cc
+bolha.brez-skrbi.com
+bolha.brez.skbri.com
 bolha.brezskby.top
 bolha.brezskrb.ink
 bolha.brezskrb.top
@@ -455,6 +457,7 @@ bolha.pay-3ds.site
 bolha.potrdi-link-prejemanje.click
 bolha.potrdilo-o-placilu-narocila-order3456.shop
 bolha.prejemanje-sredstev02019.shop
+bolha.prejemanje-sredstev2026.click
 bolha.prejemanje-sredstev923491.shop
 bolha.receive-funds.digital
 bolha.receive-funds.forum
@@ -743,6 +746,7 @@ docsfilefolders.horizonex.org
 documentation.contains.life
 docxxmonsters.com
 dolvax.casa
+domenca.magniflex.ro
 domenca.spofex.de
 don.figmail.email
 download.schema-core.cloud
@@ -871,6 +875,7 @@ eusveti.com
 euvarna.com
 eventual-sapphire-rysfymvb.edgeone.dev
 eventveterans.com
+evigbyella.store
 evolvehairsolution.com
 evreux-eboutik.fr
 example.webmail.net.co
@@ -927,6 +932,7 @@ fliknovapp.com
 floatsbriefed.org.uk
 flomp.sbs
 fls-a2976864-b9ae-4ea7-b69a-45303c00e609.laravel.cloud
+fls-a2c2c99b-05a8-4ade-bd54-cc75bce92a4c.laravel.cloud
 flverr-verif.info
 flysgo.com
 fore-mining.top
@@ -1516,6 +1522,7 @@ invoice.syracuseculturalworkers.com
 involtenergy.com
 inzar-es.info
 ioserve.org
+iperustore.com
 iranparametric.com
 ironbd.com
 isb-podjetja.com
@@ -1630,6 +1637,7 @@ lcaoman.com
 lccwv.info
 leanpay-app.com
 leanpay-slovenija.com
+ledger-firmware.diotacreative.com
 ledger-livestart-support.online
 ledger-wallet-update.eu
 ledger.com-recovery.com
@@ -2401,6 +2409,7 @@ quantumsolveinc.com
 quaranda.com
 questica.org
 questions-assistyou.com
+queterw.store
 quintinodoprado.com
 qwpblrffecoqf.gooddonkey.org
 qx-financial.com
@@ -2643,6 +2652,7 @@ sterlitamakadm.ru
 stik365.com
 stikspk.net
 stirrupimpetus.us
+stockholm.bdch.nextly.tech
 stratusypatch.us
 structuralsteel-eng.co.za
 stt-flux.com
