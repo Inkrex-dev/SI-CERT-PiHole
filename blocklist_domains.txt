@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-27 04:50:18 UTC
+# Updated: 2026-09-28 04:52:24 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -354,6 +354,7 @@ bolha.a-receivec.sbs
 bolha.accept-payment8013.click
 bolha.bolha.site
 bolha.brez-skbri.cc
+bolha.brez-skbri.com
 bolha.brez-skrbi-verify.cc
 bolha.brez-skrbi.cc
 bolha.brez-skrbi.com
@@ -818,6 +819,7 @@ educationkeeda.info
 edwardtumwine.com
 eej.at
 eeq07.icu
+eilativ.com
 ekbm365.com
 elbertenergycapital.com
 electricbicycle-usa.com
@@ -2036,6 +2038,7 @@ osip.co.za
 otakkanan.co.id
 otp-banka-si-prijava.i-iill.de
 otp-banka-slovenija1.myfreesites.net
+otp-banka.live
 otp-banka.mojawebka.eu
 otp-banka.net
 otp-bankanet.cfd
@@ -2715,6 +2718,7 @@ testnsolution.com
 theaudiobooklab.net
 thebuzz413.com
 thecharteredvendor.com
+thehappycatsitecom.bigscoots-staging.com
 themews.co.nz
 theopendor-mission.com
 theperfumescollection.com
