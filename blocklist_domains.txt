@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-28 04:52:24 UTC
+# Updated: 2026-09-29 05:17:32 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1243,6 +1243,7 @@ gov-si.govsicars.top
 gov-si.mom
 gov-si.qpon
 gov-si.sbs
+gov-si.subvencije223.com
 gov-si.top
 gov-si.xin
 gov-sia.top
@@ -1347,7 +1348,6 @@ h6.oxbzat4.club
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 ha-cert.com
 ha-dp.net
-habitatcyprus.com
 hagelstein.me
 hal-ca.com
 hal-cert.com
