@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-29 05:17:32 UTC
+# Updated: 2026-09-30 05:05:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -126,6 +126,7 @@ aahyjr.shielis.cfd
 aakotrkmpxykwtyupzhp.scaletrainer.com
 ab28b4ecb10e1fb0241e31f8655c74fe.izvorfoca.net
 abbott.excite.asia
+abcgil.com
 abrahamrollmusic.com
 abre.ai
 academicbizpro.com
@@ -776,6 +777,7 @@ dpd.delivery-secured.world
 dpd.dostava-link.click
 dpd.id7863242.shop
 dpd.money-receive2.shop
+dpd.narocilo5178.sbs
 dpd.order86084.com
 dpd.receive-funds.world
 dpd.receive-funds1.world
@@ -1063,6 +1065,7 @@ gls.392614.com
 gls.6383639.lat
 gls.704831.com
 gls.72841.club
+gls.73159.shop
 gls.73322.website
 gls.83958.lat
 gls.86305.live
@@ -1640,6 +1643,7 @@ lccwv.info
 leanpay-app.com
 leanpay-slovenija.com
 ledger-firmware.diotacreative.com
+ledger-firmware.nupocc.com
 ledger-livestart-support.online
 ledger-wallet-update.eu
 ledger.com-recovery.com
@@ -2312,6 +2316,7 @@ postasiiii.com
 postaslovenias.click
 postaslovenias.xyz
 postaslovenija.icu
+postaslovenije.framer.ai
 postaslovenije.help
 postaslovenije.info
 postaslovenksa.top
