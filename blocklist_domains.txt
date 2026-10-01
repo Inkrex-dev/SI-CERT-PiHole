@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-09-30 05:05:12 UTC
+# Updated: 2026-10-01 05:19:48 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -224,7 +224,6 @@ app.pizzeriavechy.com
 app.trueqrcode.com
 app.webform.io
 appcustominvoic-purccesinsmtssm.line.pm
-applink.2book.com
 apsis.es
 arbitbay.com
 arbiteex.io
@@ -747,6 +746,7 @@ doc-previewonline-76282-10286275ghfkwai.online
 docsfilefolders.horizonex.org
 documentation.contains.life
 docxxmonsters.com
+dolevka.ru
 dolvax.casa
 domenca.magniflex.ro
 domenca.spofex.de
@@ -999,6 +999,7 @@ gls-delivery.com
 gls-grou.id9491.com
 gls-grouap.pw
 gls-groui.cfd
+gls-group-sl.top
 gls-group.037182.sale
 gls-group.098731.si
 gls-group.22522.website
@@ -1609,7 +1610,6 @@ kodomoseiiku.jp
 koercv.cc
 koherense.com
 komunikacijastoritev-arnes.test119973.test-account.com
-kortlink.dk
 ksrxgo.ticknstacked.com
 ktexim.pro
 kucoin.si
@@ -2667,6 +2667,7 @@ stt-flux.com
 sttyuio.store
 studioclittarru.it
 studioibc.cfd
+sub.alfastreet.in
 sub.vrfyupdate.eu.cc
 submit-form.com
 submitcaptcha.com
@@ -2685,6 +2686,7 @@ swscd.org
 syncaccess-hag-db.syncronex.com
 syncz.krymaxio.com
 syntaxtechs.net
+syntessa.com
 t-2net.com
 t-spotifyvote.fwh.is
 t.dripemail2.com
@@ -2932,6 +2934,7 @@ www-nettfilx.com
 www.MzY5NjUxMDIw.com
 www.abrahamrollmusic.com
 www.adrdaily.com
+www.agreementdocspreview.com
 www.agritecnica.cl
 www.alisfortes.com
 www.amandaweiss.com.br
