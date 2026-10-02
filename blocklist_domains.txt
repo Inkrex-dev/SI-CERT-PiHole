@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-01 05:19:48 UTC
+# Updated: 2026-10-02 05:07:55 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -368,6 +368,7 @@ bolha.brezskrbi.com
 bolha.brezskrbi.fit
 bolha.brezskrbi.ink
 bolha.brezskrbi.live
+bolha.brezskrbi.pro
 bolha.brezskrbi.top
 bolha.brezskrbi.trade
 bolha.brezskrbii.top
@@ -779,6 +780,7 @@ dpd.id7863242.shop
 dpd.money-receive2.shop
 dpd.narocilo5178.sbs
 dpd.order86084.com
+dpd.orders-847l8.com
 dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.help
@@ -1045,6 +1047,7 @@ gls-si.order-checking.com
 gls-si.order-list.com
 gls-si.sale
 gls-si.top
+gls-skupina.us.cc
 gls-sl.biz
 gls-sl.click
 gls-sl.forum
@@ -1621,6 +1624,7 @@ kutt.it
 kuzam.net
 kxfqhju.us
 kzofar.dradilsongomes.com.br
+l3n6lshw.cswd.org
 lab.coderarchitect.com
 lacrossestablic.com
 laimpresion3d.es
@@ -1853,6 +1857,7 @@ mydomain-secure.com
 mydublinguide.com
 myebay.digital
 myemail.skydynamics.com
+myengie.ro-energiecompensata.icu
 mygls-order.si
 mypost.mmkbk.online
 mysi.live
@@ -1871,6 +1876,7 @@ ndreahotel.com
 nerds4lifeblog.com
 net-flix-serv.online
 netdriveuubdu849nd8.appwrite.network
+netfilx-unsubscribe.click
 netflixerrore24.com
 netflixes.link
 netflixilc.com
@@ -2596,6 +2602,7 @@ skhealer.com
 skierife.com
 skskb.com
 skyblare.com
+sl.gls-grouvp.cam
 sl1nk.com
 slcdc.net
 sledenje-posta.help
@@ -2642,6 +2649,7 @@ sport-socks.co.uk
 spotpreset.com
 sprl.in
 spstik.com
+sqkqyj.cswd.org
 src-07824.gonzalezdistribuidora.com
 srv.geraldaschonewille.nl
 srv75466.seohost.com.pl
@@ -2863,6 +2871,7 @@ vtbpiy9bgrc90z7c.automatenwelt-cl.de
 vtdqkpu1afqjojv11isf.webauth.sbs
 vyciv.com
 vyntrar.com
+vzajemna.abi.ai
 vzajemnaaa.com
 w5ws19ua.segmite.org
 w685675ez.hier-im-netz.de
