@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-02 05:07:55 UTC
+# Updated: 2026-10-03 04:50:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -169,6 +169,7 @@ ads-microsoflt.site
 ads-support-manager.art
 ads.supportpage-business.cfd
 advertisingcommunitystandards.com
+aeronacraft.com
 af13fefef0.flexi.ge
 afrahalkhleej.com
 ai-coinetf.com
@@ -781,6 +782,7 @@ dpd.money-receive2.shop
 dpd.narocilo5178.sbs
 dpd.order86084.com
 dpd.orders-847l8.com
+dpd.orders982414.com
 dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.help
@@ -998,6 +1000,7 @@ gjtgqhgp2tui7ra.zl.ge
 globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
+gls-dostava.us.cc
 gls-grou.id9491.com
 gls-grouap.pw
 gls-groui.cfd
@@ -1438,6 +1441,7 @@ hotelilty.net
 hotelinfo-hotelrewiews.com
 house-global77140.com
 housemanage9442.com
+housofplain.com
 hranilnica-phv.com
 hru.community-verify-skampagne.click
 hse-dodatek.si
@@ -1549,6 +1553,7 @@ issl.im
 itc-bhv.de
 itechnova.es
 itpc-barcelona.es
+its-it.negarazmayesh.com
 itupavaconstrucao.net.br
 iutga.learnalldays.com
 iuwncrkfxgnc.store
@@ -1970,6 +1975,7 @@ nmotp.com
 nmotp365.com
 nohasphilartmuse.com
 nolia.fr
+nonfbtpg.chinahds.com
 northernlightfilms.com
 notafiscal.from-ga.com
 notebook.gaistaicrai.digital
@@ -2107,6 +2113,7 @@ p.gainrep.com
 pRNLVk.worix.free.hr
 paceqnta.online
 pacotetwo.cyou
+pagosenlinea.pagofacil.com.ar
 paketposta-si.com
 paketpostasi.com
 paladinrag-jrcz9h.stormkit.dev
@@ -2992,6 +2999,7 @@ www.laminat-almaty.kz
 www.lesdoto.com
 www.lojopi.com
 www.mailsetup.app
+www.mapelcoin.net
 www.me-nlb-banka.com
 www.michelelaricchia.it
 www.mk-nlb.com
