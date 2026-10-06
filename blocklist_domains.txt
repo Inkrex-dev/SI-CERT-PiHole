@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-05 05:06:26 UTC
+# Updated: 2026-10-06 05:53:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -321,6 +321,7 @@ bocwyafty.online
 bohinj-eco-hotel.sbs
 boierafty.us
 bolha-.brzskrb.ink
+bolha-brezskrbi.pro
 bolha-si.an264818.com
 bolha-si.an2837123.com
 bolha-si.an36482746.com
@@ -778,6 +779,7 @@ dpd.click-select689.com
 dpd.delivery-secured.world
 dpd.dostava-link.click
 dpd.id7863242.shop
+dpd.jdworpa.com
 dpd.money-receive2.shop
 dpd.narocilo5178.sbs
 dpd.order86084.com
@@ -1079,6 +1081,7 @@ gls.86305.live
 gls.863126.live
 gls.863152.live
 gls.863171.live
+gls.86337.click
 gls.8921.space
 gls.9173.site
 gls.93174.shop
@@ -1875,6 +1878,7 @@ nailstrip.co.uk
 napvibe.com
 nazatec.pe
 nbbrail.co.uk
+nbeapho.com
 nbgibaninfosec.nl
 nblklik.com
 ndreahotel.com
@@ -2052,6 +2056,7 @@ ordertakemoneysoulfood.com
 orjisippc.nexla.org.za
 osip.co.za
 otakkanan.co.id
+ote-mbanka.live
 otp-banka-si-prijava.i-iill.de
 otp-banka-slovenija1.myfreesites.net
 otp-banka.live
@@ -2074,6 +2079,7 @@ otp-si.click
 otp-si.co
 otp-si.info
 otp-si.online
+otp-si.site
 otp-slo.live
 otp-verify.online
 otp.mbank.online
