@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-06 05:53:02 UTC
+# Updated: 2026-10-07 05:25:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -244,6 +244,7 @@ audimedsaude.com.br
 autemtax.com
 auth.creatormonetizationsupportgroup.click
 auth.skb.net-bankarotp.cloudns.be
+authenica-session-connes-cvxcx.surge.s
 authenticate-secure-id-f675a3d1-f7df-4f35-85dd-964e6.appwrite.network
 authline-checkappr0v.com.es
 auths.yctn-tw.com
@@ -422,6 +423,7 @@ bolha.id917165.info
 bolha.id918278.info
 bolha.id93034154.info
 bolha.id93571.info
+bolha.id94589233.shop
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
 bolha.narocilo51781.shop
@@ -690,6 +692,7 @@ dbskb1.com
 dbskb1otp.com
 dbsnet-e.com
 dbsplacila.com
+dcentwallet.firmwares.me
 ddmovse.mfs.gg
 ddrservice.com.br
 de2b339ee2dfbdd4e62693bae61a2087.frank-fahner.de
@@ -2798,6 +2801,7 @@ uipath-in.com
 ujlog.ci
 ujzp2th2.crypticloom.sbs
 ultradjheifiers.online
+umrechnung.52gld.com
 uni-lj-webmail.info
 unicredlt-si.com
 unimechautomation.com
@@ -3005,6 +3009,7 @@ www.kingpower.com
 www.laminat-almaty.kz
 www.lesdoto.com
 www.lojopi.com
+www.mailapplication.click
 www.mailsetup.app
 www.mapelcoin.net
 www.me-nlb-banka.com
