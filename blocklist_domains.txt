@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-07 05:25:58 UTC
+# Updated: 2026-10-08 05:34:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -133,6 +133,7 @@ academicbizpro.com
 access-ledger.eu
 access.piagginaerospace.info
 accesses.moderations.digital
+accessonlineprojectfilesignature.my
 accouint-rakiuten-jp.com
 account-security.fwh.is
 account.concepts.vu
@@ -210,6 +211,7 @@ anfamoto.org
 angstparty.co.za
 animal-eng.info
 ansieng.com
+antichecivilta.it
 antiscreen.com.tr
 anxious-teal-tmpvvb0j.edgeone.dev
 anxutrading.com
@@ -353,6 +355,7 @@ bolha-si.in88654356.com
 bolha-si.in929191737.com
 bolha.28771.sale
 bolha.3ds-pay.site
+bolha.512885.click
 bolha.a-receivec.sbs
 bolha.accept-payment8013.click
 bolha.bolha.site
@@ -430,6 +433,7 @@ bolha.narocilo51781.shop
 bolha.nnhongfa.com
 bolha.now-pay.site
 bolha.order-dostava.cfd
+bolha.order-id1581.info
 bolha.order-id2175.live
 bolha.order-id2974.shop
 bolha.order-id3254.shop
@@ -781,6 +785,7 @@ dpd.click-select324.com
 dpd.click-select689.com
 dpd.delivery-secured.world
 dpd.dostava-link.click
+dpd.dostava.icu
 dpd.id7863242.shop
 dpd.jdworpa.com
 dpd.money-receive2.shop
@@ -854,6 +859,7 @@ email9.toretgun.top
 emailman.zumaworks.top
 emailport.dandalion.top
 emails.novaljubljanskabk.com
+emailsslcertificate.iceiy.com
 emlpro2025-3a2a46d0db.de
 enbdx.net
 enede.org
@@ -1515,6 +1521,7 @@ infos.novaljuljanskainc.com
 infosei.univer.se
 infotiga.com
 infurhsbe.online
+ingenesis.es
 inkamerch.pe
 inkbm.com
 innovation.becoming-group.com
@@ -2166,6 +2173,7 @@ placilni-kanal.com
 placilo-posta.com
 placilo-stroskov.cc
 plu.sh
+pmsistemi.eu
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
 podkastrsuite.com
@@ -2186,6 +2194,7 @@ posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 posljipaket.me
 poslovni24ur.com
+posodobi-nlb.info
 post-si.com
 post-si.net
 post-si.online
@@ -2619,6 +2628,7 @@ skhealer.com
 skierife.com
 skskb.com
 skyblare.com
+sl-posta.us.cc
 sl.gls-grouvp.cam
 sl1nk.com
 slcdc.net
@@ -2678,6 +2688,7 @@ staffpartners.pl
 stamiwop.us
 starslot.one
 starti.tn
+stay-message.my.id
 steellifeinc.us
 stellarbbs.com
 steprimo.com
