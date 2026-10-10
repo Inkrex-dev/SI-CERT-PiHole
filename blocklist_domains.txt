@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-09 05:38:41 UTC
+# Updated: 2026-10-10 05:22:34 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -64,6 +64,7 @@
 3yfuwc.troubleyn.com
 40033272.mcgrawmemories.com
 43965120.zenifyro.com
+4a4vlab5aw.cswd.org
 4aec4310621e94619bc836b8c34a6f29.marsella.eu
 4lkds8of67t.tax-slayerpro.com
 4qweb.info
@@ -105,6 +106,7 @@
 940851.info
 987641.com
 99781b2ad0-2187b-5ec9c.kavlenio.com
+9ann3glfb2.cswd.org
 9iweb.info
 9ksp190y9e1d.elevate-online-presence.cfd
 9we14xupxhx4.improve-campaign-performance.sbs
@@ -291,6 +293,7 @@ baron-sa.com.ar
 bascularcabines.com.br
 basinkoymahallesi.com
 bassingthwaighte.com.au
+bbouxc.cswd.org
 bdservice.info
 beatceets.us
 becpipiwimes.cf
@@ -356,6 +359,8 @@ bolha-si.in929191737.com
 bolha.28771.sale
 bolha.3ds-pay.site
 bolha.512885.click
+bolha.6352.click
+bolha.961015.click
 bolha.a-receivec.sbs
 bolha.accept-payment8013.click
 bolha.bolha.site
@@ -798,6 +803,7 @@ dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.help
 dpd.receivemoney-si.shop
+dpd.si-com.sbs
 dpd.si-com.website
 dpd.si-com.xyz
 dpd.ureceiveu.com
@@ -1023,6 +1029,7 @@ gls-group.22522.website
 gls-group.421021.info
 gls-group.491021.si
 gls-group.55655.click
+gls-group.82194.shop
 gls-group.843619.com
 gls-group.9008741.com
 gls-group.904981.help
@@ -1687,6 +1694,7 @@ links-otpbank.cfd
 links.mbbank.cfd
 lions-lndustries.com
 lisboaadschool.com
+littletonlawnaeration.com
 liveguardfixcenter.top
 liveprofiles.cc
 livinglab.nl
@@ -1933,6 +1941,7 @@ nkbmsidda.com
 nkbmsidsid.com
 nkmbe.com
 nkwebsolutions.nl
+nlb-app.live
 nlb-ba.hyrje.co
 nlb-bank.com
 nlb-banka-online.com
@@ -2630,6 +2639,8 @@ skierife.com
 skskb.com
 skyblare.com
 sl-posta.us.cc
+sl.gls-gronuvop.sbs
+sl.gls-grounp.cam
 sl.gls-grouvp.cam
 sl1nk.com
 slcdc.net
@@ -2879,6 +2890,7 @@ viewproportaltr.sbs
 vinaapaco.com
 viplanet.com.br
 virs.grupoalanared.com
+vivacious-style-662957.framer.ai
 vizcachagames.com
 vizyonbilgiislem.com
 vkny5ctdkwbp3jg6.automatenwelt-cl.de
@@ -2922,6 +2934,7 @@ webmail-authco.cabcikalg.com
 webmail-authco.mdssmartrepalr.sbs
 webmail-autho.ccmzy.com
 webmail-autho.fsydwlh.com
+webmail-autho.hbvcr.com
 webmail-autho.ifuqin.com
 webmail-autho.nexgenpwrr.com
 webmail-autho.shawyf.com
@@ -2943,6 +2956,7 @@ webmailadmincloudsecurity_liphaqi_securepaneladmin_.voreno.vu
 webserv60hostingtudi979kh796wyjzxmhl6cxailc42harocmdhcm.coxme.net
 wedeservecaretoo.com
 weedprofitsystemapp.com
+weiferngchina.com
 welcomewebserver.digital
 weqwea.online
 westernunion-eu.in746271647.com
@@ -2964,6 +2978,7 @@ woundsunwrapped.com
 wp.gebkon.de
 wpmtrading.net
 wpqogn.ifinitefuture.ru
+wqzzoa.cswd.org
 www-dpd.myflik.help
 www-dpd.placilo.com
 www-dpd.platbanew.cfd
@@ -3051,6 +3066,7 @@ www.nova-ljubljanska.com
 www.novakbm.co
 www.officenced.com
 www.pdf-autocut.de
+www.permisproeurope.com
 www.pjengineering.dk
 www.portalgranollers.com
 www.poser.sbs
