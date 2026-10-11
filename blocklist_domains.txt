@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-10 05:22:34 UTC
+# Updated: 2026-10-11 05:14:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -9,6 +9,7 @@
 053249.cc
 08aa9620dd881946f51cf9b41ca592d0.bestupscaleresale.org
 098731.si
+09c39ebc.vcsrenting.com
 0befdee717694d3b22999e8b5ea5826f.juanpedromartinaguado.es
 0nline.cbsengineeringuk.top
 0svccsess.buzz
@@ -109,6 +110,7 @@
 9ann3glfb2.cswd.org
 9iweb.info
 9ksp190y9e1d.elevate-online-presence.cfd
+9rynvnd4ot.acide-boswellique.com
 9we14xupxhx4.improve-campaign-performance.sbs
 Cpanelnotice.me
 Gfd.filbun.pro
@@ -843,6 +845,7 @@ edwardtumwine.com
 eej.at
 eeq07.icu
 eilativ.com
+ejcheb.cswd.org
 ekbm365.com
 elbertenergycapital.com
 electricbicycle-usa.com
@@ -922,6 +925,7 @@ fastpath.digital
 fastshopping.info
 fbittaradvogados.com.br
 fbllhpfdha.cfolks.pl
+fbriyr.cswd.org
 fdwzydakb.idolwave.org
 fedex-si.an29483727477.live
 fedex-si.an83746281.com
@@ -986,6 +990,7 @@ ftweb.info
 futurepeak.vip
 fwodjkswjs.alexylalito.pe
 fyfr.naturdon.com
+g0sd4t8aobk8gu.cswd.org
 gae-engineering.icu
 gamaarge.com
 gamezyborg.store
@@ -1581,6 +1586,7 @@ iuwncrkfxgnc.store
 jagmaquinarias.com
 jahwusuab.top
 jahwusukac.icu
+jamezjamescp.site
 javizop.cfd
 jaytechomes.com
 jcja.com.mx
@@ -2890,6 +2896,7 @@ viewproportaltr.sbs
 vinaapaco.com
 viplanet.com.br
 virs.grupoalanared.com
+vishwagrafoundation.org
 vivacious-style-662957.framer.ai
 vizcachagames.com
 vizyonbilgiislem.com
