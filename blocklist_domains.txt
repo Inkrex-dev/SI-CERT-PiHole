@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-12 05:27:41 UTC
+# Updated: 2026-10-13 06:25:20 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1059,12 +1059,15 @@ gls-groupi.sbs
 gls-groupk.cfd
 gls-groupq.cfd
 gls-groupr.cfd
+gls-groupsi.cfd
 gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
 gls-grrroup.cc
+gls-kdju.cfd
 gls-paket.si
 gls-partner-group.com
+gls-sdgo.cfd
 gls-si.biz
 gls-si.check-order.eu
 gls-si.forum
@@ -1639,6 +1642,7 @@ klik-nlb.cfd
 klik-nlb.com
 klik-si.click
 klikappnlb.online
+kliknlb.online
 kneepaintreatmentpro.com
 knfmj.csbnr.com
 kodomoseiiku.jp
@@ -2163,6 +2167,7 @@ payments.users.drumroamin.uk
 payplintelverify1.site
 pbnotp.com
 pbotp.com
+pc.ebcleague.com
 pcatec.com
 pcbdigital.com.au
 pdf-adobe-com-ae-acrobat.appwrite.network
@@ -2188,6 +2193,7 @@ placilni-kanal.cc
 placilni-kanal.com
 placilo-posta.com
 placilo-stroskov.cc
+planahurtos.de
 plu.sh
 pmsistemi.eu
 po-ind.eu
@@ -2209,6 +2215,7 @@ posljipaket-sl.nuone.shop
 posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 posljipaket.me
+poslovni-db.com
 poslovni24ur.com
 posodobi-nlb.info
 post-si.com
@@ -2648,6 +2655,7 @@ sl-posta.us.cc
 sl.gls-gronuvop.sbs
 sl.gls-grounp.cam
 sl.gls-grouvp.cam
+sl.rapunnar.com
 sl1nk.com
 slcdc.net
 sledenje-posta.help
@@ -2708,6 +2716,7 @@ starslot.one
 starti.tn
 stay-message.my.id
 steellifeinc.us
+steelscabinet.com
 stellarbbs.com
 steprimo.com
 sterlitamakadm.ru
@@ -2812,6 +2821,7 @@ trader-ai.tv
 tradesingh.info
 traumainquiry.com
 trecappelli.it
+trierablicgnet.com
 triglavquantai.com
 trk-tairiku.com
 trk.layers-develop-pen-rain.run
