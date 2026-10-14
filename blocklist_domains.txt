@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-13 06:25:20 UTC
+# Updated: 2026-10-14 04:26:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -14,6 +14,7 @@
 0nline.cbsengineeringuk.top
 0svccsess.buzz
 1.moneyguardindia.com
+1.vaultteant.date
 10029jzx3527aj46.authweb.cfd
 11qweb.info
 11uweb.info
@@ -966,6 +967,7 @@ fls-a2c2c99b-05a8-4ade-bd54-cc75bce92a4c.laravel.cloud
 flverr-verif.info
 flysgo.com
 fore-mining.top
+forensic-economistas-es.com
 form-eu1-562854.public.500apps.org
 form-payway-com-hr-518862.erste-hilfe-poessneck.de
 form-us1-563144.public.500apps.org
@@ -2102,6 +2104,7 @@ otp-mbank-net.info
 otp-mbank.click
 otp-mbank.info
 otp-mbank.live
+otp-mbanka.info
 otp-prijava.info
 otp-prijava.live
 otp-racunovodstvo.com
@@ -2216,6 +2219,7 @@ posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 posljipaket.me
 poslovni-db.com
+poslovni-o.com
 poslovni24ur.com
 posodobi-nlb.info
 post-si.com
@@ -2775,6 +2779,7 @@ telatraan.com
 telcaomsl.liveblog365.com
 telekom-si.click
 telekom-si.com
+telekom-si.live
 telekom-slo.live
 telekom.hyrje.co
 telekom.online-verify.click
