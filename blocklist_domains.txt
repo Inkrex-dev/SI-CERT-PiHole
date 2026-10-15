@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-14 04:26:06 UTC
+# Updated: 2026-10-15 04:08:47 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -113,6 +113,7 @@
 9ksp190y9e1d.elevate-online-presence.cfd
 9rynvnd4ot.acide-boswellique.com
 9we14xupxhx4.improve-campaign-performance.sbs
+Agen-rs.productivitypays.com
 Cpanelnotice.me
 Gfd.filbun.pro
 Gfd.okldhgus.sbs
@@ -316,6 +317,8 @@ billingsmanager.buffalocuboidzx10g.com
 bin-si.com
 bisnmsx.com
 bit-si.lat
+bitbox.firmwares.life
+bitbox.firmwares.world
 biteonus.com
 bitzli.ch
 bj13811437077.com
@@ -474,6 +477,7 @@ bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.potrdi-link-prejemanje.click
 bolha.potrdilo-o-placilu-narocila-order3456.shop
+bolha.potrditev-narocila929100.sbs
 bolha.prejemanje-sredstev02019.shop
 bolha.prejemanje-sredstev2026.click
 bolha.prejemanje-sredstev923491.shop
@@ -539,6 +543,7 @@ bookingguestverify.com
 bookingrm.guestconsole.com
 bookingrm.stayinfodesk.com
 booklng.conflrmation-ld654883.com
+bottegadelfuoco.live
 bounce.pivobu.pro
 box-glsgroup.top
 box-sigroup.buzz
@@ -848,6 +853,7 @@ eeq07.icu
 eilativ.com
 ejcheb.cswd.org
 ekbm365.com
+elandonlinestore.com
 elbertenergycapital.com
 electricbicycle-usa.com
 elefantepink.com
@@ -1033,6 +1039,7 @@ gls-group-sl.top
 gls-group.037182.sale
 gls-group.098731.si
 gls-group.22522.website
+gls-group.389154.com
 gls-group.421021.info
 gls-group.491021.si
 gls-group.55655.click
@@ -1437,6 +1444,7 @@ hauldwnza.website
 havcert.com
 havenhomes.ae
 hdprint.ro
+heinousness923.hylrab.com
 heldesk.newsystemupdatemmannagement.com.googlesaer.com.seacon-pl.com
 heliaodathyopticsmills.edgeone.app
 help-centersacoount.com
@@ -1478,6 +1486,7 @@ hse-dodatek.si
 hse-electro.com
 hse-energija.com
 hse-energija.info
+hse-energija.si
 hse-energy.info
 hse-helpcenter.com
 hse-info-help.com
@@ -1636,6 +1645,7 @@ kermisinheemskerk.nl
 kesgravebadminton.org.uk
 keswiftleads.com
 ketchen.centercommercialonline.com
+kieogungiredoc.top
 kings22kar.com
 kitdesigner.primoapparel.uk
 kittensmarket.com
@@ -1881,6 +1891,7 @@ mrcltda.cl
 mrishimrcandeyenclave.com
 mskelectronicsfzco.com
 mtienergyinc.evanescepackaging.cfd
+mtoken-otpgo.com
 mtsul.com
 muhammadumersheraz.com
 mulvwty.pro
@@ -2201,6 +2212,7 @@ plu.sh
 pmsistemi.eu
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
+podjetje-doo.com
 podkastrsuite.com
 podologoenbenavente.com
 pointonecorp.gapinc.sbs
@@ -2222,6 +2234,7 @@ poslovni-db.com
 poslovni-o.com
 poslovni24ur.com
 posodobi-nlb.info
+posodobi-nlb.online
 post-si.com
 post-si.net
 post-si.online
@@ -2783,6 +2796,7 @@ telekom-si.live
 telekom-slo.live
 telekom.hyrje.co
 telekom.online-verify.click
+telekomsi.online
 telenfy.net
 telkomnet.com.ng
 terrebonemitsubishi.ca
