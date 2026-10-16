@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-15 04:08:47 UTC
+# Updated: 2026-10-16 04:04:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -70,6 +70,7 @@
 4aec4310621e94619bc836b8c34a6f29.marsella.eu
 4lkds8of67t.tax-slayerpro.com
 4qweb.info
+4sstyle.com
 50172.cfd
 51.195.123.107
 51guzheng.net
@@ -208,6 +209,7 @@ amendes-gouv.solutions
 amfoodsna.ca
 amicsdelopera.com
 amringenieria.com.ar
+amuse-arnes5.datazx.com
 amuse-arnes5.morletas.com
 amzgo.20-172-65-119.cpanel.site
 amzgoone.20-172-65-119.cpanel.site
@@ -242,6 +244,7 @@ arhstroyproect.store
 ariani.es
 arnes.webmail.net.co
 arts2nfts.com
+aspropertybd.com
 assets.norbr.io
 assume-Eragon5.bideasynow.com
 asw.woukechou.cfd
@@ -572,6 +575,7 @@ byvn.net
 c3646bde3f7.freewebhostmost.com
 c45mrv.s.gy
 c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
+c7kde.sendrixmail.com
 cadaverine.tehillsglobal.com
 cafedesafari.com
 caja-ahorros.silice.si
@@ -627,6 +631,7 @@ clk.pvnsolutions.com
 cllick.xyz
 cloudflare-ipfs.com
 cloudserver85.com
+clubdelllarguet.es
 cocic-calc.com
 cocojoyce.ci
 cocoro-k.co.jp
@@ -1680,6 +1685,7 @@ lainezhotelzudokd.epp-xl.com
 lamacosto.fr
 lambolos.com
 lancejacks.suvithas.com
+lantr.mdbgo.io
 laoairilnes.com
 lapharma.in
 lapostopnet.com
@@ -1838,6 +1844,7 @@ mobilenlbsid.com
 mobilenlbsida.com
 mobilenlbv.com
 mogls.904901.com
+moj-telekom.live
 moj-telekom.online
 moja-otp.com
 moja-posta.help
@@ -2139,6 +2146,8 @@ otpbanka-si-prijava.ilii.es
 otpbanka-si-prijava.issl.im
 otpbanka-si-prijava.llii.im
 otpbanka-si.com
+otpbanka-si.live
+otpbanka-si.online
 otpbanka.click
 otpbanka.hyrje.co
 otpbanka.hyrje.com
