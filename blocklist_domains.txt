@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-19 04:11:06 UTC
+# Updated: 2026-10-20 04:23:05 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -314,6 +314,7 @@ bestihotelafes.gax-uk.com
 betalenwinkel.nl
 beukema.space
 bff7b1b0db.big-shop.ge
+biblio.uabcs.mx
 bigthinking.one
 bikegoed.nl
 billingfailed.digital
@@ -762,6 +763,7 @@ dikmentekstil.com
 dinabloom.com
 dinlbsiportl.com
 direcpridetarinc.cegepaweb.com
+direct-new19october.com
 discoverreal.lat
 divemastermergulho.com
 divernastermergulho.com
@@ -1050,6 +1052,7 @@ gls-group.037182.sale
 gls-group.098731.si
 gls-group.22522.website
 gls-group.389154.com
+gls-group.389159.com
 gls-group.421021.info
 gls-group.491021.si
 gls-group.55655.click
@@ -1490,6 +1493,7 @@ hotelinfo-hotelrewiews.com
 house-global77140.com
 housemanage9442.com
 housofplain.com
+howardman.com
 hranilnica-phv.com
 hru.community-verify-skampagne.click
 hse-dodatek.si
@@ -1551,6 +1555,7 @@ infinitypoolsuites.com
 info-cardapp-nlbpay.hier-im-netz.de
 info.momoiescolar.com
 info8112si-nlb.hier-im-netz.de
+infocenter579431.today
 inform.track-updates.org
 information.setups.world
 infos.noignis.one
@@ -1825,6 +1830,7 @@ metalsb.com.br
 metiopniqueskuitr471.com
 metspa.cam
 mexolix.icu
+mfa-access-bh3nj33g.bodoques.com
 mffunilariaepintura.com
 mhl6cxailcj0x2rarogruc2j1cmdhcm1hawxlci5jb20vdwq4zwlqzm.acm-tax.gr
 microdrivescloud.cc
@@ -2229,6 +2235,7 @@ pmsistemi.eu
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
 podjetje-doo.com
+podjetje-si.com
 podkastrsuite.com
 podologoenbenavente.com
 pointonecorp.gapinc.sbs
@@ -2731,6 +2738,7 @@ sparkasse-mstik.doctorinyourpocket.co.za
 sparkasse-mstik.educlip.pe
 specialtyfitnesequipment.com
 speck-tripiex.de
+spk-si.com
 spkibs.com
 sport-socks.co.uk
 spotpreset.com
@@ -2810,6 +2818,7 @@ telcaomsl.liveblog365.com
 telekom-si.click
 telekom-si.com
 telekom-si.live
+telekom-si.my
 telekom-slo.live
 telekom.hyrje.co
 telekom.online-verify.click
@@ -3038,6 +3047,7 @@ www-dpd.platbanew.cfd
 www-dpd.sid4987.com
 www-netfilx.com
 www-nettfilx.com
+www-ssl-css-log-user.tickbazaar.ir
 www.MzY5NjUxMDIw.com
 www.abrahamrollmusic.com
 www.adrdaily.com
