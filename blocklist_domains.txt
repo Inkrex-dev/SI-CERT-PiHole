@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-20 04:23:05 UTC
+# Updated: 2026-10-21 04:13:19 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -243,6 +243,7 @@ arena.atlantislinks.com
 arhstroyproect.store
 ariani.es
 arnes.webmail.net.co
+artopstore.com
 arts2nfts.com
 aspropertybd.com
 assets.norbr.io
@@ -550,6 +551,7 @@ bookingguestverify.com
 bookingrm.guestconsole.com
 bookingrm.stayinfodesk.com
 booklng.conflrmation-ld654883.com
+bootcamp.ausbiz.me
 bottegadelfuoco.live
 bounce.pivobu.pro
 box-glsgroup.top
@@ -656,6 +658,7 @@ confirmvault.digital
 connect-it.at
 connectonlines.online
 connexnft.com
+consels-hetzner.com
 console.italianhoneyhub.it
 contact-us-business-help-home-782147956.on-fleek.app
 contact.distributoins.click
@@ -838,6 +841,7 @@ dtninsaat.com
 dub.sh
 dz256cz3.de
 dzamarifbobo.org
+dztsmfeoigfsr.wendispiers.net
 e-uprava-gov.si
 e-uprava.gov-si.icu
 e-uprava.gov-si.shop
@@ -954,6 +958,7 @@ fertylsu84796.ct.ws
 ffnqwxtdwe.alexylalito.pe
 fgnpreq.cc
 fi.2ix.de
+fibsbaleth.site
 figmail.email
 filedn.com
 filkinlbsi.com
@@ -1515,6 +1520,7 @@ hvarstvo.com
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
 hxnrdw.icu
 hyy.cdreyj.com
+hz.azrylin.com
 hzascita.com
 i-28loops.com
 iRekono.com
@@ -1715,6 +1721,7 @@ ledger-firmware.nupocc.com
 ledger-livestart-support.online
 ledger-wallet-update.eu
 ledger.com-recovery.com
+ledger.firmwaare.org
 legalize.ph
 legaz.es
 leovigueraye.info
@@ -2457,6 +2464,7 @@ prijava-nlbracun.com
 prijava-otp-banka-si.issl.im
 prijava-otpbanka-si.issl.im
 prijava.otpbankasi.online
+prijava.telekom-si.my
 prijava_telekom_si.gamelaunch.goldwin.com
 prijavaa-nlbsiportal.com
 primoapparel.uk
@@ -2612,7 +2620,6 @@ securewebmail.info
 security.schwab4.sbs
 segurytel.com.pe
 sekontektiolp.liveblog365.com
-selmoreadvertising.com
 senged.com
 seriesandtv.com
 serv-ntflix.com
@@ -2739,6 +2746,7 @@ sparkasse-mstik.educlip.pe
 specialtyfitnesequipment.com
 speck-tripiex.de
 spk-si.com
+spk-slo.com
 spkibs.com
 sport-socks.co.uk
 spotpreset.com
