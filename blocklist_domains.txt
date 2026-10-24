@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-23 04:17:33 UTC
+# Updated: 2026-10-24 04:08:21 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -682,6 +682,7 @@ costmuer.manage.payments.bistro-grossartig.at
 costumer.manage.apsa-psicologos.com
 countmoduletseedtorage.cegepaweb.com
 coverka-si.com
+covveera.com
 coworkingweb.es
 coyx7vfjh8.trustworthyplatform.de
 cpanel.cx
@@ -1137,6 +1138,7 @@ gls.863126.live
 gls.863152.live
 gls.863171.live
 gls.86337.click
+gls.86398.click
 gls.8921.space
 gls.9173.site
 gls.93174.shop
@@ -1407,6 +1409,7 @@ guest.amondoc.com
 guesthouse43480.com
 guestverify13334-booking.com
 guio.sandrinereal.com
+gulf-downstream.com
 guweb.info
 gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
 gyweb.info
@@ -1847,6 +1850,7 @@ mhl6cxailcj0x2rarogruc2j1cmdhcm1hawxlci5jb20vdwq4zwlqzm.acm-tax.gr
 microdrivescloud.cc
 microestrategico.com
 microfineye.com
+micucciopropiedades.com
 middlemathmovement.us
 mikaelthorsted.dk
 mikrostranky.info
@@ -2146,6 +2150,7 @@ otp-mbank-net.info
 otp-mbank.click
 otp-mbank.info
 otp-mbank.live
+otp-mbanka-si.info
 otp-mbanka.info
 otp-prijava.info
 otp-prijava.live
@@ -2833,6 +2838,7 @@ telatraan.com
 telcaomsl.liveblog365.com
 telekom-si.click
 telekom-si.com
+telekom-si.help
 telekom-si.live
 telekom-si.my
 telekom-slo.live
