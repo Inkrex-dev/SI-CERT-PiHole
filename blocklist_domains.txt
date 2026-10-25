@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-24 04:08:21 UTC
+# Updated: 2026-10-25 04:10:47 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1625,6 +1625,7 @@ its-it.negarazmayesh.com
 itupavaconstrucao.net.br
 iutga.learnalldays.com
 iuwncrkfxgnc.store
+iyqsjf.cswd.org
 jagmaquinarias.com
 jahwusuab.top
 jahwusukac.icu
@@ -1673,6 +1674,7 @@ kermisinheemskerk.nl
 kesgravebadminton.org.uk
 keswiftleads.com
 ketchen.centercommercialonline.com
+khkbum.cswd.org
 kieogungiredoc.top
 kings22kar.com
 kitdesigner.primoapparel.uk
@@ -2197,6 +2199,7 @@ ottonlbp.com
 oud-gereedschap.nl
 ovationwifi.com
 ovuhbe3ku4jluk7.soundkraft-me.com
+oxx7a3hlbhga.cswd.org
 oyn.at
 p.dtns.me
 p.gainrep.com
@@ -2762,6 +2765,7 @@ spk-si.com
 spk-slo.com
 spkibs.com
 sport-socks.co.uk
+spota-home.com
 spotpreset.com
 sprl.in
 spstik.com
@@ -2843,6 +2847,7 @@ telekom-si.live
 telekom-si.my
 telekom-slo.live
 telekom.hyrje.co
+telekom.my-account.live
 telekom.online-verify.click
 telekomsi.online
 telenfy.net
@@ -2865,6 +2870,7 @@ thesleekmart.com
 thistimeway.co
 ti-usr1-cp.cuc-carrera-ti.ac.cr
 time-raw.free.nf
+timebreak.admiration.digital
 timebreak.carinehutsebaut.com
 timebreak.stcharlesmotors.com
 timocomblog.com
@@ -3005,6 +3011,7 @@ vzajemna.abi.ai
 vzajemnaaa.com
 w5ws19ua.segmite.org
 w685675ez.hier-im-netz.de
+w73aghrintvd.cswd.org
 walling.app
 wallstreetcoachingfoundation.co.za
 wearamci.com
