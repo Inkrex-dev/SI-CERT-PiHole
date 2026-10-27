@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-26 04:14:53 UTC
+# Updated: 2026-10-27 04:33:57 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -400,6 +400,7 @@ bolha.brezskrbi.pro
 bolha.brezskrbi.top
 bolha.brezskrbi.trade
 bolha.brezskrbii.top
+bolha.brezskrby.pro
 bolha.brezsrbi.top
 bolha.brzeskbi.top
 bolha.brzskb.top
