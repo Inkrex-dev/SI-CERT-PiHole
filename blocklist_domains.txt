@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-27 04:33:57 UTC
+# Updated: 2026-10-28 05:06:21 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -385,6 +385,7 @@ bolha.brez-skbri.com
 bolha.brez-skrbi-verify.cc
 bolha.brez-skrbi.cc
 bolha.brez-skrbi.cfd
+bolha.brez-skrbi.co
 bolha.brez-skrbi.com
 bolha.brez.skbri.com
 bolha.brezskby.top
@@ -983,6 +984,7 @@ fiveacresgarage.top
 fiverr-accept-order.world
 fjasijfiwe.top
 fko.com.mx
+fkor.cc
 flameministries.org
 flanp.com
 flatio.com-hidden.si
@@ -1055,6 +1057,7 @@ gjtgqhgp2tui7ra.zl.ge
 globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
+gls-domov.us.cc
 gls-dostava.us.cc
 gls-grou.id9491.com
 gls-grouap.pw
@@ -1098,6 +1101,8 @@ gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
 gls-grrroup.cc
+gls-guoeru.eu.cc
+gls-home.buzz
 gls-kdju.cfd
 gls-paket.si
 gls-partner-group.com
@@ -1938,6 +1943,7 @@ muhammadumersheraz.com
 mulvwty.pro
 mushtzani.com
 mxgwymbezxim.pet
+my-files-directory.dongho17.com
 my-ledger-recovery.com
 my-ledger-restore.com
 my-offer.top
@@ -2451,6 +2457,7 @@ postazas.top
 postbfirst.info
 poste-sis.xyz
 posteav.top
+postexpress.tracksafe228.shop
 postmgmd.icu
 postni-si.top
 postnordf.cfd
@@ -2583,6 +2590,7 @@ resistecupr.trenix.nl
 respwfulus.online
 resvalidedelivery.de
 retasil.info
+review-id.to
 rialtoparty.it
 riosaladohp.com
 rkauth.com
@@ -2786,7 +2794,9 @@ staffpartners.pl
 stamiwop.us
 starslot.one
 starti.tn
+statusarrival.com
 stay-message.my.id
+stayguestinfo.com
 steellifeinc.us
 steelscabinet.com
 stellarbbs.com
@@ -2931,6 +2941,7 @@ update-nlb-pay.bve-vermarktung.de
 update-nlb-paysi.delst.email
 update-profllesync.de
 updatebillsmanageaccountserverlocwajwaiodjawiodnkslnkadmkasdw.armeniaincentives.com
+updatestay.com
 updating-infos.de
 updatm.mygamesonline.org
 urdkueork.us
