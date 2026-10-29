@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-28 05:06:21 UTC
+# Updated: 2026-10-29 05:18:31 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -246,6 +246,8 @@ arhstroyproect.store
 ariani.es
 arnes.alecallen.com
 arnes.webmail.net.co
+arrivalonhold.com
+arrivalsupdate.com
 artopstore.com
 arts2nfts.com
 aspropertybd.com
@@ -397,6 +399,7 @@ bolha.brezskrbi.com
 bolha.brezskrbi.fit
 bolha.brezskrbi.ink
 bolha.brezskrbi.live
+bolha.brezskrbi.lol
 bolha.brezskrbi.pro
 bolha.brezskrbi.top
 bolha.brezskrbi.trade
@@ -495,6 +498,7 @@ bolha.potrditev-narocila929100.sbs
 bolha.prejemanje-sredstev02019.shop
 bolha.prejemanje-sredstev2026.click
 bolha.prejemanje-sredstev923491.shop
+bolha.receive-denar2949281.click
 bolha.receive-funds.digital
 bolha.receive-funds.forum
 bolha.receive-funds1.world
@@ -977,6 +981,7 @@ finessa-justcegov.click
 finessa-justcegov.help
 finessa-justcegov.uno
 finzascita.com
+finzy6-officia46.sbs
 firmware-ledger.eu
 firverr.org
 fitfam.pl
@@ -991,6 +996,7 @@ flatio.com-hidden.si
 flexispot-shop.com
 flexzone.im
 fli.so
+flik-slo.live
 fliknovapp.com
 floatsbriefed.org.uk
 flomp.sbs
@@ -1057,10 +1063,16 @@ gjtgqhgp2tui7ra.zl.ge
 globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
+gls-doins.xyz
 gls-domov.us.cc
+gls-domovc.us.cc
+gls-dontcom.vip
 gls-dostava.us.cc
+gls-giiroup.us.cc
 gls-grou.id9491.com
 gls-grouap.pw
+gls-groudp.top
+gls-groufp.top
 gls-groui.cfd
 gls-group-sl.top
 gls-group.037182.sale
@@ -1103,6 +1115,7 @@ gls-grouz.cfd
 gls-grrroup.cc
 gls-guoeru.eu.cc
 gls-home.buzz
+gls-home.cyou
 gls-kdju.cfd
 gls-paket.si
 gls-partner-group.com
@@ -1177,6 +1190,7 @@ gls.gronns.cfd
 gls.group-app.com
 gls.group-si.world
 gls.growds.cfd
+gls.gwdhs.help
 gls.id0129178.click
 gls.id09876.com
 gls.id4973.com
@@ -1301,6 +1315,7 @@ glsgrpos.lat
 glsigroup.icu
 glsigroupau.icu
 glsigroupi.icu
+glsinkson.bond
 glsmojkurir.help
 glssleu.com
 glssli.com
@@ -1414,6 +1429,7 @@ guest-pend5250.com
 guest-stays4920.com
 guest.283742.online
 guest.amondoc.com
+guestarrivals.com
 guesthouse43480.com
 guestverify13334-booking.com
 guio.sandrinereal.com
@@ -1618,6 +1634,7 @@ isb-podjetja.com
 iskanje-informacij.cc
 iskbinotp-eu.com
 islepersonaliseit.co.uk
+isnparksr.eu.cc
 isp-centrala.com
 isp-finance.com
 isp-financni.com
@@ -1955,6 +1972,7 @@ mydublinguide.com
 myebay.digital
 myemail.skydynamics.com
 myengie.ro-energiecompensata.icu
+myfire.us.cc
 mygls-order.si
 mypost.mmkbk.online
 mysi.live
@@ -2797,6 +2815,7 @@ starti.tn
 statusarrival.com
 stay-message.my.id
 stayguestinfo.com
+staystatus-pending.com
 steellifeinc.us
 steelscabinet.com
 stellarbbs.com
@@ -2867,6 +2886,7 @@ telekom.online-verify.click
 telekomsi.online
 telenfy.net
 telkomnet.com.ng
+teralvot.com
 terrebonemitsubishi.ca
 test-e92387da.it93.de
 test-sklep.justbefit.pl
@@ -2925,6 +2945,7 @@ tunelesdecalortermoencogibles.net.pe
 tunet.com.ng
 tvdyoz5nn774r0vq.blindfind.de
 txrizivselfserv.be.hllill.abrdns.com
+uae-post-uae-service-post.framer.wiki
 uiomoakij.gooddonkey.org
 uipath-in.com
 ujlog.ci
@@ -3212,6 +3233,7 @@ x-express.bih-delivery.online
 x-express.bih-dostawka.sbs
 x-express.bihnadruzba.click
 x-express.dostava-order.me
+x-express.help
 xamurmagazine.com
 xcervulaerum.azizidevalopments.com
 xevona.us
