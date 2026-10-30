@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-29 05:18:31 UTC
+# Updated: 2026-10-30 05:17:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -56,6 +56,7 @@
 2xskb.com
 3.86.42.232
 30416487.datastreamicux.digital
+32712912.vcsrenting.com
 358unfailingly.devispire.com
 361476537.anysolutions.com.br
 3786.dpd.loginto.me
@@ -120,6 +121,7 @@ Cpanelnotice.me
 Gfd.filbun.pro
 Gfd.okldhgus.sbs
 HAGELSTEIN.ME
+I24.im
 P9btnxYeXcFQAzy.soundkraft-me.com
 Slovenia.managers-page-privates.cloud
 Staffdocportal.cc
@@ -777,6 +779,7 @@ dik.si
 dikmentekstil.com
 dinabloom.com
 dinlbsiportl.com
+dioalamuludun.wildflowerwritings.de
 direcpridetarinc.cegepaweb.com
 direct-new19october.com
 discoverreal.lat
@@ -1059,6 +1062,7 @@ ghamdamn671xkaz.graficosdm.com.uy
 ghihxcvl.cfd
 giggedfrog.com
 gilardonispa.top
+gis-raup.click
 gjtgqhgp2tui7ra.zl.ge
 globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
@@ -1090,6 +1094,7 @@ gls-group.904981.help
 gls-group.908741.info
 gls-group.9401921.com
 gls-group.98295.live
+gls-group.983268.com
 gls-group.99978.shop
 gls-group.bih-delivery.live
 gls-group.cyou
@@ -1182,6 +1187,7 @@ gls.dostava.bond
 gls.dostava.club
 gls.esends.eu
 gls.f-takel.eu
+gls.fieqf.top
 gls.gioop.cfd
 gls.gls-info.com
 gls.gls-sl.digital
@@ -1305,6 +1311,7 @@ gls.svoje.info
 gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
+glsgmasla.eu.cc
 glsgrcouspz.cfd
 glsgrcousvpz.cfd
 glsgroup.mom
@@ -1321,6 +1328,7 @@ glssleu.com
 glssli.com
 glsslj.com
 gmail.nhyutreorea.com
+gnjsakag.eu.cc
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
 gosell.ro
@@ -1367,6 +1375,7 @@ gov.govsigovsli.cyou
 gov.siols.cfd
 gov.sloil.cfd
 gove.lat
+govgrpay.my.id
 govh.lat
 govis.cc
 goviv.cc
@@ -1431,6 +1440,7 @@ guest.283742.online
 guest.amondoc.com
 guestarrivals.com
 guesthouse43480.com
+guestshold.com
 guestverify13334-booking.com
 guio.sandrinereal.com
 gulf-downstream.com
@@ -1605,6 +1615,7 @@ inkamerch.pe
 inkbm.com
 innovation.becoming-group.com
 inobra.ar
+inparkss.eu.cc
 inproseal.pe
 inseselectronicsecurity.com
 inspirations.es
@@ -1825,7 +1836,9 @@ mailbox.njmssx.com
 mailwebmails.com
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
+maks.ai.flowjam.studio
 malzooks.com
+manage-subscriptions.com
 manage.costumer.kfz-zulassungsservice-schulitz.de
 manage.user.fitter4u.co.uk
 manage.users.aloyalfriendcaninemassage.co.uk
@@ -1855,6 +1868,7 @@ mbanka-2026.cfd
 mbanka-net.cfd
 mbanka-si.cfd
 mclayceramic.com
+mcnua.help
 mdejq4mh.dreamwp.com
 mdtile.ca
 mdw-flamingo.de
@@ -2016,6 +2030,7 @@ nib-bh.click
 nib-kliksi.com
 nietclix.tkburgers.com
 nievolaengenharia.com.br
+nika.ai.flowjam.studio
 njj.standard.us-east-1.oortstorages.com
 nkbm-centrala.com
 nkbm-otp.com
@@ -2567,6 +2582,7 @@ questica.org
 questions-assistyou.com
 queterw.store
 quintinodoprado.com
+qw22uu21ds12iwixxiwwspulpleywwcniwdi.oic-ethiopia.org
 qwpblrffecoqf.gooddonkey.org
 qx-financial.com
 r-ekono.com
@@ -2623,6 +2639,7 @@ roomnights.csdhby.com
 rooms-cityhub723.com
 rooms-stayhub209.com
 roundcube-support.vitaminopro-uz.com
+roundcubepanelowa-email.com
 roundgin.com
 rs-ba-mklik.com
 rvda.es
@@ -2636,6 +2653,7 @@ saddem-mcsortscreentst.mdbgo.io
 safe2open.terrassedeladyle-be.com
 safetransmit-secrelaydoc.todovito1.com
 sagmoonmagic.com
+sahedoctantilu.top
 sahrther.top
 sakuratrade-thai.com
 sales5rrt.digital
@@ -2866,6 +2884,7 @@ taketimeandverify.online%3ABC@abc.si
 tatlibuketi.com
 tattak-roma.pl
 tcint-konkurs.ch
+tcplumbingandheating.com
 tdmx.com.mx
 tealil.info
 techadobe.com
@@ -3150,6 +3169,7 @@ www.facebook-verified-premium.com
 www.fcommu70.com.ng
 www.fireplaceoutfltters.com
 www.frontiersurvival.com
+www.fugovpay.my.id
 www.fxfashionbd.com
 www.g14dgvdgzher.com
 www.geea.sk
