@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-10-30 05:17:52 UTC
+# Updated: 2026-10-31 05:00:30 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1068,6 +1068,7 @@ globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
 gls-doins.xyz
+gls-domouc.eu.cc
 gls-domov.us.cc
 gls-domovc.us.cc
 gls-dontcom.vip
@@ -1312,10 +1313,12 @@ gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
 glsgmasla.eu.cc
+glsgmssla.eu.cc
 glsgrcouspz.cfd
 glsgrcousvpz.cfd
 glsgroup.mom
 glsgroupsj.top
+glsgroupso.sbs
 glsgrp.app
 glsgrpoa.top
 glsgrpos.lat
@@ -1327,6 +1330,7 @@ glsmojkurir.help
 glssleu.com
 glssli.com
 glsslj.com
+glsxsgsca.cam
 gmail.nhyutreorea.com
 gnjsakag.eu.cc
 gnndpnxbgc.mvwooddesigners.pe
@@ -1587,6 +1591,7 @@ idoxsoft.com
 ieskbinotp.com
 ii-sen.ir
 iisrr.in
+iizgov.top
 ikbm365.com
 ikkakzqtlwawmq.gooddonkey.org
 imacpoint.id
@@ -1650,6 +1655,7 @@ isp-centrala.com
 isp-finance.com
 isp-financni.com
 isp-in.com
+isp-lj.com
 isp-sedez.net
 ispuprava.com
 isshin.jp
@@ -1688,6 +1694,7 @@ k29a6.dnevet.ru
 ka-chiba.net
 kaambadaycare.com
 kalsiembas.io
+kandesanwoti.wildflowerwritings.de
 kareto.store
 kargolar.net
 karoowebz.ir
@@ -1783,6 +1790,7 @@ linkotpbanka.cfd
 links-mbank.cfd
 links-otpbank.cfd
 links.mbbank.cfd
+linkscan.io
 lions-lndustries.com
 lisboaadschool.com
 littletonlawnaeration.com
@@ -2703,6 +2711,7 @@ setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
 shaanvimedia.com
 share.google
 sharemyhtml.com
+shnfds.eu.cc
 shop.naturacenter.es
 shoperify.check5862.sbs
 shorten.is
@@ -2711,6 +2720,7 @@ shorten.tv
 shorten.world
 shupenia.com
 shvdeelse.online
+si-flik.live
 si-gbkr.site
 si-gov.cam
 si-gov.one
@@ -2942,6 +2952,7 @@ toolsotenet.com
 toraxx.de
 torphy.scorp251.net
 towncentres.co.nz
+toyp.eu.cc
 toysforkids.zone
 track-my-ups-parcel.com
 trackcloud.xyz
