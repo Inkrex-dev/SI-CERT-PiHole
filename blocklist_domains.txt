@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-01 05:31:22 UTC
+# Updated: 2026-11-02 05:29:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -391,6 +391,7 @@ bolha.brez-skrbi.cc
 bolha.brez-skrbi.cfd
 bolha.brez-skrbi.co
 bolha.brez-skrbi.com
+bolha.brez-skrbi.sbs
 bolha.brez.skbri.com
 bolha.brezskby.top
 bolha.brezskrb.ink
@@ -414,6 +415,7 @@ bolha.brzskb.world
 bolha.brzskr.ink
 bolha.brzskr.top
 bolha.brzskrb.top
+bolha.brzskrb.vip
 bolha.brzskrbi.ink
 bolha.brzskrbi.top
 bolha.deliscr.com
@@ -1958,6 +1960,7 @@ mojotp24.com
 mojpaket.info
 mojpakket24.info
 mojskbotp.com
+mojtelekom.live
 mokakosare.buzz
 molefrill-raq6as.stormkit.dev
 monboislocal.fr
@@ -2098,6 +2101,7 @@ nlbmobiles.com
 nlbmobilev.com
 nlbpairhelper.com
 nlbpay-si.enh.life
+nlbsi-pay.com
 nlbsi.com
 nlbslovenija.mobilenlbids.com
 nlbsupport24.si
@@ -2230,6 +2234,7 @@ otpbanka-si-prijava.ilii.es
 otpbanka-si-prijava.issl.im
 otpbanka-si-prijava.llii.im
 otpbanka-si.com
+otpbanka-si.help
 otpbanka-si.info
 otpbanka-si.live
 otpbanka-si.online
