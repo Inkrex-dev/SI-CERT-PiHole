@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-02 05:29:33 UTC
+# Updated: 2026-11-03 06:09:15 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -271,10 +271,12 @@ autochallengeusario.vvvforum.eu
 autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
 avenelleacrafters.lat
+avenelleahouserentals.lat
 avsasan.com
 avtonet.site
 awiaahereinc.vu
 aywmcs4ulr504v3s0v.live
+azuriranje-nlb.info
 b538f.net
 b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
 babyurl.net
@@ -1117,6 +1119,7 @@ gls-groupk.cfd
 gls-groupq.cfd
 gls-groupr.cfd
 gls-groupsi.cfd
+gls-groupsii.cyou
 gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
@@ -1806,6 +1809,7 @@ llut.steponinfotech.com
 ln.shorturl.es
 lnk.do
 localcincinnatinews.com
+login-nlb.info
 login-user-verification28.beardpaintings.com
 login.biyogekanotogenkyo.info
 login.bluevalleyiabs.com
@@ -2067,6 +2071,10 @@ nlb-eklik.click
 nlb-klik-me.click
 nlb-klik.lat
 nlb-kos-login.click
+nlb-podaci.info
+nlb-prijava.info
+nlb-prijava.online
+nlb-rs.online
 nlb-secure.com
 nlb-si.cfd
 nlb-si3.site
@@ -2093,8 +2101,10 @@ nlbklik-14-02-si.si-by.icu
 nlbklik-16-02-si.li-cy.icu
 nlbklik-22-02-si.ils-by.icu
 nlbklik.06-02-si.is-certified.com
+nlbklik.live
 nlbklik.online
 nlbklikl.click
+nlblogin.info
 nlbltd.rhinoservicesllcsa.com
 nlbmklik.co
 nlbmobiles.com
@@ -2313,6 +2323,7 @@ plu.sh
 pmsistemi.eu
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
+podaci-nlb.info
 podjetje-doo.com
 podjetje-si.com
 podkastrsuite.com
@@ -2337,6 +2348,7 @@ poslovni-o.com
 poslovni24ur.com
 posodobi-nlb.click
 posodobi-nlb.info
+posodobi-nlb.live
 posodobi-nlb.online
 post-si.com
 post-si.net
@@ -2533,6 +2545,7 @@ preverjanje-nlb-pay-access-id86335496306965895494.groupsorlink.com
 preverjanje.pro
 preverjanjeotp.com
 prijaja.ddns.cam
+prijava-nlb.online
 prijava-nlbracun.com
 prijava-otp-banka-si.issl.im
 prijava-otpbanka-si.issl.im
@@ -2656,6 +2669,7 @@ roundcube-support.vitaminopro-uz.com
 roundcubepanelowa-email.com
 roundgin.com
 rs-ba-mklik.com
+rs-nlb.online
 rvda.es
 s-Rekono.net
 s-kb1.com
@@ -2719,6 +2733,7 @@ share.google
 sharemyhtml.com
 shnfds.eu.cc
 shop.naturacenter.es
+shopclothes.vip
 shoperify.check5862.sbs
 shorten.is
 shorten.so
@@ -3102,11 +3117,13 @@ webmail-authco.cabcikalg.com
 webmail-authco.mdssmartrepalr.sbs
 webmail-autho.ccmzy.com
 webmail-autho.fsydwlh.com
+webmail-autho.gcvan.com
 webmail-autho.hbvcr.com
 webmail-autho.ifuqin.com
 webmail-autho.nexgenpwrr.com
 webmail-autho.shawyf.com
 webmail-autho.vajueji.com
+webmail-autho.wxzlyj.com
 webmail-autho.zjwztape.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
