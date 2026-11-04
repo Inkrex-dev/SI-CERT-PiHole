@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-03 06:09:15 UTC
+# Updated: 2026-11-04 05:47:42 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -528,6 +528,7 @@ bolha.receivem.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
 bolha.receivemoney.cc
+bolha.receivepay.lat
 bolha.receiveq.com
 bolha.receives-s.sbs
 bolha.receivesfund.com
@@ -1042,6 +1043,7 @@ gae-engineering.icu
 gamaarge.com
 gamezyborg.store
 garagedoorrepair--richmond.com
+gardocfalomisca.top
 gatavalen.cc
 gateway.btfs.io
 gateway.lighthouse.storage
@@ -1119,7 +1121,9 @@ gls-groupk.cfd
 gls-groupq.cfd
 gls-groupr.cfd
 gls-groupsi.cfd
+gls-groupsic.cyou
 gls-groupsii.cyou
+gls-groupsir.cyou
 gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
@@ -1544,6 +1548,7 @@ host.creativpoints.de
 host.domizil-schoeme.de
 host.novaljubljanskabankadd.com
 hotelboked9543383.world
+hoteletauberge.com
 hotelilty.net
 hotelinfo-hotelrewiews.com
 house-global77140.com
@@ -1560,6 +1565,7 @@ hse-energija.si
 hse-energy.info
 hse-helpcenter.com
 hse-info-help.com
+hse-uradni-portal.site
 hsfreshsystem.online
 https-otpbanka-si.issl.im
 hugograas.com.ar
@@ -2206,6 +2212,7 @@ otakkanan.co.id
 ote-mbanka.live
 otp-banka-si-prijava.i-iill.de
 otp-banka-slovenija1.myfreesites.net
+otp-banka.l.help
 otp-banka.live
 otp-banka.mojawebka.eu
 otp-banka.net
@@ -2638,6 +2645,7 @@ redirect-webmail-auth-0tesjs7sc02-login.page.gd
 redirect.forme.pacesheetmetal.co.uk
 rekona-auth.com
 rekona-varnost.com
+rekono-si.live
 rekono.one
 rem.ax
 renew.schoeme-seniorendomizil.de
