@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-04 05:47:42 UTC
+# Updated: 2026-11-09 12:11:46 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -25,6 +25,7 @@
 1361993889.anysolutions.com.br
 13bweb.info
 141.98.10.21
+148.135.10.58
 1482821376.impactomineracao.com.br
 15811453bd61727b27d2e405388ff002.autodromomodena.com
 1724121522.impactomineracao.com.br
@@ -236,6 +237,8 @@ api.spently.com
 apinfinite-design.com
 app.formester.com
 app.pizzeriavechy.com
+app.smartsuite.com
+app.suitedash.com
 app.trueqrcode.com
 app.webform.io
 appcustominvoic-purccesinsmtssm.line.pm
@@ -271,6 +274,7 @@ autochallengeusario.vvvforum.eu
 autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
 avenelleacrafters.lat
+avenelleacrafters.sbs
 avenelleahouserentals.lat
 avsasan.com
 avtonet.site
@@ -318,6 +322,7 @@ beatceets.us
 becpipiwimes.cf
 bellmanlogistics.com
 benmoussadattes.com
+bennson.co
 beptaoquan.vn
 bestahotelawit.nor-an.com
 bestahotellive.bow-ub.com
@@ -385,6 +390,7 @@ bolha.6352.click
 bolha.961015.click
 bolha.a-receivec.sbs
 bolha.accept-payment8013.click
+bolha.bgmxjm.com
 bolha.bolha.site
 bolha.brez-skbri.cc
 bolha.brez-skbri.com
@@ -1124,6 +1130,9 @@ gls-groupsi.cfd
 gls-groupsic.cyou
 gls-groupsii.cyou
 gls-groupsir.cyou
+gls-groupuc.cyou
+gls-groupur.cyou
+gls-groupuz.cyou
 gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
@@ -1195,6 +1204,7 @@ gls.dostava-prejemanje1929.biz
 gls.dostava.biz
 gls.dostava.bond
 gls.dostava.club
+gls.dshsfi.cfd
 gls.esends.eu
 gls.f-takel.eu
 gls.fieqf.top
@@ -1460,6 +1470,7 @@ guio.sandrinereal.com
 gulf-downstream.com
 guweb.info
 gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
+gyhiklmmm.mdmainx.cfd
 gyweb.info
 gzjls.edgeone.app
 h1.nu
@@ -1565,6 +1576,7 @@ hse-energija.si
 hse-energy.info
 hse-helpcenter.com
 hse-info-help.com
+hse-si.com
 hse-uradni-portal.site
 hsfreshsystem.online
 https-otpbanka-si.issl.im
@@ -1696,6 +1708,7 @@ jnkbm.com
 johnlucas.top
 joycity.in
 jpmorgan.iceiy.com
+jsfacadesolutions.com.au
 june10.standard.us-east-1.oortech.com
 junglegeri.com
 jusdhwuns.online
@@ -1747,6 +1760,7 @@ kodomoseiiku.jp
 koercv.cc
 koherense.com
 komunikacijastoritev-arnes.test119973.test-account.com
+kozolecnews.org
 ksrxgo.ticknstacked.com
 ktexim.pro
 kucoin.si
@@ -1849,6 +1863,7 @@ macustudio.com
 madbir4u.co.il
 maewaks.co.ke
 mail.adianjing.com
+mail.bot-radio.com
 mail14.vumar.top
 mail15.jupitar.online
 mail88.exempler.top
@@ -1934,6 +1949,7 @@ mobilenlbsid.com
 mobilenlbsida.com
 mobilenlbv.com
 mogls.904901.com
+moj-telekom.help
 moj-telekom.live
 moj-telekom.online
 moja-otp.com
@@ -1970,6 +1986,7 @@ mojotp24.com
 mojpaket.info
 mojpakket24.info
 mojskbotp.com
+mojtelekom.help
 mojtelekom.live
 mokakosare.buzz
 molefrill-raq6as.stormkit.dev
@@ -2133,6 +2150,7 @@ nohasphilartmuse.com
 nolia.fr
 nonfbtpg.chinahds.com
 northernlightfilms.com
+nosava.com
 notafiscal.from-ga.com
 notebook.gaistaicrai.digital
 notification.toddsurvey.com
@@ -2197,6 +2215,7 @@ openai-onlinecfg.dafleek.com
 openai-onlinekhw.dafleek.com
 openai-onlineqat.rvmobltech.com
 openai.secureiazone.sbs
+openchswechai.sviluppo.host
 oplevxperten.one
 optba.com
 optbnk1.com
@@ -2233,6 +2252,7 @@ otp-prijava.live
 otp-racunovodstvo.com
 otp-si.click
 otp-si.co
+otp-si.help
 otp-si.info
 otp-si.online
 otp-si.site
@@ -2326,6 +2346,7 @@ placilni-kanal.com
 placilo-posta.com
 placilo-stroskov.cc
 planahurtos.de
+plotcove.com
 plu.sh
 pmsistemi.eu
 po-ind.eu
@@ -2598,6 +2619,7 @@ pugetsoundaikikai.org
 pull.gaistaicrai.digital
 purexwror.us
 pwallsolutions.co.za
+pwoktuntmt.megamanprohu.com
 pyserive1.goodgarysmartprojects.co.za
 pythonnavy-i2sxzt.stormkit.dev
 q-r.to
@@ -2882,6 +2904,7 @@ stik365.com
 stikspk.net
 stirrupimpetus.us
 stockholm.bdch.nextly.tech
+store-accounts-shopify.com
 stratusypatch.us
 structuralsteel-eng.co.za
 stt-flux.com
@@ -2937,6 +2960,7 @@ telekom-si.com
 telekom-si.help
 telekom-si.live
 telekom-si.my
+telekom-slo.help
 telekom-slo.live
 telekom.hyrje.co
 telekom.my-account.live
@@ -2974,6 +2998,7 @@ tls.idealdxb.ae
 tls.tc
 tlsn.io
 to.getsavyy.com
+tolminbeacon.pro
 tomdesign.si
 tomimarkets.net
 tonisoldering.com
@@ -3149,6 +3174,7 @@ webmailadmincloudsecurity_liphaqi_securepaneladmin_.voreno.vu
 webserv60hostingtudi979kh796wyjzxmhl6cxailc42harocmdhcm.coxme.net
 wedeservecaretoo.com
 weedprofitsystemapp.com
+wehner.realmate.uk
 weiferngchina.com
 welcomewebserver.digital
 weqwea.online
@@ -3166,6 +3192,7 @@ wj.edrfgud.com
 wjd206eko.hier-im-netz.de
 wjsco.ir
 wooclwkhop.online
+worksheet-projectdocuments-mc3lt.mariner-it.com
 worpcknnel.cfd
 woundsunwrapped.com
 wp.gebkon.de
