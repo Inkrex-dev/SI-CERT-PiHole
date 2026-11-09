@@ -9,6 +9,8 @@ jobs:
   update-data:
     runs-on: self-hosted
     timeout-minutes: 15
+    permissions:
+      contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     
