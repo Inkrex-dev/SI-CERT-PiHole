@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-10 06:51:58 UTC
+# Updated: 2026-11-11 05:41:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -175,6 +175,7 @@ adminusersettings.xyz
 admsdworft.top
 admspuserverification.drr.ac
 adnetsearch.com
+adnne-e59c95.ingress-florina.ewp.live
 adon.xhn.cl
 ads-microsoflt.pro
 ads-microsoflt.site
@@ -199,7 +200,6 @@ alejandrovelez.pe
 aletaxi.com.pl
 alfaacclal.it
 alfex-sk.com
-aligned-pillar-5.formassembly.app
 allo.redirection.fr-consultancy.co.uk
 almasonrycorp.com
 alphaplusco.com.au
@@ -216,8 +216,6 @@ amringenieria.com.ar
 amuse-arnes5.datazx.com
 amuse-arnes5.distaffllc.com
 amuse-arnes5.morletas.com
-amzgo.20-172-65-119.cpanel.site
-amzgoone.20-172-65-119.cpanel.site
 an-posta.site
 andersonsrubbishremoval.com.au
 anfamoto.org
@@ -226,7 +224,6 @@ animal-eng.info
 ansieng.com
 antichecivilta.it
 antiscreen.com.tr
-anxious-teal-tmpvvb0j.edgeone.dev
 anxutrading.com
 aob.terminmail.de
 api-2l343l49q.securedocumenttransferportalpanel.my
@@ -235,6 +232,7 @@ api-7w73lhskb.jhondoesbest.biz
 api-jic887brd.d0csrsvpnow.digital
 api.spently.com
 apinfinite-design.com
+app.axure.cloud
 app.formester.com
 app.pizzeriavechy.com
 app.smartsuite.com
@@ -245,6 +243,7 @@ appcustominvoic-purccesinsmtssm.line.pm
 apsis.es
 arbitbay.com
 arbiteex.io
+arcadia-home.co.za
 archidata.org
 arena.atlantislinks.com
 arhstroyproect.store
@@ -294,7 +293,9 @@ bafkreifphwlhidxwlki7vsc2gleos7jmh4n42eic5nbkyvbqygmq7ec7ce.ipfs.flk-ipfs.xyz
 bafkreifslnnmmq7twkpgw7wsxjbt3gtv4h7my55o7763xdfkparvmo4lhu.ipfs.dweb.lin
 bafkreig26oac57telhsn52pdseca7fdkwaisehbrqq5bi746quyepw6bzq.ipfs.flk-ipfs.xyz
 bafkreig7mzjiuhaaqpwn4g2hdhug3ubdl36gvepabtnm2eujw3sfilnkhq.ipfs.flk-ipfs.xyz
+bafkreiggvkz3iigfwtwm5e27c4qucrzhuhc4omo4slpjksdgeztea7aa5e.ipfs.cf-ipfs.com
 bafybeib23s2cxhqg4fppva4g6blnxfqikic7grosrttte4mfahy2ao62qq.ipfs.flk-ipfs.xyz
+bafybeidisqvr2ewtx3m33fkbw3q7xgpo3xrnjnng7uvjfjpg6rgsxedbfy.ipfs.cf-ipfs.com
 bafybeif5ijpg552r37ockpurradc6ybjzssv44j453spp2fgv7hcbmwosu.ipfs.web3approved.com
 bain-isp.com
 bainisp-eu.com
@@ -602,7 +603,6 @@ business.help-managecontact.com
 bwfairfieldhotel.com
 byvn.net
 c3646bde3f7.freewebhostmost.com
-c45mrv.s.gy
 c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
 c7kde.sendrixmail.com
 cadaverine.tehillsglobal.com
@@ -653,14 +653,15 @@ cj3EPc52QTPeUvt.ccforaction.com
 ckoya-coiffure.fr
 clbbsdfc.com
 clcr.me
+click.convertkit-mail2.com
 clientlogin.sapconcurrentservices.help
 cliniquerenaissance.ca
 clinsesmt.com
 clippingpathmission.com
 clk.pvnsolutions.com
 cllick.xyz
-cloudflare-ipfs.com
 cloudserver85.com
+clt1667884.benchurl.com
 clubdelllarguet.es
 cnn24silchar.com
 cocic-calc.com
@@ -707,7 +708,7 @@ covveera.com
 coworkingweb.es
 coyx7vfjh8.trustworthyplatform.de
 cpanel.cx
-cpscure.20-172-65-119.cpanel.site
+cpee-e59c95.ingress-haven.ewp.live
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
 cpssaccesspanelhost3810796wyjzxmhl6cxailcj0x21rarrodiscosom.acm-tax.gr
 crepiqome.online
@@ -717,6 +718,7 @@ csa-architecst.com
 csaerst853-ygfaev434.tecchein.cam
 csplm.online
 ct-erg.com
+ctrk.klclick3.com
 cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
 customer-online-agi.equihomeinternational.ch
@@ -797,6 +799,7 @@ direct-new19october.com
 discoverreal.lat
 divemastermergulho.com
 divernastermergulho.com
+diyaccountapi.relateddigital.com
 djc1syp3i78huv1f.grind-pvc.com
 dkalogistics-ca.com
 dkpostfirst.info
@@ -865,7 +868,6 @@ dripl.ink
 drivenotaone215246.fwh.is
 drscoin.net
 dtninsaat.com
-dub.sh
 dz256cz3.de
 dzamarifbobo.org
 dztsmfeoigfsr.wendispiers.net
@@ -875,15 +877,13 @@ e-uprava.gov-si.shop
 e-uprava.govsi.buzz
 e-uprava.govsi.online
 e-uprava.govsi.work
-e-uprrava.eu.cc
 e.vg
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
-e25040c0c305567e12d0a6ee8ea2197e6d74c5c7.s3.eu-central-3.ionoscloud.com
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
 easyqapark.vu
 easyqdpark.cc
-ebfcd45eb5387229066062d444ca0fd438f13979.s3.eu-central-3.ionoscloud.com
+ebook.ecoletra.com
 ecomakesworth.com
 econtdelidhi.cloud
 edavki-si.com
@@ -952,7 +952,6 @@ eurocbd.store
 euroomed.htakao.info
 eusveti.com
 euvarna.com
-eventual-sapphire-rysfymvb.edgeone.dev
 eventveterans.com
 evigbyella.store
 evolvehairsolution.com
@@ -963,7 +962,6 @@ f360f.cfd
 f3ffebb07a07b468c8b70ca836b3ca87.zentrywise.com
 facebook-ads-team-helpr-21x.ubpages.com
 facebook-support.tempisite.com
-facsiolnet26951.liveblog365.com
 faizan.mssoftsites.com
 fam.familiebrauer.com
 famoeser-asbrataramustopgigsdrunk.line.pm
@@ -981,7 +979,6 @@ fedex-si.an29483727477.live
 fedex-si.an83746281.com
 fenixconsultores.com.br
 fernandalagoarquiteta.com.br
-fertylsu84796.ct.ws
 ffnqwxtdwe.alexylalito.pe
 fgnpreq.cc
 fi.2ix.de
@@ -1015,8 +1012,6 @@ flik-slo.live
 fliknovapp.com
 floatsbriefed.org.uk
 flomp.sbs
-fls-a2976864-b9ae-4ea7-b69a-45303c00e609.laravel.cloud
-fls-a2c2c99b-05a8-4ade-bd54-cc75bce92a4c.laravel.cloud
 flverr-verif.info
 flysgo.com
 fore-mining.top
@@ -1081,12 +1076,7 @@ globalassociationleclosdunidusa.anspachcomxcxpanies.vu
 gls-connects.com
 gls-delivery.com
 gls-doins.xyz
-gls-domouc.eu.cc
-gls-domov.us.cc
-gls-domovc.us.cc
 gls-dontcom.vip
-gls-dostava.us.cc
-gls-giiroup.us.cc
 gls-grou.id9491.com
 gls-grouap.pw
 gls-groudp.top
@@ -1138,7 +1128,6 @@ gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
 gls-grrroup.cc
-gls-guoeru.eu.cc
 gls-home.buzz
 gls-home.cyou
 gls-kdju.cfd
@@ -1154,7 +1143,6 @@ gls-si.order-checking.com
 gls-si.order-list.com
 gls-si.sale
 gls-si.top
-gls-skupina.us.cc
 gls-sl.biz
 gls-sl.click
 gls-sl.forum
@@ -1332,8 +1320,6 @@ gls.svoje.info
 gls.takee.run
 gls.vr308282.click
 gls.zgs-rd.info
-glsgmasla.eu.cc
-glsgmssla.eu.cc
 glsgrcouspz.cfd
 glsgrcousvpz.cfd
 glsgroup.mom
@@ -1352,11 +1338,10 @@ glssli.com
 glsslj.com
 glsxsgsca.cam
 gmail.nhyutreorea.com
-gnjsakag.eu.cc
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
+googleweblight.com
 gosell.ro
-goullap25879.liveblog365.com
 gov-cenik.com
 gov-is.govsligovnsi.cyou
 gov-placati.com
@@ -1528,6 +1513,7 @@ hassounlbso.com
 hauldwnza.website
 havcert.com
 havenhomes.ae
+hc.gosdezos.uk
 hdprint.ro
 heinousness923.hylrab.com
 heldesk.newsystemupdatemmannagement.com.googlesaer.com.seacon-pl.com
@@ -1645,7 +1631,6 @@ inkamerch.pe
 inkbm.com
 innovation.becoming-group.com
 inobra.ar
-inparkss.eu.cc
 inproseal.pe
 inseselectronicsecurity.com
 inspirations.es
@@ -1675,7 +1660,6 @@ isb-podjetja.com
 iskanje-informacij.cc
 iskbinotp-eu.com
 islepersonaliseit.co.uk
-isnparksr.eu.cc
 isp-centrala.com
 isp-finance.com
 isp-financni.com
@@ -1810,6 +1794,7 @@ lewisburgneighborhoods.org
 lgrouptg.com
 lightningbull.com
 link.enormail.eu
+link.sbstck.com
 link3p.org
 linkm-si.com
 linkmgb.com
@@ -1868,7 +1853,6 @@ mail.bot-radio.com
 mail14.vumar.top
 mail15.jupitar.online
 mail88.exempler.top
-mailbox-settings-update.s3.eu-central-3.ionoscloud.com
 mailbox.njmssx.com
 mailwebmails.com
 main.academy-of-budo-arts.de
@@ -1910,6 +1894,7 @@ mdejq4mh.dreamwp.com
 mdtile.ca
 mdw-flamingo.de
 me-nlb-banka.com
+media-mail.com
 mejoutai.builders
 mellavi.cl
 memberntfx.com
@@ -1919,11 +1904,11 @@ merchant.form21476.shop
 messages.experts.vu
 meta-business-help-center-case-100000365258956.on-fleek.app
 meta-instagram-supportcenter.cfd
-metahelpdesk20.bolt.host
 metalsb.com.br
 metiopniqueskuitr471.com
 metspa.cam
 mexolix.icu
+mf.pistoneze.info
 mfa-access-bh3nj33g.bodoques.com
 mffunilariaepintura.com
 mhl6cxailcj0x2rarogruc2j1cmdhcm1hawxlci5jb20vdwq4zwlqzm.acm-tax.gr
@@ -1942,7 +1927,6 @@ minerex.site
 mitiid.com
 mittelco.art
 mixaeronautics.com
-mjgemy.s.gy
 mkbm365.com
 mklik-nlb-rs.info
 mobilenlbid.com
@@ -2018,7 +2002,6 @@ my-files-directory.dongho17.com
 my-ledger-recovery.com
 my-ledger-restore.com
 my-offer.top
-my.myrdi.nz.klfl.abrdns.com
 my5f3d1973-a2hosting-com.carloscornejoart.com
 my92b8bf88-a2hosting-com.tidalboreinn.com
 mydomain-secure.com
@@ -2026,7 +2009,6 @@ mydublinguide.com
 myebay.digital
 myemail.skydynamics.com
 myengie.ro-energiecompensata.icu
-myfire.us.cc
 mygls-order.si
 mypost.mmkbk.online
 mysi.live
@@ -2061,7 +2043,6 @@ newglobal.cl
 newnoticesett.drr.ac
 newpassettings.drr.ac
 news.only-1-led.com
-newsiolenta874596.liveblog365.com
 nexavo.store
 nexus-hal.com
 nguoivietkharkov.com
@@ -2133,6 +2114,7 @@ nlbltd.rhinoservicesllcsa.com
 nlbmklik.co
 nlbmobiles.com
 nlbmobilev.com
+nlbnlbklik-office.servemp3.com
 nlbpairhelper.com
 nlbpay-si.enh.life
 nlbsi-pay.com
@@ -2192,7 +2174,7 @@ odhikfskjrjkndpkundbms-hdsgmdnknsdn.edgeone.app
 odindrive.info
 odjemalec.arnes.streznik.test119949.test-account.com
 odwarsolutions.com
-off365acess.jumpingcrab.com
+office0365login.2waky.com
 officeprocleaningcocom-bb1e7ce8ad4685a.fwtrack.com
 offshorekesuma.com
 oilforosh.com
@@ -2208,9 +2190,12 @@ online.computation1.click
 online.otpbankaid.digital
 online.settings.world
 online.sustains.world
+online_srevice-alexdamayok569043.codeanyapp.com
+onlinedashboard-securedlognow.codeanyapp.com
 onlines-otp.mojawebka.eu
 onyxhealthplus.com
 oo2w7buimfxzsiiqxosei5gjiux4k4c2qwutebaiastbhhvretjq.0x0.io.vn
+open.convertkit-mail2.com
 openai-chatgpt.tennispoint.es
 openai-onlinecfg.dafleek.com
 openai-onlinekhw.dafleek.com
@@ -2218,6 +2203,7 @@ openai-onlineqat.rvmobltech.com
 openai.secureiazone.sbs
 openchswechai.sviluppo.host
 oplevxperten.one
+opneswechai.sviluppo.host
 optba.com
 optbnk1.com
 optin.pemln.net
@@ -2529,6 +2515,7 @@ postasial.cc
 postasii-zasebno.top
 postasii.top
 postasiiii.com
+postaslovani.blogspot.si
 postaslovenias.click
 postaslovenias.xyz
 postaslovenija.icu
@@ -2678,6 +2665,7 @@ rentalreviewg274924-d12637212.72936201.com
 reservation.hotels-wmm.com
 reserve.3qnlfz.com
 reserve.lpjn917.com
+resistec-upr-doo-co-kd-vnjx.dovetail.com
 resistecupr.trenix.nl
 respwfulus.online
 resvalidedelivery.de
@@ -2699,6 +2687,7 @@ rooms-stayhub209.com
 roundcube-support.vitaminopro-uz.com
 roundcubepanelowa-email.com
 roundgin.com
+royanadolnavortase-e38aa4.ingress-baronn.ewp.live
 rs-ba-mklik.com
 rs-nlb.online
 rvda.es
@@ -2731,7 +2720,6 @@ sbche.com
 schaden.rother-bremen.de
 schema-core.cloud
 schoolportalandbenefit.top
-schoolradleysnursings.edgeone.dev
 scintillating.vip
 scorp251.net
 seaborn-no.com
@@ -2741,7 +2729,6 @@ securedocumenttransferportalpanel.my
 securewebmail.info
 security.schwab4.sbs
 segurytel.com.pe
-sekontektiolp.liveblog365.com
 senged.com
 seriesandtv.com
 serv-ntflix.com
@@ -2752,17 +2739,17 @@ server.crisanalitica.com
 server.ronrol.com
 server.www.portload.aljazeera.ecoextracta.com
 serverxs4all.com
+service-secured-caitlinaloisio91163387.codeanyapp.com
 service.oden-tool.com
 service2w2n8428update-nlb.hier-im-netz.de
 serviceportal-1qmrqsnkt0.edgeone.app
+servico-secured2-caitlinaloisio91163387.codeanyapp.com
 servidorsaj.com.br
 servnetflix.com
 servwebintlaccmaudwabdus.sabdabsjajaskn10.biz.id
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
 shaanvimedia.com
-share.google
 sharemyhtml.com
-shnfds.eu.cc
 shop.naturacenter.es
 shopclothes.vip
 shoperify.check5862.sbs
@@ -2790,10 +2777,6 @@ si.verifierle-badge-bleu.sbs
 siapcuan.my.id
 sichernauthkraft.de
 simpecon.com
-siolee5487f.liveblog365.com
-siolenet254879.liveblog365.com
-sioll.liveblog365.com
-siollnet.liveblog365.com
 siotp1skb.com
 siotpinskb.com
 sipost-my-home.top
@@ -2825,7 +2808,6 @@ skhealer.com
 skierife.com
 skskb.com
 skyblare.com
-sl-posta.us.cc
 sl.gls-gronuvop.sbs
 sl.gls-grounp.cam
 sl.gls-grouvp.cam
@@ -2869,6 +2851,7 @@ sp-track.dbdoc.org
 sparkassa-sl.com
 sparkasse-mstik.doctorinyourpocket.co.za
 sparkasse-mstik.educlip.pe
+spc-eg.emlnk.com
 specialtyfitnesequipment.com
 speck-tripiex.de
 spk-lj.com
@@ -2883,7 +2866,6 @@ spstik.com
 sqkqyj.cswd.org
 src-07824.gonzalezdistribuidora.com
 srv.geraldaschonewille.nl
-srv75466.seohost.com.pl
 ssa-stmt-us.de
 sshhknt.conohawing.com
 stackby.com
@@ -2913,7 +2895,6 @@ sttyuio.store
 studioclittarru.it
 studioibc.cfd
 sub.alfastreet.in
-sub.vrfyupdate.eu.cc
 submit-form.com
 submitcaptcha.com
 subscription.ambientnz.com
@@ -2956,7 +2937,6 @@ techbazaronline.co.uk
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
-telcaomsl.liveblog365.com
 telekom-si.click
 telekom-si.com
 telekom-si.help
@@ -2988,14 +2968,12 @@ therose-chicago.org
 thesleekmart.com
 thistimeway.co
 ti-usr1-cp.cuc-carrera-ti.ac.cr
-time-raw.free.nf
 timebreak.admiration.digital
 timebreak.carinehutsebaut.com
 timebreak.stcharlesmotors.com
 timocomblog.com
 tinycut.link
 tinyurl.ph
-tired-ivory-suyktkhv.edgeone.dev
 tls.idealdxb.ae
 tls.tc
 tlsn.io
@@ -3008,7 +2986,6 @@ toolsotenet.com
 toraxx.de
 torphy.scorp251.net
 towncentres.co.nz
-toyp.eu.cc
 toysforkids.zone
 track-my-ups-parcel.com
 trackcloud.xyz
@@ -3030,7 +3007,6 @@ tumurlly.com
 tunelesdecalortermoencogibles.net.pe
 tunet.com.ng
 tvdyoz5nn774r0vq.blindfind.de
-txrizivselfserv.be.hllill.abrdns.com
 uae-post-uae-service-post.framer.wiki
 uiomoakij.gooddonkey.org
 uipath-in.com
@@ -3190,10 +3166,12 @@ winhotels.jooyiopai.enterprises
 wintheiser.stjohnsbloxwich.org.uk
 wixes.life
 wixx-665b6ce4317e3.spiggly.co.uk
+wiz-nethelpteamt960430.codeanyapp.com
 wj.edrfgud.com
 wjd206eko.hier-im-netz.de
 wjsco.ir
 wooclwkhop.online
+wordpress-purple-animal-carlossjose71590119.codeanyapp.com
 worksheet-projectdocuments-mc3lt.mariner-it.com
 worpcknnel.cfd
 woundsunwrapped.com
@@ -3232,6 +3210,7 @@ www.digitalcrossways.com
 www.dinalislam.com.bn
 www.downloadnationalrecommenddevice.autos
 www.effective-program-national-free.autos
+www.electronicshub.org
 www.ellencookephotography.com
 www.eloterjja.si
 www.eniclic.com
@@ -3254,6 +3233,7 @@ www.hsicon2024.com
 www.inside-italy.com
 www.integratedcancercare.ca
 www.iperbricasa.it
+www.isp24si.com
 www.jqwjg69.com
 www.kcmvalve.com
 www.kingpower.com
@@ -3343,6 +3323,7 @@ yablor.ru
 yar-lider.ru
 yellowcloverconsulting.co.za
 yelsed.nl
+yfzffabizg.schaltech.eu
 yourcardlegend.com
 yousufmandhro.com
 ys1.barywhents.ru
