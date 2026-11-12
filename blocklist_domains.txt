@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-11 05:41:09 UTC
+# Updated: 2026-11-12 06:47:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -401,6 +401,7 @@ bolha.brez-skrbi.cfd
 bolha.brez-skrbi.co
 bolha.brez-skrbi.com
 bolha.brez-skrbi.sbs
+bolha.brez-skrbi.space
 bolha.brez.skbri.com
 bolha.brezskby.top
 bolha.brezskrb.ink
@@ -427,6 +428,7 @@ bolha.brzskrb.top
 bolha.brzskrb.vip
 bolha.brzskrbi.ink
 bolha.brzskrbi.top
+bolha.brzskrbpay.vip
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.delivery-link7267.icu
@@ -550,6 +552,7 @@ bolha.sellgoods2.com
 bolha.slo-group.com
 bolha.slo49510.com
 bolha.slov-si.help
+bolha.trustaio.buzz
 bolha.verifcardeu.com
 bolha.verifcc.com
 bolha.verifeu.com
@@ -1124,6 +1127,7 @@ gls-groupsir.cyou
 gls-groupuc.cyou
 gls-groupur.cyou
 gls-groupuz.cyou
+gls-groupwz.cyou
 gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
@@ -2592,6 +2596,7 @@ prometnigov.com
 proposaldocsfilesdev.xyz
 proppart.com
 prorsum.pro
+pros-arnes.newimage-bg.com
 proskbeu.com
 prostik-varno.com
 protection.standard.us-east-1.oortstorages.com
@@ -3317,6 +3322,7 @@ xmhczs.com
 xtindb.org
 xuifrbycrzagi.gooddonkey.org
 xumeryn.cfd
+xvtrek.shop
 xwic.net
 xzecpjf.callligaris.com
 yablor.ru
