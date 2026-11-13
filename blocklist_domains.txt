@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-12 06:47:36 UTC
+# Updated: 2026-11-13 06:03:26 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -400,6 +400,7 @@ bolha.brez-skrbi.cc
 bolha.brez-skrbi.cfd
 bolha.brez-skrbi.co
 bolha.brez-skrbi.com
+bolha.brez-skrbi.cyou
 bolha.brez-skrbi.sbs
 bolha.brez-skrbi.space
 bolha.brez.skbri.com
@@ -436,6 +437,7 @@ bolha.dostava-link-info.sbs
 bolha.dostava-potrditev1.click
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.hqxxi.com
 bolha.hr-order92782.site
 bolha.id12518901.info
 bolha.id41082302.info
@@ -1345,6 +1347,7 @@ gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
 googleweblight.com
+gorenjskasvetilnik.pro
 gosell.ro
 gov-cenik.com
 gov-is.govsligovnsi.cyou
@@ -2163,6 +2166,7 @@ novaslovenia.com
 novaslovninanlb.alternativasatzin.com.mx
 novasokaslovenia.com
 novyritm.su
+npfv.net
 nt8-gg.info
 numerodefacilmemorizacao.com.br
 nvoapezoapea.com
@@ -2188,6 +2192,7 @@ oncywellan.com
 one.grisafearchitecture.com
 one340-2026.click
 online-customer-service.gs-schmidt.de
+online-pdf-doc-9374937493893.supportcenter4you.top
 online.characteristics.today
 online.computation.shop
 online.computation1.click
@@ -2327,6 +2332,7 @@ phv-si.net
 phv-sl.com
 phvsi.com
 pi052e.com
+pilojuniestodoc.top
 pinchinchaalecodora.com
 pioneerselectricals.ae
 piosst.top
