@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-14 05:51:52 UTC
+# Updated: 2026-11-16 13:10:24 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -304,6 +304,7 @@ balausa-partner.kz
 balletpraha.art
 bamboomarkt.com
 banka-otp.live
+banka-si.help
 banka.netotp-app.net
 bankanet-otp.cfd
 bankanet-otpbanka-si-prijava.i-iill.de
@@ -1086,6 +1087,7 @@ gls-dontcom.vip
 gls-grou.id9491.com
 gls-grouap.pw
 gls-groudp.top
+gls-grouep.icu
 gls-groufp.top
 gls-groui.cfd
 gls-grounp.bond
@@ -1755,6 +1757,7 @@ koercv.cc
 koherense.com
 komunikacijastoritev-arnes.test119973.test-account.com
 kozolecnews.org
+kraszvon.info
 ksrxgo.ticknstacked.com
 ktexim.pro
 kucoin.si
@@ -2058,6 +2061,7 @@ nguoivietkharkov.com
 nhswj.net
 nib-bh.click
 nib-kliksi.com
+nib2026.com
 nietclix.tkburgers.com
 nievolaengenharia.com.br
 nika.ai.flowjam.studio
