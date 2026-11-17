@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-16 13:10:24 UTC
+# Updated: 2026-11-17 07:29:29 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -177,6 +177,7 @@ admspuserverification.drr.ac
 adnetsearch.com
 adnne-e59c95.ingress-florina.ewp.live
 adon.xhn.cl
+adriatrades.com
 ads-microsoflt.pro
 ads-microsoflt.site
 ads-support-manager.art
@@ -422,6 +423,7 @@ bolha.brezskrbi.trade
 bolha.brezskrbii.top
 bolha.brezskrby.pro
 bolha.brezsrbi.top
+bolha.brz-skrb.vip
 bolha.brzeskbi.top
 bolha.brzskb.top
 bolha.brzskb.world
@@ -667,6 +669,7 @@ clinsesmt.com
 clippingpathmission.com
 clk.pvnsolutions.com
 cllick.xyz
+clndocs.space
 cloudserver85.com
 clt1667884.benchurl.com
 clubdelllarguet.es
@@ -1084,6 +1087,7 @@ gls-connects.com
 gls-delivery.com
 gls-doins.xyz
 gls-dontcom.vip
+gls-grosi.cc
 gls-grou.id9491.com
 gls-grouap.pw
 gls-groudp.top
@@ -1128,7 +1132,9 @@ gls-groupq.cfd
 gls-groupr.cfd
 gls-groupsi.cfd
 gls-groupsic.cyou
+gls-groupsii.cc
 gls-groupsii.cyou
+gls-groupsij.cyou
 gls-groupsir.cyou
 gls-groupuc.cyou
 gls-groupur.cyou
@@ -1137,7 +1143,9 @@ gls-groupwz.cyou
 gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
+gls-grrosi.cc
 gls-grrroup.cc
+gls-grsioup.cc
 gls-home.buzz
 gls-home.cyou
 gls-kdju.cfd
@@ -2958,6 +2966,7 @@ telekom-si.com
 telekom-si.help
 telekom-si.live
 telekom-si.my
+telekom-si.onl
 telekom-slo.help
 telekom-slo.live
 telekom.hyrje.co
@@ -3320,6 +3329,7 @@ x-express.bih-dostawka.sbs
 x-express.bihnadruzba.click
 x-express.dostava-order.me
 x-express.help
+x-express.live
 xamurmagazine.com
 xcervulaerum.azizidevalopments.com
 xevona.us
