@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-17 07:29:29 UTC
+# Updated: 2026-11-18 06:53:38 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -306,6 +306,7 @@ balletpraha.art
 bamboomarkt.com
 banka-otp.live
 banka-si.help
+banka-slo.live
 banka.netotp-app.net
 bankanet-otp.cfd
 bankanet-otpbanka-si-prijava.i-iill.de
@@ -1087,6 +1088,9 @@ gls-connects.com
 gls-delivery.com
 gls-doins.xyz
 gls-dontcom.vip
+gls-grad.cc
+gls-graf.cc
+gls-gras.cc
 gls-grosi.cc
 gls-grou.id9491.com
 gls-grouap.pw
@@ -1135,6 +1139,7 @@ gls-groupsic.cyou
 gls-groupsii.cc
 gls-groupsii.cyou
 gls-groupsij.cyou
+gls-groupsim.cc
 gls-groupsir.cyou
 gls-groupuc.cyou
 gls-groupur.cyou
@@ -1341,6 +1346,7 @@ gls.zgs-rd.info
 glsgrcouspz.cfd
 glsgrcousvpz.cfd
 glsgroup.mom
+glsgroups.mom
 glsgroupsj.top
 glsgroupso.sbs
 glsgrp.app
@@ -1713,6 +1719,7 @@ johnlucas.top
 joycity.in
 jpmorgan.iceiy.com
 jsfacadesolutions.com.au
+jsjip.com
 june10.standard.us-east-1.oortech.com
 junglegeri.com
 jusdhwuns.online
