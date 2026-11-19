@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-18 06:53:38 UTC
+# Updated: 2026-11-19 06:54:25 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -154,6 +154,7 @@ accounts-hetzner.stretchshopmen.nl
 accounts-hetzner.wolfmystical.com
 accounts.efficencient.digital
 accountsworspace78jh76r.co
+accoware.com
 acitybet.com.pe
 activation2fa.ru
 actual-travel.biz
@@ -186,6 +187,7 @@ advertisingcommunitystandards.com
 aeronacraft.com
 af13fefef0.flexi.ge
 afrahalkhleej.com
+agrimed.farm
 ai-coinetf.com
 aimartgroup.com
 airioomaruhotel.christmas
@@ -442,6 +444,7 @@ bolha.dostava-link-info.sbs
 bolha.dostava-potrditev1.click
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.hbsjyfsp.com
 bolha.hqxxi.com
 bolha.hr-order92782.site
 bolha.id12518901.info
@@ -1088,9 +1091,15 @@ gls-connects.com
 gls-delivery.com
 gls-doins.xyz
 gls-dontcom.vip
+gls-gosip.cc
+gls-goupisis.cc
+gls-goxxdup.cc
+gls-gpsi.cc
+gls-gr.cc
 gls-grad.cc
 gls-graf.cc
 gls-gras.cc
+gls-groeanp.icu
 gls-grosi.cc
 gls-grou.id9491.com
 gls-grouap.pw
@@ -1148,6 +1157,7 @@ gls-groupwz.cyou
 gls-grouq.cfd
 gls-grouv.cfd
 gls-grouz.cfd
+gls-grovnp.icu
 gls-grrosi.cc
 gls-grrroup.cc
 gls-grsioup.cc
@@ -1291,6 +1301,7 @@ gls.order86199.live
 gls.order918325.biz
 gls.order92225.live
 gls.page231445.cfd
+gls.pakets.cam
 gls.potvrdanarudzbe299.click
 gls.prejemdenarja0.icu
 gls.receive-funds.sbs
@@ -1483,7 +1494,6 @@ guweb.info
 gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
 gyhiklmmm.mdmainx.cfd
 gyweb.info
-gzjls.edgeone.app
 h1.nu
 h2roilqas.com
 h6.oxbzat4.club
@@ -1542,7 +1552,6 @@ hc.gosdezos.uk
 hdprint.ro
 heinousness923.hylrab.com
 heldesk.newsystemupdatemmannagement.com.googlesaer.com.seacon-pl.com
-heliaodathyopticsmills.edgeone.app
 help-centersacoount.com
 help.supproosst.tokyo
 help.supprrosrstt.tokyo
@@ -2199,7 +2208,6 @@ obnovitev-si.com
 obracun-stroskov.cc
 oclassificador.com.br
 odfvsfds.de
-odhikfskjrjkndpkundbms-hdsgmdnknsdn.edgeone.app
 odindrive.info
 odjemalec.arnes.streznik.test119949.test-account.com
 odwarsolutions.com
@@ -2237,7 +2245,6 @@ opneswechai.sviluppo.host
 optba.com
 optbnk1.com
 optin.pemln.net
-opweqryqajsgsgjdnzbxhdipkl.edgeone.app
 oqjyl9xnnt.sxzhhyznzb.com
 oramco.pk
 orcinuytr.store
@@ -2773,7 +2780,6 @@ serverxs4all.com
 service-secured-caitlinaloisio91163387.codeanyapp.com
 service.oden-tool.com
 service2w2n8428update-nlb.hier-im-netz.de
-serviceportal-1qmrqsnkt0.edgeone.app
 servico-secured2-caitlinaloisio91163387.codeanyapp.com
 servidorsaj.com.br
 servnetflix.com
@@ -3167,6 +3173,8 @@ webmail-autho.shawyf.com
 webmail-autho.vajueji.com
 webmail-autho.wxzlyj.com
 webmail-autho.zjwztape.com
+webmail-authptyp.accipiterrada.com
+webmail-authpy.stratsasys.com
 webmail-login.authsmxserver.dev
 webmail-mailsystem-staffmail-credentialupdate.mdbgo.io
 webmail-oauth.coachcurt.com
