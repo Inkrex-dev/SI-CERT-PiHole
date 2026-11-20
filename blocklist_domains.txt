@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-19 06:54:25 UTC
+# Updated: 2026-11-20 06:45:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -47,6 +47,7 @@
 24c9d.cfd
 286283476351272kymsmyqkkopm.feedsforgrowth.xyz
 2aweb.info
+2b9f9a00.klankman.eu
 2f.pannel-score.in
 2fametamask.live
 2fasecurelink.com
@@ -149,6 +150,7 @@ accouint-rakiuten-jp.com
 account-security.fwh.is
 account.concepts.vu
 account.credentials.world
+account.mailwaller.com
 account.supports.vu
 accounts-hetzner.stretchshopmen.nl
 accounts-hetzner.wolfmystical.com
@@ -800,6 +802,7 @@ dhldel.xyz
 dhranilica.com
 dicex7.com
 did.li
+diecqatar.com
 digckwlux.online
 digiart.ro
 digimatt.co.ke
@@ -908,6 +911,7 @@ edwardtumwine.com
 eej.at
 eeq07.icu
 eilativ.com
+ejb4f2dynr.acide-boswellique.com
 ejcheb.cswd.org
 ekbm365.com
 elandonlinestore.com
@@ -1092,7 +1096,11 @@ gls-delivery.com
 gls-doins.xyz
 gls-dontcom.vip
 gls-gosip.cc
+gls-goueateip.cc
+gls-goueriup.cc
+gls-gouorup.cc
 gls-goupisis.cc
+gls-goupisxis.cc
 gls-goxxdup.cc
 gls-gpsi.cc
 gls-gr.cc
@@ -1630,6 +1638,7 @@ icpgovfddg.online
 icr24.support
 id21776.site
 id4828149ef88aa.knittingpals.org
+id8164.com
 idaaaa013.me
 ideiapropaganda.com.br
 idoxsoft.com
@@ -2371,6 +2380,7 @@ placilni-kanal.com
 placilo-posta.com
 placilo-stroskov.cc
 planahurtos.de
+play-koksports.com
 plotcove.com
 plu.sh
 pmsistemi.eu
@@ -2821,6 +2831,7 @@ siskb1otp.com
 siskbinotp.com
 siskbinotp.net
 site-25d155360fde.mypreview.site
+site-novembr18.com
 six5studio.online
 sjeecold.ddns.cam
 sk-b-1.net
@@ -3044,6 +3055,7 @@ tt.vg
 tumurlly.com
 tunelesdecalortermoencogibles.net.pe
 tunet.com.ng
+turnmaps.com
 tvdyoz5nn774r0vq.blindfind.de
 uae-post-uae-service-post.framer.wiki
 uiomoakij.gooddonkey.org
