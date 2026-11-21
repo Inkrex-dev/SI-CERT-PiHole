@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-20 06:45:09 UTC
+# Updated: 2026-11-21 06:38:51 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -25,6 +25,7 @@
 1361993889.anysolutions.com.br
 13bweb.info
 141.98.10.21
+146a3.clatex.at
 148.135.10.58
 1482821376.impactomineracao.com.br
 15811453bd61727b27d2e405388ff002.autodromomodena.com
@@ -178,7 +179,6 @@ adminusersettings.xyz
 admsdworft.top
 admspuserverification.drr.ac
 adnetsearch.com
-adnne-e59c95.ingress-florina.ewp.live
 adon.xhn.cl
 adriatrades.com
 ads-microsoflt.pro
@@ -409,6 +409,7 @@ bolha.brez-skrbi.cfd
 bolha.brez-skrbi.co
 bolha.brez-skrbi.com
 bolha.brez-skrbi.cyou
+bolha.brez-skrbi.online
 bolha.brez-skrbi.sbs
 bolha.brez-skrbi.space
 bolha.brez.skbri.com
@@ -428,7 +429,9 @@ bolha.brezskrbi.trade
 bolha.brezskrbii.top
 bolha.brezskrby.pro
 bolha.brezsrbi.top
+bolha.brz-skrb.top
 bolha.brz-skrb.vip
+bolha.brz-skrbi.vip
 bolha.brzeskbi.top
 bolha.brzskb.top
 bolha.brzskb.world
@@ -560,6 +563,7 @@ bolha.receivsfund.com
 bolha.receviedr.com
 bolha.recivefund.com
 bolha.recpay.top
+bolha.rest
 bolha.sellgoods2.com
 bolha.slo-group.com
 bolha.slo49510.com
@@ -724,7 +728,6 @@ covveera.com
 coworkingweb.es
 coyx7vfjh8.trustworthyplatform.de
 cpanel.cx
-cpee-e59c95.ingress-haven.ewp.live
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
 cpssaccesspanelhost3810796wyjzxmhl6cxailcj0x21rarrodiscosom.acm-tax.gr
 crepiqome.online
@@ -1135,6 +1138,7 @@ gls-group.98295.live
 gls-group.983268.com
 gls-group.99978.shop
 gls-group.bih-delivery.live
+gls-group.bolha.rest
 gls-group.cyou
 gls-group.gls-grupservice.com
 gls-group.id18917.info
@@ -1358,6 +1362,7 @@ gls.slov.world
 gls.slovenija-group.com
 gls.slovenija-group.info
 gls.slovenija.sbs
+gls.slovenije.cam
 gls.svoje.info
 gls.takee.run
 gls.vr308282.click
@@ -1679,6 +1684,7 @@ inseselectronicsecurity.com
 inspirations.es
 instantgiftz.com
 institutosursumcorda.com.br
+int-skupina.com
 integrallife.it
 interactive-security.com
 interactivebrokers-home.com
@@ -2735,7 +2741,6 @@ rooms-stayhub209.com
 roundcube-support.vitaminopro-uz.com
 roundcubepanelowa-email.com
 roundgin.com
-royanadolnavortase-e38aa4.ingress-baronn.ewp.live
 rs-ba-mklik.com
 rs-nlb.online
 rvda.es
