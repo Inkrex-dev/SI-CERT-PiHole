@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-21 06:38:51 UTC
+# Updated: 2026-11-22 06:06:53 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1101,6 +1101,7 @@ gls-dontcom.vip
 gls-gosip.cc
 gls-goueateip.cc
 gls-goueriup.cc
+gls-gouisisp.cc
 gls-gouorup.cc
 gls-goupisis.cc
 gls-goupisxis.cc
@@ -1980,6 +1981,7 @@ mittelco.art
 mixaeronautics.com
 mkbm365.com
 mklik-nlb-rs.info
+mlcrosoft.si
 mobilenlbid.com
 mobilenlbsid.com
 mobilenlbsida.com
@@ -2091,6 +2093,7 @@ netotpinskb.net
 netskbinotp.com
 neva.solutions
 newglobal.cl
+newglsgroup.top
 newnoticesett.drr.ac
 newpassettings.drr.ac
 news.only-1-led.com
