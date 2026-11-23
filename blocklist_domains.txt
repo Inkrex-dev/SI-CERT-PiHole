@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-22 06:06:53 UTC
+# Updated: 2026-11-23 06:59:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -595,6 +595,7 @@ bookingrm.guestconsole.com
 bookingrm.stayinfodesk.com
 booklng.conflrmation-ld654883.com
 bootcamp.ausbiz.me
+borla-it.lat
 bottegadelfuoco.live
 bounce.pivobu.pro
 box-glsgroup.top
@@ -809,6 +810,7 @@ diecqatar.com
 digckwlux.online
 digiart.ro
 digimatt.co.ke
+digitalcenter.to
 dik.si
 dikmentekstil.com
 dinabloom.com
@@ -1108,6 +1110,7 @@ gls-goupisxis.cc
 gls-goxxdup.cc
 gls-gpsi.cc
 gls-gr.cc
+gls-grac.cc
 gls-grad.cc
 gls-graf.cc
 gls-gras.cc
@@ -1168,6 +1171,7 @@ gls-groupur.cyou
 gls-groupuz.cyou
 gls-groupwz.cyou
 gls-grouq.cfd
+gls-grousipp.cc
 gls-grouv.cfd
 gls-grouz.cfd
 gls-grovnp.icu
@@ -1873,6 +1877,7 @@ login.biyogekanotogenkyo.info
 login.bluevalleyiabs.com
 login.caner.info
 login.casino-top10.org
+login.configure-apple.com
 login.immeostudio.com
 login.kggpho.icu
 login.onedriveforbusinesses.org
