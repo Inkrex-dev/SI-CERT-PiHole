@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-23 06:59:06 UTC
+# Updated: 2026-11-24 09:25:25 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1130,6 +1130,7 @@ gls-group.22522.website
 gls-group.389154.com
 gls-group.389159.com
 gls-group.421021.info
+gls-group.485729934.cfd
 gls-group.491021.si
 gls-group.55655.click
 gls-group.82194.shop
@@ -1664,6 +1665,7 @@ imbitay.pe
 img2.leadong-edm.com
 importadoralobos.com
 imsagentes.pe
+in-podjetje.com
 inaequo.es
 indosoft.dk
 infinitycast.in
@@ -2405,6 +2407,7 @@ podjetje-doo.com
 podjetje-si.com
 podkastrsuite.com
 podologoenbenavente.com
+pohorjezarja.pro
 pointonecorp.gapinc.sbs
 pollich.meikomail.com
 polskawatrchingfilms.com
@@ -2667,6 +2670,7 @@ pub-ac68e5ertdtfemm-jp.gs
 pub-gtx234ty57t7ygty8g66fgh756758h7h-com.li
 pugetsoundaikikai.org
 pull.gaistaicrai.digital
+purchasing.cu.ma
 purexwror.us
 pwallsolutions.co.za
 pwoktuntmt.megamanprohu.com
@@ -3144,6 +3148,7 @@ viewproportaltr.sbs
 vinaapaco.com
 viplanet.com.br
 virs.grupoalanared.com
+viscachani.cl
 vishwagrafoundation.org
 vizcachagames.com
 vizyonbilgiislem.com
