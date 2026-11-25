@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-24 09:25:25 UTC
+# Updated: 2026-11-25 07:57:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -250,6 +250,7 @@ arbitbay.com
 arbiteex.io
 arcadia-home.co.za
 archidata.org
+archipectrum.com
 arena.atlantislinks.com
 arhstroyproect.store
 ariani.es
@@ -1721,6 +1722,7 @@ isp-finance.com
 isp-financni.com
 isp-in.com
 isp-lj.com
+isp-po.com
 isp-sedez.net
 ispuprava.com
 isshin.jp
