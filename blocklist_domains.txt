@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-25 07:57:12 UTC
+# Updated: 2026-11-26 07:48:53 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -55,6 +55,7 @@
 2h.ae
 2k7ow2ffo8e7u2cn.autoteile-andreasrixner.info
 2rntw.bemobpath.com
+2u.pw
 2xpronet.com
 2xskb.com
 3.86.42.232
@@ -411,6 +412,7 @@ bolha.brez-skrbi.co
 bolha.brez-skrbi.com
 bolha.brez-skrbi.cyou
 bolha.brez-skrbi.online
+bolha.brez-skrbi.rest
 bolha.brez-skrbi.sbs
 bolha.brez-skrbi.space
 bolha.brez.skbri.com
@@ -791,6 +793,7 @@ despachosoto.com
 deutscheshaus.ro
 devsitebrt.brtloja.com.br
 dexmetal.hu
+dexpress-onlinedostava.help
 dgpj.cv
 dgvglc.quantibright.com
 dh-1.net
@@ -1104,6 +1107,7 @@ gls-dontcom.vip
 gls-gosip.cc
 gls-goueateip.cc
 gls-goueriup.cc
+gls-gouieup.cc
 gls-gouisisp.cc
 gls-gouorup.cc
 gls-goupisis.cc
@@ -1130,6 +1134,7 @@ gls-group.098731.si
 gls-group.22522.website
 gls-group.389154.com
 gls-group.389159.com
+gls-group.4093039.info
 gls-group.421021.info
 gls-group.485729934.cfd
 gls-group.491021.si
@@ -1514,6 +1519,7 @@ guweb.info
 gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
 gyhiklmmm.mdmainx.cfd
 gyweb.info
+gzjls.edgeone.app
 h1.nu
 h2roilqas.com
 h6.oxbzat4.club
@@ -1572,6 +1578,7 @@ hc.gosdezos.uk
 hdprint.ro
 heinousness923.hylrab.com
 heldesk.newsystemupdatemmannagement.com.googlesaer.com.seacon-pl.com
+heliaodathyopticsmills.edgeone.app
 help-centersacoount.com
 help.supproosst.tokyo
 help.supprrosrstt.tokyo
@@ -2235,6 +2242,7 @@ obnovitev-si.com
 obracun-stroskov.cc
 oclassificador.com.br
 odfvsfds.de
+odhikfskjrjkndpkundbms-hdsgmdnknsdn.edgeone.app
 odindrive.info
 odjemalec.arnes.streznik.test119949.test-account.com
 odwarsolutions.com
@@ -2272,6 +2280,7 @@ opneswechai.sviluppo.host
 optba.com
 optbnk1.com
 optin.pemln.net
+opweqryqajsgsgjdnzbxhdipkl.edgeone.app
 oqjyl9xnnt.sxzhhyznzb.com
 oramco.pk
 orcinuytr.store
@@ -2809,6 +2818,7 @@ serverxs4all.com
 service-secured-caitlinaloisio91163387.codeanyapp.com
 service.oden-tool.com
 service2w2n8428update-nlb.hier-im-netz.de
+serviceportal-1qmrqsnkt0.edgeone.app
 servico-secured2-caitlinaloisio91163387.codeanyapp.com
 servidorsaj.com.br
 servnetflix.com
