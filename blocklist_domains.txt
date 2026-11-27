@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-26 07:48:53 UTC
+# Updated: 2026-11-27 07:48:42 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -268,6 +268,7 @@ asw.woukechou.cfd
 atexmarkets.com
 atlanticityplay.com.pe
 atplink.com
+attorneysandsolicitors.com
 audimedsaude.com.br
 autemtax.com
 auth.creatormonetizationsupportgroup.click
@@ -346,6 +347,7 @@ bikegoed.nl
 billingfailed.digital
 billingsmanager.buffalocuboidzx10g.com
 bin-si.com
+bintesa-go.com
 bisnmsx.com
 bit-si.lat
 bitbox.firmwares.life
@@ -452,6 +454,7 @@ bolha.dostava-link-info.sbs
 bolha.dostava-potrditev1.click
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.hbcgzq.com
 bolha.hbsjyfsp.com
 bolha.hqxxi.com
 bolha.hr-order92782.site
@@ -487,6 +490,7 @@ bolha.id918278.info
 bolha.id93034154.info
 bolha.id93571.info
 bolha.id94589233.shop
+bolha.mm6119.com
 bolha.money-receive2.shop
 bolha.mystatus.shop
 bolha.n000w-pay.icu
@@ -897,6 +901,7 @@ dtninsaat.com
 dz256cz3.de
 dzamarifbobo.org
 dztsmfeoigfsr.wendispiers.net
+e-savedata.cc
 e-uprava-gov.si
 e-uprava.gov-si.icu
 e-uprava.gov-si.shop
@@ -957,6 +962,7 @@ ent-10gin.info
 enta.baxterbatting.com
 enta.karmashilohs.com
 entreestradasedestinos.com.br
+entvrzk.bond
 enwus.com
 epic-sale.top
 epicos.co.in
@@ -1135,6 +1141,7 @@ gls-group.22522.website
 gls-group.389154.com
 gls-group.389159.com
 gls-group.4093039.info
+gls-group.411818.click
 gls-group.421021.info
 gls-group.485729934.cfd
 gls-group.491021.si
@@ -1625,6 +1632,7 @@ hse-energy.info
 hse-helpcenter.com
 hse-info-help.com
 hse-si.com
+hse-sl.com
 hse-uradni-portal.site
 hsfreshsystem.online
 https-otpbanka-si.issl.im
@@ -2107,6 +2115,7 @@ netnkbminotp.com
 netotpinkbm.com
 netotpinskb.net
 netskbinotp.com
+neuermann.com
 neva.solutions
 newglobal.cl
 newglsgroup.top
@@ -2608,6 +2617,7 @@ postbfirst.info
 poste-sis.xyz
 posteav.top
 postexpress.tracksafe228.shop
+postisv.com
 postmgmd.icu
 postni-si.top
 postnordf.cfd
@@ -3153,6 +3163,7 @@ vesticular.info
 vetoemvit.eu
 vf5cnp9ms91y36dx.autoteile-andreasrixner.info
 vhyvcisrwb.mvwooddesigners.pe
+vi-hitclub.com
 viajesencruceros.grandtours.com.pa
 vibenexusit.ru
 view.bbsv4.net
