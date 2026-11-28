@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2026-11-27 07:48:42 UTC
+# Updated: 2026-11-28 07:17:29 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -256,6 +256,7 @@ arena.atlantislinks.com
 arhstroyproect.store
 ariani.es
 arnes.alecallen.com
+arnes.test122355.test-account.com
 arnes.webmail.net.co
 arrivalonhold.com
 arrivalsupdate.com
